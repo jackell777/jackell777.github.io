@@ -1,2 +1,27 @@
-12354
-152122222
+CCTV6,P2p://ns3.hellotvvod.com:9906/69dd314fdc6a47378f36be9d3702003a
+天映频道,P2p://ns3.hellotvvod.com:9906/92310fe8cb28453e9805de7dfe32400b
+天映经典,P2p://ns3.hellotvvod.com:9906/d8198bc183294db4a14952a4c16f0595
+tvN Movies HD,P2p://ns3.hellotvvod.com:9906/8d09c6e2493643ebb3c2f0fba8867191
+HKC电影台,P2p://ns3.hellotvvod.com:9906/772f3c92423b4c1f904c1c1c829ca048
+凤凰电影台,P2p://ns3.hellotvvod.com:9906/f156bda18fde42dfb0f008f27e5995a9
+卫视电影台,P2p://ns3.hellotvvod.com:9906/7d4efaa7fc2d4ae0904ba06272b0772f
+东森电影台,P2p://ns3.hellotvvod.com:9906/b6b572a664034c4cacfc10d360f5af1e
+纬来电影台,P2p://ns3.hellotvvod.com:9906/8e4acef3297a4758803242302e1503d0
+龙祥电影,P2p://ns3.hellotvvod.com:9906/d7ceae43bc4944fdba0096c27616430e
+HBO,P2p://ns3.hellotvvod.com:9906/2643f0c6ecb14726b29a13bb429e7cf9
+东森洋片台,P2p://ns3.hellotvvod.com:9906/af71f1afc918483a9c5234ddf369ca78
+AXN,P2p://ns3.hellotvvod.com:9906/efee4e426f7a4a2fb558a17670273863
+好莱坞电影台,P2p://ns3.hellotvvod.com:9906/dbf93e629a014cf5811d4cde25e7bc83
+CINEMAX,P2p://ns3.hellotvvod.com:9906/616eb32df57f4c308ab9c723d92a2329
+纬来育乐台,P2p://ns3.hellotvvod.com:9906/05fcb7d25f2c437ebe3a800429b13343
+HBO强档巨献,P2p://ns3.hellotvvod.com:9906/7f7021f3991e49d59b68916f6c3b5e42
+HBO原创巨献,P2p://ns3.hellotvvod.com:9906/dba32397753c4221b48e7d8f1a7c556e
+美亚电影台HD,P2p://ns3.hellotvvod.com:9906/5272613d38444987906662ac99620af2
+龙华电影,P2p://ns3.hellotvvod.com:9906/891ced08bd194004acb930a5dde2b89c
+星卫HD电影台,P2p://ns3.hellotvvod.com:9906/b9a5848b9bcc4e798706e2d8d6761cd5
+靖天映画,P2p://ns3.hellotvvod.com:9906/ca622daac4684005a04f6831141d91eb
+靖天电影台,P2p://ns3.hellotvvod.com:9906/3a98cee122124b1b9c9db9faf797c3b3
+WARNER TV,P2p://ns3.hellotvvod.com:9906/27c0133e0def485aa0b4463293a0c3d9
+Star Movies HD,P2p://ns3.hellotvvod.com:9906/72494840b45d46f19606e1ea845f7418
+AMC最爱电影,P2p://ns3.hellotvvod.com:9906/42bd44c493224db9ba73cc87e4091348
+HBO Family,P2p://ns3.hellotvvod.com:9906/6b45fabd1580403a82193d7f824c1994
