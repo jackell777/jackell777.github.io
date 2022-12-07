@@ -508,8 +508,6 @@ Eleven Sports 3,http://cineapp.org:8000/Fernando/Fernando/7453
 爱尔达体育2,rtmp://59.124.75.147/sat/md051
 爱尔达体育2,rtmp://59.124.75.138/sat/md021
 爱尔达体育2,rtmp://59.124.75.150/sat/md021
-爱尔达体育3,rtmp://59.124.75.147/sat/md061
-爱尔达体育3,rtmp://9wv7.mine.nu/sat/md061
 博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯运动1,rtmp://9wv7.mine.nu/sat/md011
 博斯运动1,rtmp://59.124.75.147/sat/md011
