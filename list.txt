@@ -66,7 +66,7 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡商業,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
+非凡商业台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 全球財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
 点掌+财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
@@ -78,8 +78,8 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-CNN头条新闻台,http://red.ipfox.org:8080/osama2022/osama2023/49062
 CNN头条新闻台,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN头条新闻台,http://red.ipfox.org:8080/osama2022/osama2023/49062
 now直播台,https://api.leonardpark.dev/live/now/331
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
@@ -196,9 +196,9 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 东森戏剧,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 东森超视,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 东森超视,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-momo综合,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
-momo综合,rtmp://59.124.75.147/sat/tv761
-momo综合,rtmp://9wv7.mine.nu/sat/tv761
+MOMO综合,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
+MOMO综合,rtmp://59.124.75.147/sat/tv761
+MOMO综合,rtmp://9wv7.mine.nu/sat/tv761
 东风卫视,http://60.251.33.252:18560/.m3u8
 东风卫视,http://123.51.229.65:18560/.m3u8
 东风卫视,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
@@ -293,12 +293,12 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
-東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-東森購物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+东森购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+东森购物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 momo購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-VIVA1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+viva1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 國會頻道1,https://epg.pm/stream/ac28c5b054a2924997cefb50241a322b5fe104ae785a1296dfe3564920ddbf6e.m3u8
 國會頻道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
@@ -338,9 +338,9 @@ VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 卫视电影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://220.134.196.147:9549/index.m3u8
 卫视电影台,http://23.237.10.66:16010
-StarMoviesHD,http://220.134.196.147:9560/index.m3u8
-StarMoviesHD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-影迷数位电影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+Star Movies HD,http://220.134.196.147:9560/index.m3u8
+Star Movies HD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 采昌影剧,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
