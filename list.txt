@@ -540,6 +540,8 @@ Eleven Sports 3,http://cineapp.org:8000/Fernando/Fernando/7453
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
 广东体育,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+BT Sports 1,http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
+BT Sports 2,http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 ESPN,http://51.79.82.208:16417
 ESPN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42909
 ESPN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9660
