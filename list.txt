@@ -398,6 +398,7 @@ CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8
 CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 长城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 爱尔达影剧,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
@@ -407,7 +408,7 @@ CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 電影頻道,http://www.372583307.top:4022/udp/233.50.201.228:5140
 斗鱼电影01,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=1ea1a300d226ec1067c82df37a1e6ef5&token=cpn-androidmpro-0-3637778-8c089871434b93445163ba4dfd3714568979c1778d2e14df&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-斗鱼电影02,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=ddfbd201b5741fdacd2550f5670f2661&token=cpn-androidmpro-0-3637726-a97a3241d7613834292a374c9c330ac7a1d9980349e6751e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影02,http://epg.112114.xyz/douyu/6566671
 斗鱼电影03,http://epg.112114.xyz/douyu/413573
 斗鱼电影04,http://diyp.112114.xyz/douyu/2793084
 斗鱼电影05,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -426,6 +427,15 @@ CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 斗鱼电影18,http://diyp.112114.xyz/douyu/434971
 斗鱼电影19,http://diyp.112114.xyz/douyu/74374
 斗鱼电影20,http://diyp.112114.xyz/douyu/4870914
+斗鱼电影21,http://epg.112114.xyz/douyu/122402
+斗鱼电影22,http://diyp.112114.xyz/douyu/96577
+斗鱼电影23,http://epg.112114.xyz/douyu/248753
+斗鱼电影24,http://epg.112114.xyz/douyu/747764
+斗鱼电影25,http://diyp.112114.xyz/douyu/2436390
+斗鱼电影26,http://epg.112114.xyz/douyu/5033502
+斗鱼电影27,http://epg.112114.xyz/douyu/431460
+斗鱼电影28,http://epg.112114.xyz/douyu/4246519
+斗鱼电影29,http://epg.112114.xyz/douyu/4549169
 斗鱼恐怖电影,http://epg.112114.xyz/douyu/263824
 經典恐怖电影,http://epg.112114.xyz/douyu/1165374
 動作影院,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
