@@ -604,7 +604,6 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖洋卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 佩佩豬卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-POLAR BEARS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 幼兒動畫歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 幼兒動畫歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
@@ -615,7 +614,6 @@ POLAR BEARS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 嘉佳卡通,http://23.237.10.66:16662
 嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
 嘉佳卡通,http://111.20.33.103/TVOD/88888893/224/3221226227/index.m3u8?blog.ntnas.top
-IPTV淘BABY,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
 BabyTV,http://218.32.47.179:18514/.m3u8
 BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8
@@ -626,11 +624,9 @@ BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C689275926892759
 名偵探柯南,http://epg.112114.xyz/douyu/5377297
 名偵探柯南劇場版,http://epg.112114.xyz/douyu/1783144
 海賊王劇場版,http://epg.112114.xyz/douyu/997925
-蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
 喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 中華小當家,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
 哆啦A夢,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
-櫻桃小丸子,http://zzy789.xyz/bili.php?id=22034682
 港澳地區,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
 翡翠台,http://23.237.10.66:16106
