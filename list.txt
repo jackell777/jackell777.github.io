@@ -682,3 +682,6 @@ ViuTVsix,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993
 澳视体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
+4K節目,#genre#
+Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
