@@ -426,7 +426,7 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 斗鱼电影17,http://epg.112114.xyz/douyu/315457
 斗鱼电影18,http://diyp.112114.xyz/douyu/434971
 斗鱼电影19,http://diyp.112114.xyz/douyu/74374
-斗鱼电影20,http://diyp.112114.xyz/douyu/4870914
+斗鱼电影20,http://epg.112114.xyz/douyu/3928
 斗鱼电影21,http://epg.112114.xyz/douyu/122402
 斗鱼电影22,http://diyp.112114.xyz/douyu/96577
 斗鱼电影23,http://epg.112114.xyz/douyu/248753
@@ -439,7 +439,6 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 斗鱼电影30,http://epg.112114.xyz/douyu/85894
 斗鱼电影31,http://epg.112114.xyz/douyu/6079455
 斗鱼电影32,http://epg.112114.xyz/douyu/508118
-斗鱼电影33,http://epg.112114.xyz/douyu/3928
 斗鱼恐怖电影1,http://epg.112114.xyz/douyu/263824
 斗鱼恐怖电影2,http://epg.112114.xyz/douyu/9275635
 經典恐怖电影,http://epg.112114.xyz/douyu/1165374
