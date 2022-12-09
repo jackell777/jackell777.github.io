@@ -34,8 +34,8 @@ TVBS,https://git.io/JgYl2
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立INEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+年代新闻,http://220.134.196.147:9544/index.m3u8
 年代新闻,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新闻,http://220.134.196.147:9501/index.m3u8
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
@@ -236,6 +236,7 @@ EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+霹雳台湾台,http://220.134.196.147:9501/index.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民频道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
