@@ -718,9 +718,3 @@ CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts?FIFA世界杯WorldCup
 測試頻道,#genre#
-CNN,mitv://ns1.hellotvvod.com:9906/fd25a5977b3048bd99e459edc84af781
-民视,mitv://ns1.hellotvvod.com:9906/1e46106828ad4d4baf76e49245f74602
-人间卫视,mitv://ns1.hellotvvod.com:9906/a93a3bab9ae84822adc93008ebc3b924
-台视,mitv://ns1.hellotvvod.com:9906/daf09c6a770e471c9e10da8afd6a49a4
-大爱,mitv://ns1.hellotvvod.com:9906/db1233cb56d245629ffa78452bbe48d1
-中视,mitv://ns1.hellotvvod.com:9906/864eb72f3c414bc2ac6dd82432840d66
