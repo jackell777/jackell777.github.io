@@ -718,3 +718,37 @@ CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts?FIFA世界杯WorldCup
 測試頻道,#genre#
+国家地理频道,mitv://ns2.hellotvvod.com:9906/acdd079c6a994c0083af74379b261bcb
+国家地理野生频道,mitv://ns2.hellotvvod.com:9906/70fe18e2c8b541ecad961c6311d61f71
+动物星球,mitv://ns2.hellotvvod.com:9906/3ed5d7b9949e4690a68647ac726c0b49
+DMAX,mitv://ns2.hellotvvod.com:9906/cf3b563dee5945f4843e1b61579d9891
+DMAX,mitv://ns2.hellotvvod.com:9906/cf3b563dee5945f4843e1b61579d9891
+DiscoveryAsia,mitv://ns2.hellotvvod.com:9906/19e384bbda52450cbe60c277a8aa2822
+Discovery科学,mitv://ns2.hellotvvod.com:9906/79dea079b23b4cbebb4f6befec9d9aeb
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/cff505a0193d4a3a82a25f799db92240
+Love Nature,mitv://ns2.hellotvvod.com:9906/f2b6d9b2b46349c7b079e7477162b89f
+Outdoor,mitv://ns2.hellotvvod.com:9906/33defebeebfa45588b480ca4da74f9ff
+History,mitv://ns2.hellotvvod.com:9906/1fd2b1624f754c5496259dc595d5e496
+CI,mitv://ns2.hellotvvod.com:9906/8dd11933b8f84a9ca3659acb71f60308
+历史频道,mitv://ns2.hellotvvod.com:9906/f4f327ac1b6b43859c8f6f2ef70c1bdc
+BBCEarth,mitv://ns2.hellotvvod.com:9906/5d84f634c64847d49b8e16608be6b079
+CCTV9,mitv://ns2.hellotvvod.com:9906/2ae8a40044894be59728fd5661ef53d4
+亚洲美食频道,mitv://ns2.hellotvvod.com:9906/8abbfcc140f44a478ac5789e4011da5e
+亚洲旅游台,mitv://ns2.hellotvvod.com:9906/84545b02d0eb405fa3c4054642a53eaf
+时尚频道,mitv://ns2.hellotvvod.com:9906/09ff822d9bae45d7877100d0aa824c93
+美食星球,mitv://ns2.hellotvvod.com:9906/e409a16c4b89403194c37bcdd62bd31c
+达文西频道,mitv://ns2.hellotvvod.com:9906/6322e028d95549ce8883c45eb2ed9d49
+TV5Monde,mitv://ns2.hellotvvod.com:9906/ff6f0baf09664af5a0f12cbf170d7611
+TV5MONDE Style 生活时尚,mitv://ns2.hellotvvod.com:9906/54c1e85784424a5aa65b06cb1f48326c
+亚洲旅游台,mitv://ns2.hellotvvod.com:9906/84545b02d0eb405fa3c4054642a53eaf
+TLC旅游生活频道,mitv://ns2.hellotvvod.com:9906/5d84f634c64847d49b8e16608be6b079
+LUXETV,mitv://ns2.hellotvvod.com:9906/66757f14c47f4bb58249aefb7a772f33
+Lifetime,mitv://ns2.hellotvvod.com:9906/a4734f14691f4764b4ce7c93ae311f7b
+KLT-靖天国际台,mitv://ns2.hellotvvod.com:9906/aa92f8602eb04117be37d1cffbd35fc9
+HGTV居家乐活频道,mitv://ns2.hellotvvod.com:9906/09989789905a4b4b8d8a060e701e28fa
+Food Network,mitv://ns2.hellotvvod.com:9906/a5a1fdd9bec1424b88f9bab87b2e5306
+EYE旅游,mitv://ns2.hellotvvod.com:9906/3067daf296104a2099d47f4385d10d49
+EVE,mitv://ns2.hellotvvod.com:9906/baa46551366d41e087c4dfd7544b2d20
+Ettoday,mitv://ns2.hellotvvod.com:9906/2aa91d5429e74afb995a55aa55abdc1a
+ELTV,mitv://ns2.hellotvvod.com:9906/3a0152b0d9a5455a9f7c15c8972ffc08
+BBCLifestyle,mitv://ns2.hellotvvod.com:9906/d98cded6e81544f49e033c321df276b6
