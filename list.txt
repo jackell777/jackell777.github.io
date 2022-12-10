@@ -713,3 +713,28 @@ CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 4K電影,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts?FIFA世界杯WorldCup
+測試頻道,#genre#
+CCTV-6電影,http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
+CCTV-7國防軍事,http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
+CCTV女性時尚,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV文化精品,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+CCTV世界地理,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV央視文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
+CCTV央視檯球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
+CCTV兵器科技,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV風雲足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+CCTV風雲足球,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012514203.m3u8
+CCTV風雲足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+CCTV風雲足球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV風雲音樂,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+CCTV風雲音樂,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV風雲劇場,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
+CCTV風雲劇場,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
+CCTV風雲劇場,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV高爾夫網球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV第一劇場,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV電視指南,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV衛生健康,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV懷舊劇場,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8
