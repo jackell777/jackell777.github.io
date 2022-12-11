@@ -290,8 +290,6 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 長城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-Astro AEC,http://23.237.10.66:16495
-八度空間,http://51.79.82.208:16005
 星空卫视,http://120.84.96.161:808/hls/79/index.m3u8
 星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
 星空卫视,http://120.84.96.69:808/hls/79/index.m3u8
