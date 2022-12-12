@@ -147,8 +147,8 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戏剧台,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
 三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-三立台湾台,http://220.134.196.147:9523/index.m3u8
 三立台湾台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立台湾台,http://220.134.196.147:9523/index.m3u8
 三立台湾台,http://218.32.47.179:18521/.m3u8
 三立台湾台,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 八大第一台,http://123.51.229.65:18539/.m3u8
