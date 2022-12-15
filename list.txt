@@ -165,6 +165,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 八大戏剧台,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大戏剧台,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大精采台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+八大优频道,P2p://generationnexxxt.com:9906/4b254e3208484a76a7d4cb5f51df35a3
 纬来日本台,http://220.134.196.147:9537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 纬来日本台,http://60.251.59.180:8513/.m3u8
 纬来日本台,rtmp://9wv7.mine.nu/sat/tv771
@@ -177,6 +178,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来育乐台,http://123.51.229.65:18541/.m3u8
 纬来育乐台,http://218.32.47.179:18562/.m3u8
 纬来育乐台,http://60.251.33.252:18541/.m3u8
+纬来精采,P2p://generationnexxxt.com:9906/b81fa3717e7e4d859035446118fcb818
 龙华戏剧,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龙华戏剧,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
 龙华戏剧,http://60.251.33.252:18513/.m3u8
@@ -193,6 +195,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 东森综合台,http://218.32.47.179:18524/.m3u8
 东森综合台,http://220.134.196.147:9553/index.m3u8
 东森综合台,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+ETtoday综合台,P2p://generationnexxxt.com:9906/afca3415544e46b491bb27623065e563
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森戏剧,http://60.251.33.252:18538/.m3u8
 东森戏剧,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
@@ -233,7 +236,9 @@ EYETV戏剧台,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686
 EYETV戏剧台,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 EYE旅游,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+壹电视综合,P2p://generationnexxxt.com:9906/a0217c6b536f4bec930ad963b9e45227
 视納华仁,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+WARNER TV,P2p://generationnexxxt.com:9906/96a5352f8ed042bbbef54acd9223aba6
 时尚频道,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
@@ -380,6 +385,7 @@ Thrill,mitv://generationnexxxt.com:9906/9cb1055b5b8f4512a94401f22e848884
 WARNER TV,P2p://generationnexxxt.com:9906/96a5352f8ed042bbbef54acd9223aba6
 Star Movies HD,P2p://generationnexxxt.com:9906/32acba01da4e4fae8dfc7c543becb40b
 AMC最愛電影,P2p://generationnexxxt.com:9906/296bfad47d7a478eb65d9f09a7cbb590
+壹电视电影台,P2p://generationnexxxt.com:9906/b0a71c0806794b91920ebc4d92b387df
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -526,6 +532,7 @@ Eleven Sports 3,http://cineapp.org:8000/Fernando/Fernando/7453
 爱尔达体育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 爱尔达体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 爱尔达体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+爱尔达体育3,P2p://generationnexxxt.com:9906/23df327eab3c4ae2baf75251b7104512
 博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 博斯运动2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
@@ -537,6 +544,9 @@ Eleven Sports 3,http://cineapp.org:8000/Fernando/Fernando/7453
 博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+博斯无限台,P2p://generationnexxxt.com:9906/81307e12da9f46c986560c133a2655d3
+博斯无限二台,P2p://generationnexxxt.com:9906/3765ec18172046eab2d98e1c79741e91
+博斯魅力网,P2p://generationnexxxt.com:9906/d45f5e1669784f79bb08f9138fa15dd2
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
@@ -600,6 +610,9 @@ Discovery Asia,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA44
 Discovery Asia,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 Discovery科学,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 Discovery科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+DMAX,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+罪案侦缉频道,P2p://generationnexxxt.com:9906/8a4f9f7d42e448f2b841412d3b365649
 国家地理频道(台湾),http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 国家地理频道(台湾),http://220.134.196.147:9569/index.m3u8
 国家地理,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
@@ -611,6 +624,7 @@ Discovery科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599
 动物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 动物星球,http://220.134.196.147:9566/index.m3u8
 动物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+滚动力rollor,P2p://generationnexxxt.com:9906/0fb267b60dbb4c4381f031826d05cc5d
 求索纪录,http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索纪录,http://111.11.123.33:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索纪录,http://111.11.123.36:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
@@ -627,15 +641,16 @@ Discovery科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 幸福空间居家台,https://git.io/JgYYF
 幸福空间居家台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+亚洲美食频道,P2p://generationnexxxt.com:9906/c2d7c830e87441868dd65b0c0ed2f9d6
 亚洲旅游台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亚洲旅游台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-DMAX,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+MOMO亲子台,P2p://generationnexxxt.com:9906/4c18145de8c646a4a0c4e3643df7d77a
 东森幼幼台,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 东森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 东森幼幼,https://git.io/JgYON
 东森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 ANIMAX,http://220.134.196.147:9517/http/116.50.42.18:8088/index.m3u8
+i-Fun动漫台,P2p://generationnexxxt.com:9906/5f97fdf08f2c42409e7e815f1ccae2a2
 CN卡通频道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 CN卡通频道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 astro小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
