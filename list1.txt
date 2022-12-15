@@ -33,18 +33,6 @@ TVBS欢乐台,P2p://generationnexxxt.com:9906/f2725ba610db4f71900a307c5bb82776
 纬来戏剧台,P2p://generationnexxxt.com:9906/4c9f483356574f108069565367d94cd6
 高点综合台,P2p://generationnexxxt.com:9906/2e73c9549521465f9c6b44bfe9930eb8
 BBC World News,P2p://generationnexxxt.com:9906/388e8d2066314f408868cc74d09d6c0f
-
-敶抵葤e�蝱,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
-敶抵葤�㩞敶勗蝱,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
-LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-瞏䀹𨑳�襥�焵蝢𤾸蝱,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
-�𡃏���𣂷犖�㩞敶勗蝱,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-�𠹭閫�1�蝱,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
-�𠹭閫�2�蝱,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
-擐躰�匧蝱,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
-�𠹭閫�3�蝱,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
-JStar����𣂼蝱,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54 HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
 Al Jazeera English,P2p://generationnexxxt.com:9906/d92ead5faae24a49889577bed421a689
 CNBC,P2p://generationnexxxt.com:9906/96ab7c83bc9145fdac6369c68d652d61
 Bloomberg TV,P2p://generationnexxxt.com:9906/58ba2b455e174959b2790ed73b5d7ae8
@@ -359,16 +347,16 @@ beIN Sports 2,P2p://generationnexxxt.com:9906/4c9bc52b81ea4c0cadaa4bc2f63a51b9
 FWC 1,P2p://generationnexxxt.com:9906/5c72a39b0c3348edaae83de89c313194
 FWC 2,P2p://generationnexxxt.com:9906/bbb30750d5bc478285ae02fabeb4f8a4
 18+頻道,#genre#
-敶抵葤e�蝱,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
-敶抵葤�㩞敶勗蝱,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+彩虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
 LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-瞏䀹𨑳�襥�焵蝢𤾸蝱,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
-�𡃏���𣂷犖�㩞敶勗蝱,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-�𠹭閫�1�蝱,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
-�𠹭閫�2�蝱,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
 PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
-擐躰�匧蝱,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
-�𠹭閫�3�蝱,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
-JStar����𣂼蝱,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
+香蕉台,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
+J Star,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
 HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
 K,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
