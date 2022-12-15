@@ -734,7 +734,7 @@ CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 4K電影,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts?FIFA世界杯WorldCup
-央視頻道,#genre#
+各省衛視,#genre#
 CCTV-1,http://124.220.17.172/as.php?id=1
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2,http://124.220.17.172/as.php?id=2
@@ -768,7 +768,6 @@ CCTV-15,http://124.220.17.172/as.php?id=15
 CCTV-16,http://124.220.17.172/as.php?id=16
 CCTV-17,http://124.220.17.172/as.php?id=17
 CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-各省衛視,#genre#
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
@@ -801,3 +800,17 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 宁夏卫视,http://124.220.17.172/as.php?id=44
 新疆卫视,http://124.220.17.172/as.php?id=46
 西藏卫视,http://124.220.17.172/as.php?id=47
+18+頻道,#genre#
+彩虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
+PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
+香蕉台,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
+J Star,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
+HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
+K,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
