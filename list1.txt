@@ -1,15 +1,3 @@
-測試頻道,#genre#
-瞉喃�噼�𥡝��,tvbus://82K91RKQeBKN5HH4vjPmSzGUHdsvcTnMtLWR2gHrXcTFZ5kJwC
-瞉喲�銵𥡝��,tvbus://8BJBkC5TsYJt2jnHAc8evYrvrcBSPPUeGiKx8RH3UxAL8kAEaH
-NOW �鰵�鉟,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM
-NOW�凒�偘,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
-瞉唾�㚚�䀹�,tvbus://4d8TUmFr4VUd2yF6hV7fWQCDpXSAReYiZLbgiP2P6HtgW6jeqa
-�𤤿��𥪜蔣���蝱,tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
-�𤤿��𠉛�𨅯��蝱,tvbus://5TZyPk4BU14TfGgyVjqjFvhyWYmk5e4PqaxvYVtrq252qsiDv48a2zCPdNgdF
-銝剛�𣇉�枏�詨蝱,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
-銝剛�𤥁����蝱,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
-CNN_��钅��,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
-瘞𤏸��,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd 
 台灣頻道,#genre#
 CNN,P2p://generationnexxxt.com:9906/5b53800e91424525a133e5de1c24854a
 民视,P2p://generationnexxxt.com:9906/94c3363bf0b541d39b60798079821a0e
