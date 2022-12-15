@@ -345,6 +345,7 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 卫视电影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://220.134.196.147:9549/index.m3u8
 卫视电影台,http://23.237.10.66:16010
+Star Movies HD,P2p://generationnexxxt.com:9906/32acba01da4e4fae8dfc7c543becb40b
 Star Movies Gold,http://220.134.196.147:9560/index.m3u8
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
@@ -383,7 +384,6 @@ Thrill,mitv://generationnexxxt.com:9906/9cb1055b5b8f4512a94401f22e848884
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 天映频道,http://51.79.82.208:16024
 WARNER TV,P2p://generationnexxxt.com:9906/96a5352f8ed042bbbef54acd9223aba6
-Star Movies HD,P2p://generationnexxxt.com:9906/32acba01da4e4fae8dfc7c543becb40b
 AMC最愛電影,P2p://generationnexxxt.com:9906/296bfad47d7a478eb65d9f09a7cbb590
 壹电视电影台,P2p://generationnexxxt.com:9906/b0a71c0806794b91920ebc4d92b387df
 AXN,http://218.32.47.179:18558/.m3u8
