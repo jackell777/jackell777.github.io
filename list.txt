@@ -377,6 +377,9 @@ Thrill,mitv://generationnexxxt.com:9906/9cb1055b5b8f4512a94401f22e848884
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 天映频道,http://51.79.82.208:16024
+WARNER TV,P2p://generationnexxxt.com:9906/96a5352f8ed042bbbef54acd9223aba6
+Star Movies HD,P2p://generationnexxxt.com:9906/32acba01da4e4fae8dfc7c543becb40b
+AMC最愛電影,P2p://generationnexxxt.com:9906/296bfad47d7a478eb65d9f09a7cbb590
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
