@@ -668,6 +668,8 @@ BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C689275926892759
 翡翠台,http://113.64.147.20:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.69:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.82:808/hls/67/index.m3u8
+香港開(HOY)電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港開(HOY)電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线直播新闻台,https://api.leonardpark.dev/live/icable/110
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
