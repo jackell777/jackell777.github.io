@@ -371,7 +371,6 @@ CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/pla
 天映经典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b
 天映经典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 天映经典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
-天映频道,mitv://generationnexxxt.com:9906/5b7e9d407574406ebe134c338bc4bea1
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 天映频道,http://51.79.82.208:16024
