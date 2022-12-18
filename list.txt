@@ -5,8 +5,8 @@
 台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=2
 中视新闻,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
@@ -25,6 +25,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS,http://103.214.71.71:1662/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS,https://git.io/JgYl2
 三立新闻台,http://60.251.59.180:8506/ch18.m3u8
@@ -34,8 +35,8 @@ TVBS,https://git.io/JgYl2
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立INEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-年代新闻,http://220.134.196.147:9544/index.m3u8
 年代新闻,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新闻,http://220.134.196.147:9544/index.m3u8
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
@@ -44,6 +45,7 @@ TVBS,https://git.io/JgYl2
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+东森LIVE,http://103.214.71.71:1671/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
 东森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 东森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 东森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
@@ -64,7 +66,7 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-非凡新闻台,http://220.134.196.147:9533/index.m3u8
+非凡新闻台,http://220.134.196.147:9506/index.m3u8
 非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡商业台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
@@ -779,17 +781,3 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 宁夏卫视,http://124.220.17.172/as.php?id=44
 新疆卫视,http://124.220.17.172/as.php?id=46
 西藏卫视,http://124.220.17.172/as.php?id=47
-18+頻道,#genre#
-彩虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
-彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
-LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
-驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
-松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
-松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
-PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
-香蕉台,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
-J Star,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
-HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
