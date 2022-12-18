@@ -550,8 +550,8 @@ ESPN,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
 ESPN2,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216
 ESPN3,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061325
 ESPN EXTRA,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044494
-智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
