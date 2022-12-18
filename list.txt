@@ -507,9 +507,9 @@ CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 纬来体育台,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 纬来体育台,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 纬来体育台,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+Eleven Sports 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 Eleven Sports 1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 Eleven Sports 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-Eleven Sports 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 Eleven Sports 1,rtmp://9wv7.mine.nu/sat/tv731
 Eleven Sports 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 Eleven Sports 2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
@@ -527,8 +527,8 @@ Eleven Sports 3,http://cineapp.org:8000/Fernando/Fernando/7453
 博斯运动2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯运动2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
 博斯网球台,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
@@ -539,20 +539,8 @@ CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 CCTV风云足球,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012514203.m3u8
 CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 CCTV风云足球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8?blog.ntnas.top
-五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8?blog.ntnas.top
-五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-五星体育,http://112.25.48.70/live/program/live/ssty/4000000/mnf.m3u8
-咪咕体育,http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
-咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-咪咕体育,http://111.13.42.231/PLTV/88888888/224/3221226397/1.m3u8
-超級体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-超級体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-超級体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
-超級体育,http://39.134.115.221:8080/PLTV/88888910/224/3221225622/index.m3u8
-超級体育,http://39.134.115.221:8080/PLTV/88888910/224/3221225648/index.m3u8
-广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+TRACE SPORTS,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 BT Sports 1,http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
 BT Sports 2,http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 Sky Sports Arena,http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
@@ -566,20 +554,27 @@ ESPN EXTRA,http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044494
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 NBA TV,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/30855
 NBA TV,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8246
-EDGE sport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-EDGE sport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-EDGE sport,https://edgesports-plex.amagi.tv/playlist.m3u8
-EDGE sport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+EDGEsport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Eurosport 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/141/index.m3u8
-Eurosport 1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
-Eurosport 1,https://epg.pm/stream/3b52c6f7610016542cc750ec1a50509ebbc8d036cfca273f0d7739772091a3f1.m3u8
-Eurosport 2,http://red.ipfox.org:8080/osama2022/osama2023/47374
+Eurosport1,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+Eurosport2,https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 FIGHT SPORTS,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
+日-女子摔跤,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
 RAW摔角,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
 SD摔角,http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.flv?wsSecret=0a935a3c5d9bcd1c18fb36c44284c7a9&wsTime=6283a6ba&u=0&seqid=16527086663696960&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
@@ -710,6 +705,8 @@ ViuTVsix,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 4K頻道,#genre#
+咪咕體育-4K,http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8
+Astro Super Sport 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 4K電影,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
