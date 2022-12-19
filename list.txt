@@ -294,6 +294,7 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 長城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+星空卫视,https://epg.pm/stream/661fc5f7034d883e23dfa5fea18cb6cc8d77c504215ae3e6ea8d46784253dd9a.ctv
 星空卫视,http://120.84.96.161:808/hls/79/index.m3u8
 星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
 星空卫视,http://120.84.96.69:808/hls/79/index.m3u8
@@ -692,6 +693,7 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 ViuTVsix,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+香港卫视,https://epg.pm/stream/e0afdd416417a2d5858c425e56a24fd3fe1474c62fec14121fa4057ad3f1103e.ctv
 香港卫视,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
