@@ -35,6 +35,7 @@ TVBS,https://git.io/JgYl2
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立INEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+三立財經,https://epg.pm/stream/1db853fc0b9ca674b89b6acf98b01e6bbdb63fdf99ffaae26345973cc425a4d4.m3u8
 年代新闻,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新闻,http://220.134.196.147:9544/index.m3u8
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
@@ -86,6 +87,8 @@ CNN头条新闻台,http://red.ipfox.org:8080/osama2022/osama2023/49062
 now直播台,https://api.leonardpark.dev/live/now/331
 now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+國會頻道1,https://epg.pm/stream/dd490a22240a449cf19a7b906c5a7d6b31443e63920c0a76c7f828ab859a1a41.m3u8
+國會頻道2,https://epg.pm/stream/061d6332489862cca96ded395987bda6be0c8fdd5764d789c26709e69ec4cf6b.m3u8
 綜藝頻道,#genre#
 台视,http://23.237.10.66:16344
 台视,http://60.251.33.252:18543/.m3u8
@@ -236,6 +239,7 @@ EYE旅游,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608
 EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 视納华仁,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
 时尚频道,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+Astro双星,https://epg.pm/stream/8fd7df7e25757a82538315a3c9ce02d7f6802893d22422d598cca2764cafc8b2.m3u8
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
@@ -304,8 +308,6 @@ momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 viva1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-國會頻道1,https://epg.pm/stream/ac28c5b054a2924997cefb50241a322b5fe104ae785a1296dfe3564920ddbf6e.m3u8
-國會頻道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 電影頻道,#genre#
 东森电影台,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 东森电影台,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
@@ -454,9 +456,9 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 經典恐怖电影,http://epg.112114.xyz/douyu/1165374
 動作影院,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
 华語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
-1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+1905电影,https://epg.pm/stream/b3021464ac49101cfe9b3d04bd430f7d3096a77350edf6f2d608ede8faaaab5d.m3u8
 CBN每日影院,http://home.ddx2013.cc:4022/rtp/239.93.4.250:8808
-CBN每日影院,https://epg.pm/stream/fc0e3a9adbef8e46666fa968e87f81affb65c12970ab5e683700ddcaf403c7b3.m3u8
+CBN每日影院,https://epg.pm/stream/6ee09c78bb96e13bdbfbfdadb88263f5e74b799189259da40a6ebf50022f6b03.ctv
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
 北京IPTV淘电影,https://epg.pm/stream/8857ae19129490c1bcadcdc8c1aa75f2e9400f0d995bb1e974db693fbdb47e30.m3u8
 北京IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
