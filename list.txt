@@ -406,11 +406,15 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 卫视电影台,http://23.237.10.66:16010
 Star Movies HD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 Star Movies HD,http://220.134.196.147:9560/index.m3u8
-数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+影迷数位电影台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv011&hd=720
+amc最爱电影,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv017&hd=720
 采昌影剧,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+靖天电影台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv061&hd=720
 CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+龙华电影,http://8.218.60.13:8080/channel.m3u8?fid=litv-longturn03&hd=720
 龙华电影,http://218.32.47.179:18556/.m3u8
 龙华电影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 龙华电影,http://220.134.196.147:9514/index.m3u8
