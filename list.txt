@@ -96,50 +96,36 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 台视综合台,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-中视,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv040&hd=720
 中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 中视菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-中视菁采台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv064&hd=720
 中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
-中视经典,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv080&hd=720
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 华视,http://218.32.47.179:18503/.m3u8
 华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
-华视,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv041&hd=720
 华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 华视綜合娛樂,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-民视,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv002&hd=720
 民视,http://23.237.10.66:16334
 民视,http://220.134.196.147:9574/ch49.m3u8
 民视,http://23.237.10.66:16334
 民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-民视第一台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv003&hd=720
 民视第一台,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 民视第一台,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
 民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
-民视台湾台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv001&hd=720
 民视台湾台,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民视台湾台,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视影剧台,http://8.218.60.13:8080/channel.m3u8?fid=litv-ftv09&hd=720
 民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-民视综艺台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv004&hd=720
-民视旅游台,http://8.218.60.13:8080/channel.m3u8?fid=litv-ftv07&hd=720
 猪哥亮歌厅秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
-猪哥亮歌厅秀,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv006&hd=720
-中天全民最大党,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live076&hd=720
 公视,http://218.32.47.179:18505/.m3u8
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-公视戏剧,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv042&hd=720
-中天综合台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live033&hd=720
 中天综合台,http://218.32.47.179:18526/.m3u8
 中天综合台,http://23.237.10.66:16372
 中天综合台,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
@@ -152,21 +138,16 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 中天亚洲台,http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-中天美食旅游,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live123&hd=720
-TVBS,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv073&hd=720
 TVBS,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
-TVBS精采台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live086&hd=720
 TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-TVBS欢乐台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv068&hd=720
 TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS欢乐台,rtmp://9wv7.mine.nu/sat/tv421
 TVBS欢乐台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-三立综合台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live207&hd=720
 三立综合台,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立戏剧台,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
 三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
@@ -180,7 +161,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大综合台,http://218.32.47.179:18520/.m3u8
 八大综合台,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-八大综合台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv039&hd=720
 八大综合台,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大综合台,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大戏剧台,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
@@ -203,7 +183,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来育乐台,http://123.51.229.65:18541/.m3u8
 纬来育乐台,http://60.251.33.252:18541/.m3u8
 龙华戏剧,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龙华戏剧,http://8.218.60.13:8080/channel.m3u8?fid=litv-longturn18&hd=720
 龙华戏剧,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
 龙华戏剧,http://60.251.33.252:18513/.m3u8
 龙华戏剧,http://123.51.229.65:18513/.m3u8
@@ -245,18 +224,12 @@ JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 JET综合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
 JET综合,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-靖天综合台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv046&hd=720
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
-靖天日本台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv047&hd=720
 靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-靖天欢乐台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv054&hd=720
 靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-靖天国际台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv063&hd=720
 靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-靖天育乐台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv062&hd=720
 爱尔达娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-爱尔达娱乐台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv070&hd=720
 爱尔达影剧台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 爱尔达影剧台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 爱尔达影剧台,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
@@ -267,17 +240,6 @@ EYE旅游,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608
 EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 视納华仁,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
 时尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-时尚运动X,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv014&hd=720
-韩国娱乐台 KMTV,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv016&hd=720
-Lifetime娱乐频道,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live029&hd=720
-电影原声台CMusic,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live031&hd=720
-TechStorm,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live109&hd=720
-LUXE TV Channel,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live121&hd=720
-TV5MONDE STYLE 生活时尚,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live122&hd=720
-TRACE Urban,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv082&hd=720
-MTV Live音乐频道,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live025&hd=720
-Mezzo Live,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv083&hd=720
-CLASSICA 古典乐,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv059&hd=720
 Astro双星,https://epg.pm/stream/8fd7df7e25757a82538315a3c9ce02d7f6802893d22422d598cca2764cafc8b2.m3u8
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
@@ -287,16 +249,13 @@ CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 原住民频道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
 原住民频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 客家电视台,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
-客家电视台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv043&hd=720
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 凤凰中文,http://103.214.71.71:1651/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-大爱台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live007&hd=720
 大爱台,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大爱台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大爱台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 大爱台,http://60.251.33.252:18567/.m3u8
-大爱2台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live106&hd=720
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 大爱2台,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
@@ -318,7 +277,6 @@ CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 天良综合台,https://epg.pm/stream/3b1f06a7804482922f0b50f631b5b8db6a588b2da0d6f10a03d4ae6e8450f29e.ctv
 信吉,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 信大频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-新唐人亚太台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live050&hd=720
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 GoodTV,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
@@ -342,13 +300,9 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
 星空卫视,http://120.84.96.69:808/hls/79/index.m3u8
 凤凰卫视,http://60.251.33.252:18581/.m3u8
-ARIRANG阿里郎频道,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv079&hd=720
 ARIRANG阿里郎频道,,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
-LiveABC互动英语频道,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live030&hd=720
-ELTV生活英语台,http://8.218.60.13:8080/channel.m3u8?fid=litv-longturn20&hd=720
-东森购物一台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live047&hd=720
 东森购物二台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live046&hd=720
 东森购物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 东森购物三台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
