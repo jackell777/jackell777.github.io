@@ -540,9 +540,9 @@ CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 纬来体育台,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 纬来体育台,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 纬来体育台,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-Eleven Sports 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 Eleven Sports 1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 Eleven Sports 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+Eleven Sports 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 Eleven Sports 1,rtmp://9wv7.mine.nu/sat/tv731
 Eleven Sports 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 Eleven Sports 2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
