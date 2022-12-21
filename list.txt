@@ -42,11 +42,9 @@ TVBS,https://git.io/JgYl2
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立INEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-三立财经新闻iNEWS,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live089&hd=720
-三立财经新闻iNEWS,https://epg.pm/stream/1db853fc0b9ca674b89b6acf98b01e6bbdb63fdf99ffaae26345973cc425a4d4.m3u8
+年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新闻,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新闻,http://220.134.196.147:9544/index.m3u8
-年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
