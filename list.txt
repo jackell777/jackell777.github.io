@@ -656,7 +656,6 @@ DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c1
 求索动物,http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索动物,http://111.11.123.33:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索动物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
-滚动力rollor,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live012&hd=720
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 幸福空间居家台,https://git.io/JgYYF
