@@ -240,7 +240,7 @@ MOMO综合,rtmp://9wv7.mine.nu/sat/tv761
 星卫娱乐台,http://23.237.10.66:16359
 卫视合家欢,http://123.51.229.65:18504/.m3u8
 卫视合家欢,http://60.251.33.252:18504/.m3u8
-TLC旅游生活频道,http://220.134.196.147:9570/index.m3u8
+TLC旅游生活频道,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 TLC旅游生活频道,http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 JET综合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
