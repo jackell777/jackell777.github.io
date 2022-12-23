@@ -30,9 +30,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS,http://220.134.196.147:9502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-TVBS,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
-TVBS,http://103.214.71.71:1662/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
+TVBS,http://220.134.196.147:9502/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS,https://git.io/JgYl2
 三立新闻台,http://60.251.59.180:8506/ch18.m3u8
