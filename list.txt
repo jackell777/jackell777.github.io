@@ -310,6 +310,7 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
+亚洲旅游台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亚洲旅游台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亚洲旅游台,http://218.32.47.179:18513/.m3u8
 亚洲旅游台,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
@@ -662,6 +663,7 @@ DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c1
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 幸福空间居家台,https://git.io/JgYYF
 幸福空间居家台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+亚洲旅游台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亚洲旅游台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亚洲旅游台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 MOMO亲子台,http://220.134.196.147:9504/index.m3u8
