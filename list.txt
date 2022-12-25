@@ -317,7 +317,7 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 長城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-星空卫视,https://epg.pm/stream/661fc5f7034d883e23dfa5fea18cb6cc8d77c504215ae3e6ea8d46784253dd9a.ctv
+星空卫视,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
 星空卫视,http://120.84.96.161:808/hls/79/index.m3u8
 星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
 星空卫视,http://120.84.96.69:808/hls/79/index.m3u8
