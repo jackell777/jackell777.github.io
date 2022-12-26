@@ -90,6 +90,7 @@ CNN头条新闻台,http://red.ipfox.org:8080/osama2022/osama2023/49062
 FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=645
+【台灣地震監測】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=878
 綜藝頻道,#genre#
 台视,http://23.237.10.66:16344
 台视,http://60.251.33.252:18543/.m3u8
@@ -335,6 +336,10 @@ momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 viva1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+新兵日記【台劇】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=942
+新玫瑰瞳鈴眼【台劇】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=943
+藍色水玲瓏【台劇】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=944
+馭鮫記【陸劇】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=946
 電影頻道,#genre#
 东森电影台,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森电影台,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
