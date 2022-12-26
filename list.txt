@@ -90,6 +90,7 @@ CNN头条新闻台,http://red.ipfox.org:8080/osama2022/osama2023/49062
 FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=645
+國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 【台灣地震監測】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=878
 綜藝頻道,#genre#
 台视,http://23.237.10.66:16344
