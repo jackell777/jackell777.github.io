@@ -262,6 +262,8 @@ EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+Taiwan+,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=836
+Taiwan+,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=975
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民频道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
