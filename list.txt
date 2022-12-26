@@ -136,12 +136,14 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+中天综合台,http://220.134.196.147:9551/http/60.251.39.91:8081/hls/43/80/bloomber.m3u8
 中天综合台,http://218.32.47.179:18526/.m3u8
 中天综合台,http://23.237.10.66:16372
 中天综合台,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天综合台,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天娱乐台,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娱乐台,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 中天娱乐台,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐台,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
