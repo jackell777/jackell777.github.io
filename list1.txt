@@ -1,53 +1,14 @@
 台灣頻道,#genre#
-无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/inews_twn/playlist.m3u8
-寰宇新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/huanyuxinwen_twn/playlist.m3u8
-寰宇新闻2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/huanyutaiwan_twn/playlist.m3u8
-非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/feifannews_twn/playlist.m3u8
-年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/niandainews_twn/playlist.m3u8
-TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbs_n/playlist.m3u8
-TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbs/playlist.m3u8
-中天新闻 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctinews/playlist.m3u8
-台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8
-中视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8
-民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8
-东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvnews/playlist.m3u8
-东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8
-无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/inews_twn/playlist.m3u8
-寰宇新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/huanyuxinwen_twn/playlist.m3u8
-寰宇新闻2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/huanyutaiwan_twn/playlist.m3u8
-非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/feifannews_twn/playlist.m3u8
-年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/niandainews_twn/playlist.m3u8
-TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbs_n/playlist.m3u8
-TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbs/playlist.m3u8
-中天新闻 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctinews/playlist.m3u8
-台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8
-中视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8
-民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8
-东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvnews/playlist.m3u8
-东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8
-无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/inews_zero/playlist.m3u8
-寰宇新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/huanyuxinwen_twn/playlist.m3u8
-寰宇新闻2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/huanyutaiwan_twn/playlist.m3u8
-非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/feifannews_twn/playlist.m3u8
-年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/niandainews_twn/playlist.m3u8
-TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbs_n/playlist.m3u8
-TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbs/playlist.m3u8
-中天新闻 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctinews/playlist.m3u8
-台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ttvnews_twn/playlist.m3u8
-中视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8
-民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8
-东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvnews/playlist.m3u8
-东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8
-无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/inews_twn/playlist.m3u8
-寰宇新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/huanyuxinwen_twn/playlist.m3u8
-寰宇新闻2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/huanyutaiwan_twn/playlist.m3u8
-非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/feifannews_twn/playlist.m3u8
-年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/niandainews_twn/playlist.m3u8
-TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbs_n/playlist.m3u8
-TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbs/playlist.m3u8
-中天新闻 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctinews/playlist.m3u8
-台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ttvnews_twn/playlist.m3u8
-中视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/zhongshinews_twn/playlist.m3u8
-民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ftvnew_taiwan/playlist.m3u8
-东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvnews/playlist.m3u8
-东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvcaijing_twn/playlist.m3u8
+Celestial Movie,http://210.210.155.37/dr9445/h/h14/index.m3u8
+Thrill,https://liveaneviadev.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+Cinema World,https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+Hits,https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+Hits Movies,https://liveaneviadev.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+Warner TV,https://liveaneviadev.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+TVN,https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+TVN Movies,https://liveaneviadev.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+BBC Earth,https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+History,https://liveaneviadev.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+Crime Investigation,https://liveaneviadev.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+Nick Junior,https://liveaneviadev.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+Nickelodeon,https://liveaneviadev.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
