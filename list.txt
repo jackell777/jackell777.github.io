@@ -846,3 +846,26 @@ PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
 EroxHD,http://94.229.250.73:8008/play/a002
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 MILF,http://live.redtraffic.xyz/milf.m3u8
+Asia 1pon-1 HD,http://api.magiaiptv.com/live/800379/268963/p2_asia_1pon-1_hd264
+Asia 1pon-2 HD+,http://api.magiaiptv.com/live/800379/268963/p3_asia_1pon-2_hd265
+Asia 1pon-3 UHD,http://api.magiaiptv.com/live/800379/268963/p1_asia_1pon_uhd_265
+Asia Carib UHD,http://api.magiaiptv.com/live/800379/268963/p1_asia_carib_uhd_265
+Asia Heyzo1 HD,http://api.magiaiptv.com/live/800379/268963/p1_asia_heyzo1_hd_264
+Asia Heyzo2 HD+,http://api.magiaiptv.com/live/800379/268963/p1_asiaheyzohd_265
+Asia Heyzo3 UHD,http://api.magiaiptv.com/live/800379/268963/p1_asiaheyzouhd_265
+Asia Tokyo Hot1,http://api.magiaiptv.com/live/800379/268963/p1_asia_tokyo_hot1_264
+Asia Tokyo Hot2,http://api.magiaiptv.com/live/800379/268963/p1_tokyohot_264
+Playboy FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/645
+BangBros 01,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/743
+BangBros 02,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/744
+BangBros 03,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/745
+BangBros 04,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/747
+Brazzers 01 FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/784
+Brazzers 02 FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/785
+Brazzers 03 FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/786
+Brazzers 04 FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/787
+Brazzers 05 FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/788
+Brazzers 06 FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/789
+Japan HDV,http://tduzsfhg.megatv.fun/iptv/A2U3C8FHYB5PPQ/6225/index.m3u8
+Tiny4K,http://tduzsfhg.megatv.fun/iptv/A2U3C8FHYB5PPQ/6258/index.m3u8
+PENTHOUSE GOLD,http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/237561
