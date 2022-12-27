@@ -124,6 +124,7 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 民视台湾台,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民视台湾台,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+猪哥亮歌厅秀,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=835
 猪哥亮歌厅秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
 公视,http://218.32.47.179:18505/.m3u8
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
