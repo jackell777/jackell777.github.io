@@ -1,14 +1,27 @@
 台灣頻道,#genre#
-Celestial Movie,http://210.210.155.37/dr9445/h/h14/index.m3u8
-Thrill,https://liveaneviadev.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-Cinema World,https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-Hits,https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-Hits Movies,https://liveaneviadev.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-Warner TV,https://liveaneviadev.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-TVN,https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-TVN Movies,https://liveaneviadev.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-BBC Earth,https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-History,https://liveaneviadev.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-Crime Investigation,https://liveaneviadev.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-Nick Junior,https://liveaneviadev.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-Nickelodeon,https://liveaneviadev.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+864号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=864
+875号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=875
+882号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=882
+【台灣地震監測】[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=878
+中天新聞[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=896
+907号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=907
+932号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=932
+938号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=938
+新兵日記【台劇】[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=942
+947号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=947
+新玫瑰瞳鈴眼【台劇】[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=943
+948号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=948
+藍色水玲瓏【台劇】[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=944
+950号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=950
+951号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=951
+馭鮫記【陸劇】[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=946
+952号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=952
+953号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=953
+955号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=955
+954号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=954
+949号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=949
+Taiwan+[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=975
+974号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=974
+995号[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=995
+台視新聞[1920*1080],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=997
+996号[1280*720],http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=996
