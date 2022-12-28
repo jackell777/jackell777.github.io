@@ -146,6 +146,7 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 中天娱乐台,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娱乐台,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娱乐台,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
+中天亚洲台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=995
 中天亚洲台,http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 中天亚洲台,http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
@@ -352,7 +353,6 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 長歌行【陸劇】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=947
 古劍奇譚【陸劇】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=949
 我和我們在一起【陸劇】http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=974
-MIT台灣誌【旅遊】,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=995
 電影頻道,#genre#
 东森电影台,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森电影台,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
