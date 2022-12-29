@@ -78,8 +78,9 @@ SBN全球财经台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-无线新闻,http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/inews_twn/playlist.m3u8
-无线财经,http://315600.xyz/nma.php?id=e9789691-2c43-4ab7-9acc-ea5655673352
+有线宽频新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有线宽频直播新闻台,http://livetv.dnsfor.me:80/channel.7.m3u8
+有线宽频财经资讯,http://livetv.dnsfor.me:80/channel.6.m3u8
 Now 直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now 新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now 财经台,http://livetv.dnsfor.me:80/channel.8.m3u8
@@ -755,8 +756,8 @@ J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 明珠台,http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 ViuTVsix,http://103.214.71.71:1647/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 ViuTVsix,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
 香港卫视,https://epg.pm/stream/e0afdd416417a2d5858c425e56a24fd3fe1474c62fec14121fa4057ad3f1103e.ctv
