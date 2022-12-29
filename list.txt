@@ -80,6 +80,9 @@ SBN全球财经台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 无线新闻,http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/inews_twn/playlist.m3u8
 无线财经,http://315600.xyz/nma.php?id=e9789691-2c43-4ab7-9acc-ea5655673352
+Now 直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now 新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now 财经台,http://livetv.dnsfor.me:80/channel.8.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
@@ -585,6 +588,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+Now Sports Prime,http://livetv.dnsfor.me:80/channel.12.m3u8
 CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 CCTV风云足球,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012514203.m3u8
 CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
