@@ -856,23 +856,9 @@ SCTV-7hd,http://wabc.ml/sxg.php?id=SCTV-7-_4000
 内蒙古卫视,http://wabc.ml/sxg.php?id=nmgws_4000
 河南卫视,http://wabc.ml/sxg.php?id=hnws_4000
 18+_777,#genre#
-IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
-PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
-PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
 EroxHD,http://94.229.250.73:8008/play/a002
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 MILF,http://live.redtraffic.xyz/milf.m3u8
-Asia 1pon-1 HD,http://api.magiaiptv.com/live/800379/268963/p2_asia_1pon-1_hd264
-Asia 1pon-2 HD+,http://api.magiaiptv.com/live/800379/268963/p3_asia_1pon-2_hd265
-Asia 1pon-3 UHD,http://api.magiaiptv.com/live/800379/268963/p1_asia_1pon_uhd_265
-Asia Carib UHD,http://api.magiaiptv.com/live/800379/268963/p1_asia_carib_uhd_265
-Asia Heyzo1 HD,http://api.magiaiptv.com/live/800379/268963/p1_asia_heyzo1_hd_264
-Asia Heyzo2 HD+,http://api.magiaiptv.com/live/800379/268963/p1_asiaheyzohd_265
-Asia Heyzo3 UHD,http://api.magiaiptv.com/live/800379/268963/p1_asiaheyzouhd_265
-Asia Tokyo Hot1,http://api.magiaiptv.com/live/800379/268963/p1_asia_tokyo_hot1_264
-Asia Tokyo Hot2,http://api.magiaiptv.com/live/800379/268963/p1_tokyohot_264
 Playboy FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/645
 BangBros 01,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/743
 BangBros 02,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/744
@@ -913,3 +899,5 @@ Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6242/index.m3u8
 Brazzers HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6182/index.m3u8
 Blacked HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6178/index.m3u8
 Digital Desire HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6195/index.m3u8
+MetArt HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6233/index.m3u8
+MYLF TV HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6236/index.m3u8
