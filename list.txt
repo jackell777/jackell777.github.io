@@ -66,12 +66,12 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 壹新闻,http://220.134.196.147:9510/index.m3u8
 镜电视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 镜电视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=28
-寰宇新闻,https://git.io/JgkpO
-寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-寰宇新闻台湾台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新闻台湾台,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇新闻台湾台,https://git.io/JgkpO
+寰宇新闻台湾台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/feifannews_twn/playlist.m3u8
+非凡新闻台,http://220.134.196.147:9533/index.m3u8
 非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡商业台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
