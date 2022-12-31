@@ -134,6 +134,7 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 中天综合台,http://23.237.10.66:16372
+中天综合台,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合台,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合台,http://220.134.196.147:9551/http/60.251.39.91:8081/hls/43/80/bloomber.m3u8
 中天综合台,http://218.32.47.179:18526/.m3u8
@@ -141,6 +142,7 @@ FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C36936290
 中天综合台,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天娱乐台,http://107.151.203.111:2209/135/hk.php?id=6057
 中天娱乐台,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娱乐台,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娱乐台,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
@@ -348,6 +350,7 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 东森电影台,http://120.84.96.74:808/hls/32/index.m3u8?blog.ntnas.top
 东森电影台,http://120.84.96.78:808/hls/32/index.m3u8?blog.ntnas.top
 东森电影台,http://120.84.96.69:808/hls/32/index.m3u8?blog.ntnas.top
+东森洋片台,http://107.151.203.111:2209/135/hk.php?id=dsypt
 东森洋片台,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 东森洋片台,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 东森洋片台,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
@@ -367,6 +370,7 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 卫视电影台,http://218.32.47.179:18553/.m3u8
+卫视电影台,http://107.151.203.111:2209/135/hk.php?id=xingwei
 卫视电影台,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://220.134.196.147:9549/index.m3u8
@@ -386,6 +390,7 @@ CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/pla
 龙华洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 龙华洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龙华洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+龙祥电影,http://107.151.203.111:2209/135/hk.php?id=lxsdt
 龙祥电影,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 龙祥电影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 龙祥电影,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
