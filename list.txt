@@ -766,6 +766,7 @@ ViuTVsix,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 4K頻道,#genre#
+时尚台FTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 BBC 4K,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 咪咕體育-4K,http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8
