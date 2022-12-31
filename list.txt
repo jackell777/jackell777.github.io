@@ -821,6 +821,7 @@ SCTV-7hd,http://wabc.ml/sxg.php?id=SCTV-7-_4000
 北京卫视,http://wabc.ml/sxg.php?id=bjwsH265_4000
 东方卫视,http://wabc.ml/sxg.php?id=dfwsH265_4000
 湖南卫视,http://wabc.ml/sxg.php?id=hnwsH265_4000
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://wabc.ml/sxg.php?id=zjwsH265_4000
 广东卫视,http://wabc.ml/sxg.php?id=gdwsH265_4000
 江西卫视,http://wabc.ml/sxg.php?id=jxwsH265_4000
