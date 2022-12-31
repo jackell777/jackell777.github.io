@@ -250,6 +250,7 @@ JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 JET综合,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 国兴卫视,http://220.134.196.147:9545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天电视台,https://ytm2.yuanhsing.cf/Faintv.m3u8
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
