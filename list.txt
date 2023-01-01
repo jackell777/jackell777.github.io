@@ -415,6 +415,7 @@ CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/pla
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映频道,http://51.79.82.208:16024
+澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
