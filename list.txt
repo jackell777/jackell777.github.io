@@ -261,7 +261,7 @@ JET综合,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u
 靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 爱尔达娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-爱尔达生活旅游台,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+爱尔达生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 爱尔达影剧台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 爱尔达影剧台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 爱尔达影剧台,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
@@ -278,6 +278,7 @@ Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/ch
 MTV Live音乐频道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
 时尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
 生活时尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 滚动力rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空间,http://23.237.10.66:16406
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
@@ -344,8 +345,7 @@ ARIRANG阿里郎频道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 LiveABC互动英语频道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-东森购物一台http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+东森购物一台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 东森购物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 东森购物三台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 momo購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
