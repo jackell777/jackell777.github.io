@@ -962,6 +962,19 @@ iHOT爱系列,#genre#
 爱院线,http://111.11.123.33:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱电竞,http://111.11.123.33:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 18禁頻道_777,#genre#
+彩虹e台,p2p://generationnexxxt.com:9906/3ed3a87c9a4d485f896122e0682fdb12
+彩虹电影台,p2p://generationnexxxt.com:9906/166b10b0247d475abc0151adeb088146
+LOOK TV,p2p://generationnexxxt.com:9906/59a595c19e7448d5b8dfe0f913d1c0f6
+潘朵啦玩美台,p2p://generationnexxxt.com:9906/3a6b4d3d19eb4848aac2aaa77e980441
+惊艳电影台,p2p://generationnexxxt.com:9906/44b2795ce3b240beaba8b2b08daf662d
+松视1台,p2p://generationnexxxt.com:9906/0029bf9f99404c5ba1cee97e14ca39fd
+松视2台,p2p://generationnexxxt.com:9906/77029388d37445b9bf0740d74a95c83c
+松视3台,p2p://generationnexxxt.com:9906/6bc46f3fb81c4e51a850fdc6370267bf
+PLAYBOY,p2p://generationnexxxt.com:9906/192dabb7a5e9481083de1c4c1f9c1cd1
+香蕉台,p2p://generationnexxxt.com:9906/744c31eeee3c4d4e85d994828b48e866
+JStar极限台,p2p://generationnexxxt.com:9906/b267ce08e68a42f3b386428c1222313f
+HAPPY,p2p://generationnexxxt.com:9906/cbaed3220bf94e4e89a5815911a10d2f
+K频道,p2p://generationnexxxt.com:9906/7e9d1131b8724c25b7f56eb46416c1b4
 EroxHD,http://94.229.250.73:8008/play/a002
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 MILF,http://live.redtraffic.xyz/milf.m3u8
