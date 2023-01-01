@@ -278,6 +278,7 @@ Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/ch
 MTV Live音乐频道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
 时尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
 生活时尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+滚动力rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空间,http://23.237.10.66:16406
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
