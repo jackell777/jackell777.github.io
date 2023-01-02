@@ -5,6 +5,7 @@
 台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视财经台,p2p://generationnexxxt.com:9906/ec3b030a2cc143b5b9bc4b429eb33c90
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中视新闻,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
@@ -66,6 +67,7 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 壹新闻,http://220.134.196.147:9510/index.m3u8
 镜电视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 镜电视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=28
+寰宇新闻台湾台,p2p://generationnexxxt.com:9906/ba647d8420c5464087aa7eecc67e6cf0
 寰宇新闻台湾台,https://git.io/JgkpO
 寰宇新闻台湾台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -394,18 +396,22 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 卫视电影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://220.134.196.147:9549/index.m3u8
 卫视电影台,http://23.237.10.66:16010
-StarMoviesHD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-StarMoviesHD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
-StarMoviesHD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-StarMoviesHD,http://220.134.196.147:9560/index.m3u8
+StarMoviesHD,p2p://generationnexxxt.com:9906/56feef5241bf4838b553de0be518b28f
+StarMoviesGold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+StarMoviesGold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+StarMoviesGold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+StarMoviesGold,http://220.134.196.147:9560/index.m3u8
 ROCK Extreme,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+AMC,p2p://generationnexxxt.com:9906/aa3d3e88047d42f5be6a772dd451b835
+HKC电影台,p2p://generationnexxxt.com:9906/43376752371048dfba9d6de7029fabf2
 采昌影剧,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
+WarnerTV,p2p://generationnexxxt.com:9906/6bd86f7422594844a7b002401cd76559
 龙华电影,http://220.134.196.147:9504/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龙华电影,http://218.32.47.179:18556/.m3u8
 龙华电影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
@@ -418,7 +424,9 @@ CATCHPLAY Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunkl
 龙祥电影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 龙祥电影,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
 龙祥电影,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
+壹电视电影台,p2p://generationnexxxt.com:9906/0758f8f4a74f41df984a86f4d2c72342
 经典电影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+美亚电影台(粤语),p2p://generationnexxxt.com:9906/832c6fe8dd524b72bf6b421c28713772
 美亚电影台,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
@@ -469,6 +477,7 @@ CINEMAX,http://218.32.47.179:18559/.m3u8
 CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+Thrill,p2p://generationnexxxt.com:9906/6f8597d7488b4758bc6a100e319090cd
 CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8
 CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
