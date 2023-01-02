@@ -583,6 +583,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 爱尔达体育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 爱尔达体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 爱尔达体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+爱尔达体育3,p2p://generationnexxxt.com:9906/fda79557888f453d87e712eecf14c851
 博斯运动1,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
 博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
@@ -590,6 +591,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯运动2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯无限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+博斯无限二台,p2p://generationnexxxt.com:9906/d2a245420faa494689bfa59bd9acc882
 博斯网球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
@@ -598,6 +600,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+博斯魅力网,p2p://generationnexxxt.com:9906/6f0d4ed0f63a4ae3b6b70bc9206d1714
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 Now Sports Prime,http://livetv.dnsfor.me:80/channel.12.m3u8
