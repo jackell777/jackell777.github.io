@@ -286,6 +286,8 @@ Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/ch
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+高点综合台,p2p://generationnexxxt.com:9906/b16c69eb68a44ff3b14854ded3d4a815
+霹雳台湾台,p2p://generationnexxxt.com:9906/a8e54bcedea0434a98cc96adb9cee0bf
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民频道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
