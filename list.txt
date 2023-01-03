@@ -781,7 +781,8 @@ BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C689275926892759
 港澳地區,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
 翡翠台(華麗台),https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-翡翠台,http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
+翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://113.64.147.20:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.69:808/hls/67/index.m3u8
