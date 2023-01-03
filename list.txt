@@ -780,6 +780,7 @@ BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C689275926892759
 樱桃小丸子,http://zzy789.xyz/bili.php?id=11765640
 港澳地區,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
+翡翠台(華麗台),https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠台,http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://113.64.147.20:808/hls/67/index.m3u8
@@ -798,6 +799,7 @@ BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C689275926892759
 凤凰香港台,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 凤凰香港台,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 明珠台,http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
