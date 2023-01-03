@@ -458,6 +458,7 @@ WarnerTV,p2p://generationnexxxt.com:9906/6bd86f7422594844a7b002401cd76559
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映频道,http://51.79.82.208:16024
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://218.32.47.179:18558/.m3u8
@@ -817,6 +818,8 @@ VIUTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct
 ViuTVsix,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 香港卫视,https://epg.pm/stream/e0afdd416417a2d5858c425e56a24fd3fe1474c62fec14121fa4057ad3f1103e.ctv
 香港卫视,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+香港衛視文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+賽馬直擊,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
