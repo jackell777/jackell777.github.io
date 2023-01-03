@@ -796,8 +796,8 @@ BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C689275926892759
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰香港台,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 凤凰香港台,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港台,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
@@ -806,7 +806,6 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-ViuTVsix,http://103.214.71.71:1647/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 ViuTVsix,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
 香港卫视,https://epg.pm/stream/e0afdd416417a2d5858c425e56a24fd3fe1474c62fec14121fa4057ad3f1103e.ctv
 香港卫视,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
