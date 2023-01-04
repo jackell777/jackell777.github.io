@@ -426,14 +426,11 @@ StarMoviesGold,http://220.134.196.147:9560/index.m3u8
 ROCK Extreme,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
-AMC,p2p://generationnexxxt.com:9906/aa3d3e88047d42f5be6a772dd451b835
-HKC电影台,p2p://generationnexxxt.com:9906/43376752371048dfba9d6de7029fabf2
 采昌影剧,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
-WarnerTV,p2p://generationnexxxt.com:9906/6bd86f7422594844a7b002401cd76559
 龙华电影,http://220.134.196.147:9504/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龙华电影,http://218.32.47.179:18556/.m3u8
 龙华电影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
@@ -446,7 +443,6 @@ WarnerTV,p2p://generationnexxxt.com:9906/6bd86f7422594844a7b002401cd76559
 龙祥电影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 龙祥电影,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
 龙祥电影,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
-壹电视电影台,p2p://generationnexxxt.com:9906/0758f8f4a74f41df984a86f4d2c72342
 经典电影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 美亚电影台(粤语),p2p://generationnexxxt.com:9906/832c6fe8dd524b72bf6b421c28713772
 美亚电影台,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
