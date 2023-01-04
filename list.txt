@@ -673,7 +673,9 @@ EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Eurosport1,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4151
 Eurosport1,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
+Eurosport2,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
 Eurosport2,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
 Z频道,p2p://generationnexxxt.com:9906/78734c8c341e4c0baa9edde744162204
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
