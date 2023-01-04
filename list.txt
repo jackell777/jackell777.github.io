@@ -360,6 +360,7 @@ GoodTV2,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E396651043966510
 長城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 星空卫视,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
 星空卫视,http://120.84.96.161:808/hls/79/index.m3u8
