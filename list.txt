@@ -474,6 +474,8 @@ WarnerTV,p2p://generationnexxxt.com:9906/6bd86f7422594844a7b002401cd76559
 天映频道,http://51.79.82.208:16024
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
+東方影視,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+龍鑫網路電影,http://106.115.27.230:9901/tsfile/live/1029_1.m3u8
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
@@ -559,14 +561,11 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 動作影院,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
 华語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
 1905电影,https://epg.pm/stream/b3021464ac49101cfe9b3d04bd430f7d3096a77350edf6f2d608ede8faaaab5d.m3u8
-CBN每日影院,http://home.ddx2013.cc:4022/rtp/239.93.4.250:8808
-CBN每日影院,https://epg.pm/stream/6ee09c78bb96e13bdbfbfdadb88263f5e74b799189259da40a6ebf50022f6b03.ctv
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
 北京IPTV淘电影,https://epg.pm/stream/8857ae19129490c1bcadcdc8c1aa75f2e9400f0d995bb1e974db693fbdb47e30.m3u8
 北京IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘电影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-惊悚午夜,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 香港電影,http://epg.112114.xyz/huya/11602058
 貝爺電影1,http://epg.112114.xyz/douyu/4332
 貝爺電影2,http://epg.112114.xyz/douyu/252802
