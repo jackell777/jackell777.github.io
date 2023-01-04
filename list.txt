@@ -777,6 +777,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 嘉佳卡通,http://111.20.33.103/TVOD/88888893/224/3221226227/index.m3u8?blog.ntnas.top
 BabyTV,http://218.32.47.179:18514/.m3u8
 BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
+BabyTV,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8
 卡酷少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
 寶可夢,http://epg.112114.xyz/douyu/9765742
