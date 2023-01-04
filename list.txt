@@ -413,13 +413,12 @@ viva2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
+卫视电影台,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://218.32.47.179:18553/.m3u8
 卫视电影台,http://107.151.203.111:2209/135/hk.php?id=xingwei
-卫视电影台,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://220.134.196.147:9549/index.m3u8
 卫视电影台,http://23.237.10.66:16010
-StarMoviesHD,p2p://generationnexxxt.com:9906/56feef5241bf4838b553de0be518b28f
 StarMoviesGold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 StarMoviesGold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 StarMoviesGold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
