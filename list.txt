@@ -568,10 +568,6 @@ DC国外电影,https://epg.pm/stream/dc12a41ecbee41faad8f9206888afba0cd7924ab02b
 欧美电影03,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 欧美电影04,http://epg.112114.xyz/douyu/2436390
 熱播影院,http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
-CHC家庭电影,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
-CHC动作电影,http://wabc.ml/sxg.php?id=gef.wqCHCdzdyH265_4000
-CHC高请电影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
-峨眉电影hd,http://wabc.ml/sxg.php?id=emdygqH265_4000
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8
@@ -591,6 +587,10 @@ CHC高请电影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+CHC家庭电影,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
+CHC动作电影,http://wabc.ml/sxg.php?id=gef.wqCHCdzdyH265_4000
+CHC高请电影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
+峨眉电影,http://wabc.ml/sxg.php?id=emdygqH265_4000
 體育頻道,#genre#
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
 CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
