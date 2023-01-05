@@ -832,6 +832,7 @@ BabyTV,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 无线财经,http://radius.8866.org:800/hls/83/index.m3u8
 无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
 无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+J1,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
@@ -844,7 +845,6 @@ TVB星河,http://27.47.71.226:8088/hls/35/index.m3u8
 TVB星河,http://27.47.71.228:8088/hls/35/index.m3u8
 TVB星河,http://27.47.71.9:8088/hls/35/index.m3u8
 TVB星河,http://27.47.71.226:8088/hls/35/index.m3u8
-TVB星河,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 TV8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
