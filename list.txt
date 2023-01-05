@@ -813,8 +813,11 @@ BabyTV,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线直播新闻台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+有线财经资讯台,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -849,9 +852,12 @@ TV8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225
 明珠台,http://198.16.64.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 明珠台,http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-RTHK 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-RTHK 32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RHK31,http://radius.8866.org:800/hls/89/index.m3u8
+RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+RHK32,http://radius.8866.org:800/hls/90/index.m3u8
+RHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+RHK33,http://radius.8866.org:800/hls/91/index.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8?blog.ntnas.top
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 ViuTV,http://shazui.8866.org:800/hls/86/index.m3u8
@@ -961,19 +967,22 @@ CETV-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV-2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-央视台球,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-第一剧场,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-风云剧场,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-怀旧剧场,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-世界地理,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-风云音乐,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-兵器科技,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-风云足球,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-高尔夫网球,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-女性时尚,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-文化精品,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-电视指南,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-卫生健康,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
+第一剧场,http://218.17.216.102:9901/tsfile/live/1072_1.m3u8
+风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
+风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
+风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
+怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
+世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
+世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+风云音乐,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+兵器科技,http://218.17.216.102:9901/tsfile/live/1027_1.m3u8
+兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
+风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
+风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+文化精品,http://218.17.216.102:9901/tsfile/live/1071_1.m3u8
+电视指南,http://218.17.216.102:9901/tsfile/live/1064_1.m3u8
 各省衛視,#genre#
 江苏卫视,http://124.220.17.172:1100/aas.php?id=22
 江苏卫视,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
