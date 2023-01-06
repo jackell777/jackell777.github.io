@@ -621,13 +621,16 @@ Eleven Sports 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 Eleven Sports 2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 Eleven Sports 2,rtmp://9wv7.mine.nu/sat/tv741
 Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
+爱尔达体育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 爱尔达体育1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 爱尔达体育1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 爱尔达体育1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 爱尔达体育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+爱尔达体育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 爱尔达体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 爱尔达体育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-爱尔达体育3,p2p://generationnexxxt.com:9906/fda79557888f453d87e712eecf14c851
+爱尔达体育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+爱尔达体育3,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
 博斯运动1,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
 博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
@@ -635,7 +638,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯运动2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯无限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-博斯无限二台,p2p://generationnexxxt.com:9906/d2a245420faa494689bfa59bd9acc882
+博斯无限二台,mitv://generationnexxxt.com:18806/d2a245420faa494689bfa59bd9acc882.ts
 博斯网球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
