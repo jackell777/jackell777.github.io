@@ -307,6 +307,7 @@ HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 时尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
 生活时尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 滚动力rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空间,http://23.237.10.66:16406
