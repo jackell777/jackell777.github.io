@@ -500,6 +500,7 @@ HBO温馨家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1
 HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 好莱坞电影,http://220.134.196.147:9523/index.m3u8
 好莱坞电影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
