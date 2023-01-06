@@ -373,6 +373,7 @@ GoodTV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 星空卫视,http://120.84.96.161:808/hls/79/index.m3u8
 星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
 星空卫视,http://120.84.96.69:808/hls/79/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 凤凰卫视,http://60.251.33.252:18581/.m3u8
 ARIRANG阿里郎频道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
@@ -878,7 +879,7 @@ VIUTV6,http://radius.8866.org:800/hls/85/index.m3u8
 VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-香港卫视,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
 香港衛視文旅台,http://107.151.203.111:2209/135/hk.php?id=hk6
 賽馬直擊,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
