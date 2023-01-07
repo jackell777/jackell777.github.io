@@ -68,6 +68,7 @@ TVBS,https://git.io/JgYl2
 东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+CCTV4,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 壹新闻,http://60.251.59.180:8501/.m3u8
 壹新闻,http://220.134.196.147:9510/index.m3u8
@@ -319,7 +320,9 @@ Lifetime娱乐频道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/ch
 滚动力rollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空间,http://23.237.10.66:16406
 欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
+CCTV3,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -522,6 +525,7 @@ CINEMAX,http://218.32.47.179:18559/.m3u8
 CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+CCTV6,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8
 CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -617,9 +621,14 @@ CHC高请电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 峨眉电影,http://wabc.ml/sxg.php?id=emdygqH265_4000
 體育頻道,#genre#
+CCTV5,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 CCTV5,http://23.237.10.66:16007
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
 CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
+CCTV5+,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+劲爆体育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+五星体育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+超级体育,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 纬来体育台,http://60.251.33.252:18509/.m3u8
 纬来体育台,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 纬来体育台,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
@@ -684,6 +693,7 @@ ESPN3,http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465906
 ESPN4,http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465909
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+新视觉,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
@@ -719,7 +729,9 @@ WWE摔角,p2p://generationnexxxt.com:9906/c592e243fa0d44baaa8358aafadf0e05
 WWE摔角,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 人文幼兒,#genre#
+CCTV9,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 CCTV9,http://123.6.9.146/live/jz-cctv-9/live.m3u8
+CCTV10,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 CCTV10,http://123.6.9.146/live/jz-cctv-10/live.m3u8
 Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 BBC Earth,p2p://generationnexxxt.com:9906/741f7e70f6dc46809e4c8aaf2e159aea
@@ -928,7 +940,10 @@ Now Sports Prime,http://livetv.dnsfor.me:80/channel.12.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 4K頻道,#genre#
-CCTV4K,http://204bae1.123nat.com:55/bestv.php?id=20
+CCTV-4K,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV-4K,http://204bae1.123nat.com:55/bestv.php?id=20
+CCTV16-4K,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV16-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 时尚台FTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 BBC 4K,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
@@ -936,7 +951,6 @@ BBC 4K,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 Astro Super Sport 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-CCTV-16奧林匹克-4K,http://124.220.17.172/shijiebei/sjb.php?id=509s
 北京BesTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 4K高清电影,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K超高清电影,http://r.jdshipin.com/5DWJk
