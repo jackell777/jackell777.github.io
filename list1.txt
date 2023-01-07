@@ -681,7 +681,7 @@ VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 宝石,http://52bsj.vip:81/api/v3/file/get/52827/%E5%AE%9D%E7%9F%B3AA.mp4?sign=W01-xEZgS5klGyo-rZmw7zUOUYQnLmou4OkCgc49e6U%3D%3A0
 宝石鉴定师,http://52bsj.vip:81/api/v3/file/get/52812/%E5%AE%9D%E7%9F%B3%E9%89%B4%E5%AE%9A%E5%B8%88.mp4?sign=piWTxuvRx14kkGc2kVP2rJD6cSfU3mETsJtn1Zz1ssw%3D%3A0
-    _6100,#genre#
+🔞18禁頻道,#genre#
 彩虹e台,p2p://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
 彩虹电影台,p2p://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
 LOOK TV,p2p://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
@@ -696,7 +696,6 @@ JStar极限台,p2p://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
 HAPPY,p2p://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
 松视3台,p2p://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
 K频道,p2p://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
-
 EroxHD,http://94.229.250.73:8008/play/a002
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 MILF,http://live.redtraffic.xyz/milf.m3u8
