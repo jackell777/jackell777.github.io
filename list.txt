@@ -782,6 +782,7 @@ ANIMAX,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 CN卡通频道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 CN卡通频道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+龍華卡通,http://220.134.196.147:9561/index.m3u8
 Nick Jr.儿童频道,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
 尼克儿童频道,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
 astro小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MD0D9499792694997926&ct=19254&tsum=900f8779aea05605b068dd6741e0feae
