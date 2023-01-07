@@ -617,6 +617,7 @@ CHC高请电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 峨眉电影,http://wabc.ml/sxg.php?id=emdygqH265_4000
 體育頻道,#genre#
+CCTV5,http://23.237.10.66:16007
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
 CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 纬来体育台,http://60.251.33.252:18509/.m3u8
