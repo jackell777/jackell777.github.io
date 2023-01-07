@@ -2,7 +2,6 @@
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 台视新闻,https://git.io/JgkxY
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=2
@@ -86,7 +85,7 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 非凡商业台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 SBN全球财经台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
-点掌+财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
@@ -1136,20 +1135,6 @@ iHOT爱系列,#genre#
 爱院线,http://111.11.123.33:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱电竞,http://111.11.123.33:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 🔞18禁頻道,#genre#
-松视台,p2p://generationnexxxt.com:18806/77029388d37445b9bf0740d74a95c83c
-彩虹e台,p2p://generationnexxxt.com:18806/3ed3a87c9a4d485f896122e0682fdb12
-彩虹电影台,p2p://generationnexxxt.com:18806/166b10b0247d475abc0151adeb088146
-LOOK TV,p2p://generationnexxxt.com:18806/59a595c19e7448d5b8dfe0f913d1c0f6
-潘朵啦玩美台,p2p://generationnexxxt.com:18806/3a6b4d3d19eb4848aac2aaa77e980441
-惊艳电影台,p2p://generationnexxxt.com:18806/44b2795ce3b240beaba8b2b08daf662d
-松视1台,p2p://generationnexxxt.com:18806/0029bf9f99404c5ba1cee97e14ca39fd
-松视2台,p2p://generationnexxxt.com:18806/77029388d37445b9bf0740d74a95c83c
-松视3台,p2p://generationnexxxt.com:18806/6bc46f3fb81c4e51a850fdc6370267bf
-PLAYBOY,p2p://generationnexxxt.com:18806/192dabb7a5e9481083de1c4c1f9c1cd1
-香蕉台,p2p://generationnexxxt.com:18806/744c31eeee3c4d4e85d994828b48e866
-JStar极限台,p2p://generationnexxxt.com:18806/b267ce08e68a42f3b386428c1222313f
-HAPPY,p2p://generationnexxxt.com:18806/cbaed3220bf94e4e89a5815911a10d2f
-K频道,p2p://generationnexxxt.com:18806/7e9d1131b8724c25b7f56eb46416c1b4
 EroxHD,http://94.229.250.73:8008/play/a002
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 MILF,http://live.redtraffic.xyz/milf.m3u8
