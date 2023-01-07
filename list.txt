@@ -658,7 +658,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯运动2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯无限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-博斯无限二台,mitv://generationnexxxt.com:18806/d2a245420faa494689bfa59bd9acc882.ts
+博斯无限二台,p2p://generationnexxxt.com:18806/fff2a26249f54715909a62ab70460a9a
 博斯网球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
