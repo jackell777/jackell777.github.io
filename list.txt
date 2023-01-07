@@ -830,11 +830,11 @@ BabyTV,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 港澳地區,#genre#
 翡翠台(華麗台),https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠台(華麗台),http://23.237.10.66:16410
+翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,http://23.237.10.66:16106
 翡翠台,http://113.64.147.20:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.69:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.82:808/hls/67/index.m3u8
