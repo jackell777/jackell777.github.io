@@ -678,7 +678,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯运动2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯运动2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯无限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-博斯无限二台,p2p://generationnexxxt.com:18806/fff2a26249f54715909a62ab70460a9a
+博斯无限二台,p2p://generationnexxxt.com:18806/17d4df2e07804328874a36d962c54429
 博斯网球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
@@ -687,7 +687,7 @@ Eleven Sports 2,rtmp://59.124.75.147/sat/tv741
 博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 博斯高球2,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
-博斯魅力网,p2p://generationnexxxt.com:9906/6f0d4ed0f63a4ae3b6b70bc9206d1714
+博斯魅力网,p2p://generationnexxxt.com:18806/9281c230ae6d4da7860e1e7419b2b902
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯魅力网,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
@@ -709,6 +709,7 @@ BT Sports 2,http://caballerotv.com:5890/1122334455/1122334455/55673
 BT Sports 2,http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 Sky Sports Arena,http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
 Sky Sports F1,http://198.16.64.10:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
+ESPN,p2p://generationnexxxt.com:18806/fc3194278b74415bb25d0c1d09676e87
 ESPN,http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5064
 ESPN2,http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5062
 ESPN3,http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465906
