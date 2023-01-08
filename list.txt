@@ -149,6 +149,7 @@ NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 民视台湾台,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 猪哥亮歌厅秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+公视,http://220.134.196.147:9516/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 公视,http://220.134.196.147:9515/index.m3u8
 公视,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
@@ -212,7 +213,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立台湾台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 三立台湾台,http://220.134.196.147:9531/index.m3u8
 三立都會台,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-三立都會台,http://220.134.196.147:9516/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 八大第一台,http://123.51.229.65:18539/.m3u8
 八大第一台,http://60.251.33.252:18539/.m3u8
 八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
