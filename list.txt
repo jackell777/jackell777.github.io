@@ -94,12 +94,13 @@ SBN全球财经台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3
 第一财经,http://tvmvip110.club/bs.php?id=21
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-有线宽频新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
-有线宽频直播新闻台,http://livetv.dnsfor.me:80/channel.7.m3u8
-有线宽频财经资讯,http://livetv.dnsfor.me:80/channel.6.m3u8
+有线新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有线直播新闻台,http://livetv.dnsfor.me:80/channel.7.m3u8
+有线财经资讯,http://livetv.dnsfor.me:80/channel.6.m3u8
 Now 直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now 新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now 财经台,http://livetv.dnsfor.me:80/channel.8.m3u8
+凤凰资讯台,http://107.151.203.111:2209/135/hk.php?id=fhzx
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
@@ -167,6 +168,7 @@ NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 中天综合台,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天娱乐台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 中天娱乐台,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娱乐台,http://107.151.203.111:2209/135/hk.php?id=6057
 中天娱乐台,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
@@ -331,6 +333,7 @@ CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 原住民频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 客家电视台,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 大爱台,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大爱台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
@@ -492,6 +495,7 @@ CATCHPLAY Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunkl
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 東方影視,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 龍鑫網路電影,http://106.115.27.230:9901/tsfile/live/1029_1.m3u8
+AXN,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
