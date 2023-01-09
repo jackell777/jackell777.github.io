@@ -111,6 +111,7 @@ NBC news,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=Redboxdes
 FOX新聞台,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
+國會頻道2,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 綜藝頻道,#genre#
 台视,http://60.251.33.252:18543/.m3u8
@@ -532,7 +533,6 @@ HBO温馨家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1
 HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
-My Cinema Europe,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 好莱坞电影,http://220.134.196.147:9523/index.m3u8
 好莱坞电影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
