@@ -386,7 +386,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 熱門綜藝,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 七彩戏剧,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-热门剧场,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+热門剧场,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 都市剧场,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
 戏曲精选,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 欢笑剧场,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
