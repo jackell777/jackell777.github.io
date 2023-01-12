@@ -291,6 +291,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 MOMO綜合台HD,http://220.134.196.147:9577/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 MOMO綜合台HD,http://220.134.196.147:9577/.m3u8
 星衛娛樂台HD,http://23.237.10.66:16359
+STAR World HD,http://220.134.196.147:9561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
 STAR World HD,http://123.51.229.65:18504/.m3u8
 STAR World HD,http://60.251.33.252:18504/.m3u8
 TLC 旅遊生活頻道HD,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
