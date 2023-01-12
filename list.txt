@@ -121,7 +121,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 台視HD,http://23.237.10.66:16344
 台視HD,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視HD,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
-台視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+中視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視HD,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中視HD,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中視HD,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
@@ -163,7 +163,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 公視HD,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公視戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 中天綜合台HD,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
-中天綜合台HD,http://220.134.196.147:9551/http/60.251.39.91:8081/hls/43/80/bloomber.m3u8
+中天綜合台HD,http://220.134.196.147:9536/index.m3u8
 中天綜合台HD,http://23.237.10.66:16372
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台HD,http://218.32.47.179:18526/.m3u8
@@ -172,6 +172,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中天綜合台HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天綜合台HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天娛樂台HD,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娛樂台HD,http://107.151.203.111:2209/135/hk.php?id=6057
 中天娛樂台HD,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
