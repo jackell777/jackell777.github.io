@@ -1100,6 +1100,7 @@ iHOT爱系列,#genre#
 爱科幻,http://111.11.123.33:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 爱院线,http://111.11.123.33:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱电竞,http://111.11.123.33:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+
 🔞18禁頻道,#genre#
 松視1臺,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
 松視2臺,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
