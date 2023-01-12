@@ -422,6 +422,7 @@ momo購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 viva購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+
 電影頻道,#genre#
 東森電影台HD,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影台HD,http://107.151.203.111:2209/135/hk.php?id=dsdyt
