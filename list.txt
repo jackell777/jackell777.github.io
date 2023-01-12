@@ -411,7 +411,7 @@ Arirang TV HD,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:ari
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 俄羅斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-ELTV生活英語台,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 東森購物1台HD,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 東森購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
