@@ -574,6 +574,7 @@ CINEMAX HD,http://218.32.47.179:18559/.m3u8
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 CINEMAX HD,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+CCTV6,http://60.10.167.88:808/hls/6/index.m3u8
 CCTV6,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
 CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8
 CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
@@ -588,6 +589,7 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 愛爾達影劇,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?blog.ntnas.top
 漫威電影,http://akm-tct.douyucdn.cn/live/6140589rHSWEc7hv.m3u8?uuid=
 漫威宇宙電影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 斗鱼电影01,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=1ea1a300d226ec1067c82df37a1e6ef5&token=cpn-androidmpro-0-3637778-8c089871434b93445163ba4dfd3714568979c1778d2e14df&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
