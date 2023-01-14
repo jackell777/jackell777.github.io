@@ -680,9 +680,6 @@ CCTV5,http://23.237.10.66:16007
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
 CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-劲爆体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-五星体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-超级体育,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
 緯來體育台HD,http://60.251.33.252:18509/.m3u8
 緯來體育台HD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 緯來體育台HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
