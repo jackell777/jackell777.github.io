@@ -957,6 +957,7 @@ ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8?blog.ntnas.top
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 ViuTV,http://shazui.8866.org:800/hls/86/index.m3u8
 ViuTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 VIUTV6,http://radius.8866.org:800/hls/85/index.m3u8
 VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
