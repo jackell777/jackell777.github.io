@@ -282,6 +282,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東風衛視台HD,http://60.251.33.252:18560/.m3u8
 東風衛視台HD,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 東風衛視台HD,http://218.32.47.179:18528/.m3u8
+衛視中文台HD,https://epg.pw/stream/fbee5a0023da63eb2038113a702ac240782cfb8001f6e2b23633438aa7bc2a23.ctv
 衛視中文台HD,http://220.134.196.147:9554/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u
 衛視中文台HD,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 衛視中文台HD,http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
@@ -539,6 +540,7 @@ AXN HD,http://218.32.47.179:18558/.m3u8
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 HBO,http://220.134.196.147:9511/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+HBO,https://epg.pw/stream/9682563c191635f432377079da2a239e5e0862be421ee422def3149d66eccade.ctv
 HBO HD頻道,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
