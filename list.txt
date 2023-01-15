@@ -328,6 +328,7 @@ Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/c
 華語戲劇台,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
 華語綜藝台,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
 MTV Live HD 音樂頻道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
+CCTV15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo Live HD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
@@ -344,6 +345,10 @@ CCTV1,http://123.6.9.146/live/jz-cctv-1/live.m3u8
 CCTV3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+CCTV7,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV8,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV11,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV12,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民族電視台HD,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
