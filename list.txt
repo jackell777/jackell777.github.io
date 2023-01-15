@@ -527,8 +527,6 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 天映頻道,http://51.79.82.208:16024
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
-東方影視,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-東方影視,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 AXN HD,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 AXN HD,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
