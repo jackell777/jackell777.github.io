@@ -762,7 +762,6 @@ Sky Sports Main Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme30
 Sky Sports Top Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100
 智林體育台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 智林體育台HD,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-新視覺HD,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,https://epg.pw/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
 新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -883,8 +882,8 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
 嘉佳卡通,http://111.20.33.103/TVOD/88888893/224/3221226227/index.m3u8?blog.ntnas.top
 Baby TV HD,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
-Baby TV HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 Baby TV HD,http://www.yshmzmc.top/gtjm.php?id=live1007
+Baby TV HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 Baby TV HD,http://218.32.47.179:18514/.m3u8
 Baby TV HD,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
 迪士尼动画,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
