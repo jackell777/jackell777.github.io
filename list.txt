@@ -71,6 +71,8 @@ TVBS HD,https://git.io/JgYl2
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 CCTV13,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
 CCTV13,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV2,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
 壹電視新聞HD,http://220.134.196.147:9510/index.m3u8
 鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
