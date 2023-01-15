@@ -69,9 +69,8 @@ TVBS HD,https://git.io/JgYl2
 東森財經新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV13,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV13,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
 壹電視新聞HD,http://220.134.196.147:9510/index.m3u8
 鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
@@ -679,6 +678,8 @@ CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
 CCTV5,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
+CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV16,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 廣東體育,http://r.jdshipin.com/LiYdg
 緯來體育台HD,http://60.251.33.252:18509/.m3u8
 緯來體育台HD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
@@ -840,6 +841,8 @@ momo親子台HD,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunkli
 東森幼幼台HD,http://220.134.196.147:9515/http/60.251.39.91:8081/hls/63/805/ch09.m3u8
 東森幼幼台HD,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 東森幼幼台HD,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+CCTV14,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV14,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 東森幼幼,https://git.io/JgYON
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 i-Fun動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
