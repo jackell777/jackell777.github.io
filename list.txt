@@ -710,7 +710,6 @@ ELEVEN SPORTS 2 HD,rtmp://59.124.75.147/sat/tv741
 博斯運動二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯運動二台,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯無限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-博斯無限二台,p2p://generationnexxxt.com:18806/fff2a26249f54715909a62ab70460a9a
 博斯網球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯網球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯網球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
@@ -719,7 +718,6 @@ ELEVEN SPORTS 2 HD,rtmp://59.124.75.147/sat/tv741
 博斯高球一台HD,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球二台HD,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 博斯高球二台HD,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
-博斯魅力台,p2p://generationnexxxt.com:18806/9281c230ae6d4da7860e1e7419b2b902
 博斯魅力台,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯魅力台,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
@@ -791,6 +789,7 @@ SD摔角,http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86
 WWE摔角,p2p://generationnexxxt.com:9906/c592e243fa0d44baaa8358aafadf0e05
 WWE摔角,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
+
 人文幼兒,#genre#
 CCTV9,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd2
@@ -799,9 +798,7 @@ CCTV10,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//i
 CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
 CCTV10,http://123.6.9.146/live/jz-cctv-10/live.m3u8
 LOVE NATURE,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
-BBC Earth,p2p://generationnexxxt.com:18806/8a654916cfaf4c3e8ce6ac6e873379c6
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-BBC Lifestyle,p2p://generationnexxxt.com:18806/48426c66ba4a4b28afb8b46fbae29333
 BBC Lifestyle,http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 Discovery 頻道HD,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 Discovery 頻道HD,http://220.134.196.147:9568/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
@@ -870,8 +867,6 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 幼兒動畫歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 幼兒動畫歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-动漫秀场,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
-哈哈炫动,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1000.m3u8?IASHttpSessionId=OTT2933020211208004916069966&zte_bandwidth=1000&bandwidth=1433600&ispcode=3&timeformat=local&channel=201600020004&ztecid=201600020004&m3u8_level=2&A=
 嘉佳卡通,http://23.237.10.66:16662
@@ -882,9 +877,6 @@ Baby TV HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 Baby TV HD,http://www.yshmzmc.top/gtjm.php?id=live1007
 Baby TV HD,http://218.32.47.179:18514/.m3u8
 Baby TV HD,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
-卡酷少儿,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
-青春动漫,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 迪士尼动画,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 寶可夢,http://epg.112114.xyz/douyu/9765742
