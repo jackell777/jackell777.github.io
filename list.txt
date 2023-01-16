@@ -786,7 +786,6 @@ Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 歐洲體育1台HD,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
 歐洲體育2台HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
 歐洲體育2台HD,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
-Z频道,p2p://generationnexxxt.com:18806/5c0c0f98a4e64d63b593475c34134582
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
 FIGHT SPORTS2,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
