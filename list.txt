@@ -605,7 +605,6 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 北京IPTV淘电影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?blog.ntnas.top
-漫威電影,http://akm-tct.douyucdn.cn/live/6140589rHSWEc7hv.m3u8?uuid=
 漫威宇宙電影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 動作影院,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
 华語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
@@ -647,6 +646,7 @@ CHC高请电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 經典恐怖电影,http://epg.112114.xyz/douyu/1165374
 斗鱼恐怖电影1,http://epg.112114.xyz/douyu/263824
 斗鱼恐怖电影2,http://epg.112114.xyz/douyu/9275635
+斗鱼恐怖电影3,http://epg.112114.xyz/douyu/2935323
 斗鱼电影01,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=1ea1a300d226ec1067c82df37a1e6ef5&token=cpn-androidmpro-0-3637778-8c089871434b93445163ba4dfd3714568979c1778d2e14df&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影02,http://epg.112114.xyz/douyu/6566671
 斗鱼电影03,http://epg.112114.xyz/douyu/413573
@@ -686,6 +686,17 @@ CHC高请电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 斗鱼电影37,http://epg.112114.xyz/douyu/20415
 斗鱼电影38,http://epg.112114.xyz/douyu/2436390
 斗鱼电影39,http://epg.112114.xyz/huya/11602058
+斗鱼电影40,http://epg.112114.xyz/douyu/7254536
+斗鱼电影41,http://epg.112114.xyz/douyu/5802446
+斗鱼电影42,http://epg.112114.xyz/douyu/7305938
+斗鱼电影43,http://epg.112114.xyz/douyu/3637778
+斗鱼电影44,http://epg.112114.xyz/douyu/7925840
+斗鱼电影45,http://epg.112114.xyz/douyu/1377142
+斗鱼电影46,http://epg.112114.xyz/douyu/1504768
+斗鱼电影47,http://epg.112114.xyz/douyu/6140589
+斗鱼电影48,http://epg.112114.xyz/douyu/508118
+斗鱼电影49,http://epg.112114.xyz/douyu/2793084
+斗鱼电影50,http://epg.112114.xyz/douyu/4505431
 欧美电影01,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 欧美电影02,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
