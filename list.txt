@@ -697,6 +697,7 @@ ELEVEN SPORTS 1 HD,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE39
 ELEVEN SPORTS 1 HD,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN SPORTS 1 HD,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 1 HD,rtmp://9wv7.mine.nu/sat/tv731
+ELEVEN SPORTS 2 HD,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN SPORTS 2 HD,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 ELEVEN SPORTS 2 HD,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 ELEVEN SPORTS 2 HD,rtmp://9wv7.mine.nu/sat/tv741
