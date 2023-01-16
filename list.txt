@@ -1237,6 +1237,96 @@ DOXTV,http://baidu.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index
 网络棋牌,http://baidu.live.cqccn.com/__cl/cg:live/__c/qipai/__op/default/__f//index.m3u8
 靓妆,http://baidu.live.cqccn.com/__cl/cg:live/__c/liang/__op/default/__f//index.m3u8
 
+網路廣播電台,#genre#
+1766私房音樂,http://livestream.1766.today:1769/live1.mp3
+181FM,http://relay.181.fm:8128
+500首華語經典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+80後音樂台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+AsiaFM HD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
+AsiaFM 亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM 亞洲經典台,http://goldfm.cn:8000/goldfm
+Big B Radio-中文流行,http://cpop.bigbradio.net/s
+Big B Radio-日語流行,http://jpop.bigbradio.net/s
+Big B Radio-洲流行,http://apop.bigbradio.net/s
+Big B Radio-韓語流行,http://kpop.bigbradio.net/s
+CityFM大苗栗廣播,http://fm983.cityfm.tw:8080/983.mp3
+CityFM台南之音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM臺北健康,http://fm901.cityfm.tw:8080/901.mp3
+CNR 哈語廣播,http://live.xmcdn.com/live/1396/64.m3u8
+cnr經典音樂,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI 中文環球廣播,http://sk.cri.cn/hyhq.m3u8
+CRI 南海之聲,http://sk.cri.cn/nhzs.m3u8
+CRI 輕鬆調頻 FM91.5,http://sk.cri.cn/915.m3u8
+Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
+New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+News98新聞台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+RFA自由亞洲電臺,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+RFI法國國際廣播電臺,http://live02.rfi.fr/rfienchinois-64.mp3
+RFI法國國際廣播電臺,http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+VOA美國之音,http://stream.radiojar.com/7thwu53r92quv
+VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
+上海動感101,http://ls.qingting.fm/live/274.m3u8
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+天籟之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籟之音-國風,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+天籟古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+心靈音樂館,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+古典音樂台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+台中廣播電臺,http://211.20.119.101:8081
+四川岷江音樂廣播,http://ls.qingting.fm/live/1110.m3u8
+民謠 藍調,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+民謠音樂台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+老歌音樂台,http://live.xmcdn.com:80/live/2628/64.m3u8
+亞洲經典音樂台,http://live.xmcdn.com:80/live/1005/64.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/chunklist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/chunklist.m3u8
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
+格萊美音樂台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+高清音樂台,http://live.xmcdn.com:80/live/1427/64.m3u8
+動感音樂台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+國立教育電臺,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電臺臺北總台AM台,https://cast.ner.gov.tw/2
+國立教育廣播電臺臺北總台FM台,https://cast.ner.gov.tw/1
+深圳飛揚音樂台,http://ls.qingting.fm/live/1271.m3u8
+清晨音樂台,http://live.xmcdn.com:80/live/1011/64.m3u8
+廈門音樂廣播,http://ls.qingting.fm/live/1739.m3u8
+搖滾天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+經典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+遊戲音樂 RPGame Radio,http://www.rpgamers.net/radio/radio.m3u
+遊戲音樂 vgmradio,http://radio.vgmradio.com:8040/stream
+電音電臺,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+臺北國際社區廣播電臺,http://live.leanstream.co/ICRTFM-MP3
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+臺灣古典音樂台,http://59.120.88.155:8000/live.mp3
+臺灣國立教育廣播電臺,https://cast.ner.gov.tw/1?_t=1628097047202
+舞迷心竅,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+廣東音樂廣播,http://ls.qingting.fm/live/1260.m3u8
+潮流音樂台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+懷集音樂台,http://live.xmcdn.com:80/live/966/64.m3u8
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+
 🔞18禁頻道,#genre#
 「244個頻道」
 FrenchLover,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/2160/index.m3u8
