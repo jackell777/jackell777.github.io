@@ -94,9 +94,12 @@ TVBS HD,https://git.io/JgYl2
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
-第一財經,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-第一財經,http://tvmvip110.club/bs.php?id=21
-東方財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/dfcj/__op/default/__f//index.m3u8
+第一財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+第一財經,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+東方財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+東方財經,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 有線新聞台,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
