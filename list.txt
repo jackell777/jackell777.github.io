@@ -351,6 +351,7 @@ astro歡喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA43552113435
 央視戲曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
 央視社會與法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 上海外語頻道,http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
+東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民族電視台HD,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
