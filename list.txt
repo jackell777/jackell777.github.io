@@ -436,7 +436,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
 電影頻道,#genre#
-東森電影台HD,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
+東森電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影台HD,http://107.151.203.111:2209/135/hk.php?id=dsdyt
 東森電影台HD,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 東森電影台HD,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
@@ -553,14 +553,14 @@ HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD頻道,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO強檔鉅獻HD,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+HBO強檔鉅獻HD,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
 HBO強檔鉅獻HD,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
 HBO強檔鉅獻HD,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 HBO原創鉅獻HD,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
 HBO原創鉅獻HD,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO溫馨家庭HD,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
+HBO溫馨家庭HD,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
