@@ -801,6 +801,9 @@ J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
+NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
+NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
 NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
