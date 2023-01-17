@@ -957,6 +957,7 @@ Baby TV HD,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C68927592689
 凤凰香港台,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰香港台,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+TVB 财经,https://j3.lhlh.app/mv.m3u8
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 无线财经,http://radius.8866.org:800/hls/83/index.m3u8
 无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
