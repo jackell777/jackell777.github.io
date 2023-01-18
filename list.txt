@@ -805,6 +805,7 @@ NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
 NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
 NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
 NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
+NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
