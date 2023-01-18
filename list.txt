@@ -874,6 +874,7 @@ DMAX HD,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc825
 動物星球頻道HD,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+美食星球,http://50.7.220.74:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 幸福空間居家台HD,https://git.io/JgYYF
 幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
