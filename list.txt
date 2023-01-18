@@ -1346,6 +1346,23 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
 🔞18禁頻道,#genre#
+K2,http://nerdsvpn.nl:8080/9513739718/5914837179/364298
+K3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
+彩虹e台,mitv://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
+彩虹电影台,mitv://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
+LOOK TV,mitv://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
+潘朵啦玩美台,mitv://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
+惊艳成人电影台,mitv://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
+松视1台,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
+松视2台,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
+PLAYBOY,mitv://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
+香蕉台,mitv://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
+松视3台,mitv://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
+JStar极限台,mitv://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
+HAPPY,mitv://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
+K,mitv://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
+
+
 A3 Bikini,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6165/index.m3u8
 Adult Time,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6166/index.m3u8
 Alba 1,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12106/index.m3u8
