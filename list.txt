@@ -716,7 +716,6 @@ CHC高请电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 央視體育賽事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 央視奧林匹克,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
 央視奧林匹克,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-廣東體育,http://r.jdshipin.com/LiYdg
 緯來體育台HD,http://60.251.33.252:18509/.m3u8
 緯來體育台HD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 緯來體育台HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
