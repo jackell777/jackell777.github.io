@@ -794,6 +794,7 @@ Sky Sports Main Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme30
 Sky Sports Top Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100
 智林體育台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 智林體育台HD,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新視覺HD,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
