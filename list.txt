@@ -346,6 +346,8 @@ TV5MONDE STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122
 時尚台FTV,http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 滾動力 rollor HD,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+HGTV,http://38.60.38.65:5588/wm2268.php?id=HGTV
+亞洲美食頻道,http://38.60.38.65:5588/wm2268.php?id=afc_twn
 八度空間,http://23.237.10.66:16406
 astro歡喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 央視綜合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
