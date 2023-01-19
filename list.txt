@@ -82,6 +82,7 @@ TVBS HD,https://git.io/JgYl2
 寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇財經,http://38.60.38.65:5588/wm2268.php?id=huanyutaiwan_twn
 非凡新聞HD,http://220.134.196.147:9506/index.m3u8
 非凡新聞HD,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞HD,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
