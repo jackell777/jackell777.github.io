@@ -788,16 +788,16 @@ ELEVEN SPORTS 2 HD,rtmp://59.124.75.147/sat/tv741
 博斯魅力台,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯魅力台,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
-央視撞球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 央視撞球,http://117.161.133.51/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
-央視風雲足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+央視撞球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 央視風雲足球,http://117.161.133.51/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
+央視風雲足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
 央視風雲足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 央視風雲足球,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012514203.m3u8
 央視風雲足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 央視風雲足球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-央視高爾夫網球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
 央視高爾夫網球,http://117.161.133.51/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
+央視高爾夫網球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
