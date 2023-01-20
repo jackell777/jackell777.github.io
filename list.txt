@@ -579,35 +579,35 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 全球大片,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+華語影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 華語影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-華語影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-AXN HD,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 AXN HD,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+AXN HD,http://38.60.38.65:5588/wm2268.php?id=Axn
 AXN HD,http://218.32.47.179:18558/.m3u8
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 HBO,http://220.134.196.147:9511/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,https://epg.pw/stream/9682563c191635f432377079da2a239e5e0862be421ee422def3149d66eccade.ctv
-HBO HD頻道,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO HD頻道,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941648&extension=ts&play_token=ugINSWFpwQ
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD頻道,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO強檔鉅獻HD,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+HBO強檔鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941647&extension=ts&play_token=LZ8BJ2cyF1
 HBO強檔鉅獻HD,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
 HBO強檔鉅獻HD,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-HBO原創鉅獻HD,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+HBO原創鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941645&extension=ts&play_token=fryc1bPbgo
 HBO原創鉅獻HD,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO溫馨家庭HD,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+HBO溫馨家庭HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941646&extension=ts&play_token=Q0OcWG0Mqf
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
