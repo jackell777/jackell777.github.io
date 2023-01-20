@@ -319,8 +319,8 @@ TLC 旅遊生活頻道HD,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/
 TLC 旅遊生活頻道HD,http://www.yshmzmc.top/gtjm.php?id=live1005
 TLC 旅遊生活頻道HD,http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 JET 綜合台HD,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
-JET 綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 JET 綜合台HD,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+JET 綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 國興衛視HD,http://220.134.196.147:9545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 靖天電視台,https://ytm2.yuanhsing.cf/Faintv.m3u8
