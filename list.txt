@@ -412,8 +412,8 @@ HGTV,http://38.60.38.65:5588/wm2268.php?id=HGTV
 海豚綜合台HD,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 人間衛視HD,http://60.251.33.252:18561/.m3u8
-天良綜合台HD,https://epg.pm/stream/3b1f06a7804482922f0b50f631b5b8db6a588b2da0d6f10a03d4ae6e8450f29e.ctv
-信吉電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+（維修）天良綜合台HD,https://epg.pm/stream/3b1f06a7804482922f0b50f631b5b8db6a588b2da0d6f10a03d4ae6e8450f29e.ctv
+（維修）信吉電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 信大電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
@@ -443,9 +443,9 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 星空衛視,http://113.117.74.8:808/hls/87/index.m3u8
 星空衛視,http://120.84.96.69:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.69:808/hls/79/index.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+（維修）香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+（維修）香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+（維修）香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視文旅台,http://107.151.203.111:2209/135/hk.php?id=hk6
 鳳凰衛視,http://60.251.33.252:18581/.m3u8
 Arirang TV HD,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
