@@ -632,7 +632,6 @@ CINEMAX HD,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311
 央視電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 IPTV高清院線,http://home.111818.xyz:8888/udp/239.76.252.217:9000
-IPTV高清院線,https://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 北京IPTV淘电影,http://genglicai.3322.org:9901/tsfile/live/1022_1.m3u8
 北京IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
