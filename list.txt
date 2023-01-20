@@ -1109,6 +1109,7 @@ NASA 4k 60P,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc514333
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts?FIFA世界杯WorldCup
+
 央視頻道,#genre#
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
