@@ -861,9 +861,11 @@ WWE摔角,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
 人文幼兒,#genre#
+央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 央視記錄,http://live.cooltv.top/tv/aishang.php?id=cctv9hd2
 央視記錄,http://123.6.9.146/live/jz-cctv-9/live.m3u8
+央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
 央視科教,http://123.6.9.146/live/jz-cctv-10/live.m3u8
