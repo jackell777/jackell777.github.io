@@ -612,7 +612,7 @@ HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF73127285
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 My Cinema Europe HD 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-好萊塢電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+好萊塢電影台HD,http://38.60.38.65:5588/wm2268.php?id=hollywoodmovies_twn
 好萊塢電影台HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 好萊塢電影台HD,http://220.134.196.147:9551/index.m3u8
 好萊塢電影台HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
