@@ -658,8 +658,8 @@ CHC家庭电影,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
 CHC家庭电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC家庭电影,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC动作电影,http://wabc.ml/sxg.php?id=gef.wqCHCdzdyH265_4000
-CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC高清电影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
 CHC高清电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
