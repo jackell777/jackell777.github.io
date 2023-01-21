@@ -594,21 +594,21 @@ AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 HBO,http://220.134.196.147:9511/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,https://epg.pw/stream/9682563c191635f432377079da2a239e5e0862be421ee422def3149d66eccade.ctv
-HBO HD頻道,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941648&extension=ts&play_token=ugINSWFpwQ
+HBO,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941648&extension=ts&play_token=ugINSWFpwQ
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD頻道,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO強檔鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941647&extension=ts&play_token=LZ8BJ2cyF1
 HBO強檔鉅獻HD,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
 HBO強檔鉅獻HD,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-HBO原創鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941645&extension=ts&play_token=fryc1bPbgo
+HBO強檔鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941647&extension=ts&play_token=LZ8BJ2cyF1
 HBO原創鉅獻HD,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO溫馨家庭HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941646&extension=ts&play_token=Q0OcWG0Mqf
+HBO原創鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941645&extension=ts&play_token=fryc1bPbgo
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO溫馨家庭HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941646&extension=ts&play_token=Q0OcWG0Mqf
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 MCE HD我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 好萊塢電影台HD,http://38.60.38.65:5588/wm2268.php?id=hollywoodmovies_twn
