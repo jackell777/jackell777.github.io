@@ -786,7 +786,7 @@ ELEVEN SPORTS 2 HD,rtmp://59.124.75.147/sat/tv741
 博斯運動二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯運動二台,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯無限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-博斯無限二台,P2p://generationnexxxt.com:18806/8e4603ad3d8f4b3c8e5d8e4ede0761a1
+博斯無限2台,p2p://generationnexxxt.com:18806/8e4603ad3d8f4b3c8e5d8e4ede0761a1
 博斯網球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯網球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯網球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
@@ -1494,20 +1494,19 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
 🔞18禁頻道,#genre#
-彩虹e台,P2p://generationnexxxt.com:18806/421599c114f241748a638a2ed9fa9a72
-彩虹电影台,P2p://generationnexxxt.com:18806/20890a715dc24471aa63db3134c72b14
-LOOK TV,P2p://generationnexxxt.com:18806/5d1e5430d7b74a1489f7949d6f513be8
-潘朵啦玩美台,P2p://generationnexxxt.com:18806/eefdd9e57f0541baa10b60d7b25389ba
-惊艳电影台,P2p://generationnexxxt.com:18806/22f04b24f484402cb33af5263a37cb81
-松视1台,P2p://generationnexxxt.com:18806/f0afe1b06e4d46609aedcf814515390f
-松视2台,P2p://generationnexxxt.com:18806/5fc03ace261842c0bb2d028b3c652fe0
-松视3台,P2p://generationnexxxt.com:18806/5503ce8c345c4e8eb8da18d1d87903a9
-PLAYBOY,P2p://generationnexxxt.com:18806/6437ebfa6b8d40d281d3ee5b26044638
-香蕉台,P2p://generationnexxxt.com:18806/5d34b963ec264b3cb7e095473eee4f05
-JStar极限台,P2p://generationnexxxt.com:18806/0a9b53648ee44295bcfed16672d30743
-HAPPY,P2p://generationnexxxt.com:18806/046fa97ceef24e8fa4da5652a329f5dd
-K频道,P2p://generationnexxxt.com:18806/e15609cec41242d7953dd5b6e758f3ed
-
+彩虹e台,p2p://generationnexxxt.com:18806/421599c114f241748a638a2ed9fa9a72
+彩虹电影台,p2p://generationnexxxt.com:18806/20890a715dc24471aa63db3134c72b14
+LOOK TV,p2p://generationnexxxt.com:18806/5d1e5430d7b74a1489f7949d6f513be8
+潘朵啦玩美台,p2p://generationnexxxt.com:18806/eefdd9e57f0541baa10b60d7b25389ba
+惊艳电影台,p2p://generationnexxxt.com:18806/22f04b24f484402cb33af5263a37cb81
+松视1台,p2p://generationnexxxt.com:18806/f0afe1b06e4d46609aedcf814515390f
+松视2台,p2p://generationnexxxt.com:18806/5fc03ace261842c0bb2d028b3c652fe0
+松视3台,p2p://generationnexxxt.com:18806/5503ce8c345c4e8eb8da18d1d87903a9
+PLAYBOY,p2p://generationnexxxt.com:18806/6437ebfa6b8d40d281d3ee5b26044638
+香蕉台,p2p://generationnexxxt.com:18806/5d34b963ec264b3cb7e095473eee4f05
+JStar极限台,p2p://generationnexxxt.com:18806/0a9b53648ee44295bcfed16672d30743
+HAPPY,p2p://generationnexxxt.com:18806/046fa97ceef24e8fa4da5652a329f5dd
+K频道,p2p://generationnexxxt.com:18806/e15609cec41242d7953dd5b6e758f3ed
 Extasy 4K,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/5014/index.m3u8
 Cum 4k,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/6190/index.m3u8
 Tiny 4K,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/6258/index.m3u8
