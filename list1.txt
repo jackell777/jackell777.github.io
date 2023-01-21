@@ -1,1 +1,27 @@
-
+CCTV16,p2p://generationnexxxt.com:18806/6dffbf12e3964e41a05f137a13ed0f06
+CCTV5,p2p://generationnexxxt.com:18806/675ef324d56e4a609cee1a326de0c7de
+CCTV5+,p2p://generationnexxxt.com:18806/68089a110c9a4517aebed627ff94ded1
+五星体育,P2p://generationnexxxt.com:18806/036dd8db921f4a00920ca4966089e801
+ELEVEN体育一台,P2p://generationnexxxt.com:18806/faf1878c89be41538ff3433ebdd56c15
+ELEVEN体育二台,P2p://generationnexxxt.com:18806/7e0fb75b552c476eb6d549cdbcac669e
+HKC 18,P2p://generationnexxxt.com:18806/89b412badf9542d98c4e26bc99574fb8
+香港603,P2p://generationnexxxt.com:18806/d88d68ef9403428fbfacee4af40f5d4d
+HKC Sports Plus 1,P2p://generationnexxxt.com:18806/afd2f55ac4704ab98c1b421be9f84fa2
+HKC体育台,P2p://generationnexxxt.com:18806/b2ea5cf3ab8f479690072af8634628b4
+爱尔达体育1台(备),P2p://generationnexxxt.com:18806/8d5453b7221d421d859f9be697be688d
+爱尔达体育1台,P2p://generationnexxxt.com:18806/47fb2dd48b944a36924b2bd4debf4faa
+爱尔达体育2,P2p://generationnexxxt.com:18806/5e40167cc9e742379910fcc59160bddf
+爱尔达体育3台,P2p://generationnexxxt.com:18806/a8003d2b55884eb4a225e4e4197ede07
+博斯高球1台,P2p://generationnexxxt.com:18806/3bd19922dd044023ad24b643d0ea9ebc
+博斯高球2台,P2p://generationnexxxt.com:18806/7f2c0ca01cea445fa7e2b8b2b711b789
+博斯魅力网,P2p://generationnexxxt.com:18806/e8cbd43b02ff456990d6b853139c3ab5
+博斯网球台,P2p://generationnexxxt.com:18806/e279ab2edd494e09af85c92ff1224718
+博斯无限二台,P2p://generationnexxxt.com:18806/8e4603ad3d8f4b3c8e5d8e4ede0761a1
+博斯无限台,P2p://generationnexxxt.com:18806/4ee1ce3a2a7c442aa1ab33ce9d548c42
+博斯运动一台,P2p://generationnexxxt.com:18806/e5b1cc34360e423d928a131bee65f01f
+博斯运动二台,P2p://generationnexxxt.com:18806/9710fd8c9e9b4131abf1b8e49b6721c6
+广东体育,P2p://generationnexxxt.com:18806/e11f02f3cf6f48f0b1d75ec48d0e4283
+魅力足球,P2p://generationnexxxt.com:18806/f225eb4aaeff4b31bfcb3c8b66c4c3e9
+纬来体育台,P2p://generationnexxxt.com:18806/7067fe984943401088ac5bd81f8c1772
+纬来育乐台,P2p://generationnexxxt.com:18806/1d5656ba1d4442a493b43c3f266fed56
+智林体育,P2p://generationnexxxt.com:18806/39ae5429e87a45148283163b40cff18c
