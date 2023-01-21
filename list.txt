@@ -1030,6 +1030,9 @@ TVB娱乐新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&
 無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
 無綫新聞台,http://radius.8866.org:800/hls/82/index.m3u8
 無綫新聞台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+now新聞,http://2022.stream-link.org/playlist/now_news
+now財經,http://2022.stream-link.org/playlist/now_finance
+now精選體育,http://2022.stream-link.org/playlist/now_sports
 J1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153395&extension=ts&play_token=tdSmXOsMqf
 J1,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 J2,http://r.jdshipin.com/Nr5jq
