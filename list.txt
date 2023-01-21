@@ -879,6 +879,7 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 央視科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
 央視科教,http://123.6.9.146/live/jz-cctv-10/live.m3u8
 LOVE NATURE,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
+BBC Earth,http://eaglevision.visualsec.net:8443/live/8K1eYn_JxymlrwmHKcCHsQ/1674421393/230.m3u8
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
 BBC Earth,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941667&extension=ts&play_token=2qKEvK9Pft
 BBC Lifestyle,http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
