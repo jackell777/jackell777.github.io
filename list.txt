@@ -537,9 +537,9 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 衛視電影台HD,http://220.134.196.147:9549/index.m3u8
 衛視電影台HD,http://23.237.10.66:16010
 Star Movies HD,P2p://generationnexxxt.com:18806/b8b5bcb2d096413186e90d12a244ddfc
-STAR Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-STAR Movies Gold HD,http://www.yshmzmc.top/gtjm.php?id=live2023
-STAR Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+Star Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+Star Movies Gold HD,http://www.yshmzmc.top/gtjm.php?id=live2023
+Star Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 STAR Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 STAR Movies Gold HD,http://220.134.196.147:9560/index.m3u8
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
@@ -870,7 +870,6 @@ J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccod
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
 NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
-NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
 NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
@@ -908,9 +907,7 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 LOVE NATURE,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 BBC Earth,http://eaglevision.visualsec.net:8443/live/8K1eYn_JxymlrwmHKcCHsQ/1674421393/230.m3u8
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-BBC Earth,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941667&extension=ts&play_token=2qKEvK9Pft
 BBC Lifestyle,http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-BBC Lifestyle,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941668&extension=ts&play_token=bWqZEaLFZU
 Discovery 頻道HD,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
 Discovery 頻道HD,http://220.134.196.147:9520/index.m3u8
 Discovery 頻道HD,http://220.134.196.147:9510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
