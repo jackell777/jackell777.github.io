@@ -699,6 +699,7 @@ CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://wabc.ml/sxg.php?id=emdygqH265_4000
 峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
+1905電影,https://epg.pw/stream/b3021464ac49101cfe9b3d04bd430f7d3096a77350edf6f2d608ede8faaaab5d.m3u8
 
 鬥魚電影頻道,#genre#
 經典恐怖电影,http://epg.112114.xyz/douyu/1165374
