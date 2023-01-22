@@ -668,6 +668,7 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 北京IPTV淘电影,http://genglicai.3322.org:9901/tsfile/live/1022_1.m3u8
 北京IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘电影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+鳳凰電影,https://epg.pw/stream/5c92bcc101de0dd4b2bc19f2d0b82dfeaed01bb6492cbc94cf2cdfe12bf279b1.m3u8
 鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?blog.ntnas.top
 漫威宇宙電影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
