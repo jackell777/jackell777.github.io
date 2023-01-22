@@ -375,7 +375,7 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 時尚台FTV,http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 時尚台FTV,http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
+寰宇娛樂TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 滾動力 rollor HD,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 HGTV,http://38.60.38.65:5588/wm2268.php?id=HGTV
 亞洲美食頻道,http://38.60.38.65:5588/wm2268.php?id=afc_twn
