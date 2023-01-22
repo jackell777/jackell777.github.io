@@ -475,6 +475,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 
 電影頻道,#genre#
 東森電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
+東森電影台HD,P2p://generationnexxxt.com:18806/89b8f3ae536c431dae4da52b57bd704b
 東森電影台HD,http://107.151.203.111:2209/135/hk.php?id=dsdyt
 東森電影台HD,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森電影台HD,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
@@ -490,6 +491,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 東森電影台HD,http://120.84.96.78:808/hls/32/index.m3u8?blog.ntnas.top
 東森電影台HD,http://120.84.96.69:808/hls/32/index.m3u8?blog.ntnas.top
 東森洋片台HD,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+東森洋片台HD,P2p://generationnexxxt.com:18806/9d3b687174114c3ca176f0b9f6097ca0
 東森洋片台HD,http://107.151.203.111:2209/135/hk.php?id=dsypt
 東森洋片台HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 東森洋片台HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
@@ -521,7 +523,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 衛視電影台HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台HD,http://220.134.196.147:9549/index.m3u8
 衛視電影台HD,http://23.237.10.66:16010
-StarMoviesHD,P2p://generationnexxxt.com:18806/b8b5bcb2d096413186e90d12a244ddfc
+Star Movies HD,P2p://generationnexxxt.com:18806/b8b5bcb2d096413186e90d12a244ddfc
 STAR Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 STAR Movies Gold HD,http://www.yshmzmc.top/gtjm.php?id=live2023
 STAR Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
@@ -530,7 +532,18 @@ STAR Movies Gold HD,http://220.134.196.147:9560/index.m3u8
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
 HITS頻道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 HITS頻道,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941578&extension=ts&play_token=o5FnGLFjil
+HITS MOVIES HD,P2p://generationnexxxt.com:18806/f439650cffcb44d6acd19ba5d6d4a2cf
+HITS MOVIES HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941606&extension=ts&play_token=QB7TbEFNTZ
 HITS MOVIES HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941577&extension=ts&play_token=2qoVHSh3hm
+BOO,P2p://generationnexxxt.com:18806/2b0ac2f2d3984806b8d73ef1a70df701
+AMC,P2p://generationnexxxt.com:18806/120ea1b7500a43bea14f633738fb91da
+WarnerTV,P2p://generationnexxxt.com:18806/ef69178139ae4db69e3ba96285e4db4f
+tvN,P2p://generationnexxxt.com:18806/002e853e84314b65a426f3bd542018be
+tvN Movies HD,P2p://generationnexxxt.com:18806/814ae1ac781c486685b70797698f9fb5
+Thrill,P2p://generationnexxxt.com:18806/e6ddf84d585a4ef086613dc1148a91a6
+SHOWCASE MOVIES,P2p://generationnexxxt.com:18806/579de82946444d6dbeb0154f3dfd0705
+HKC电影台,P2p://generationnexxxt.com:18806/c8a68ee5c4ce45ce9c7305da74adf752
+壹电视电影台,P2p://generationnexxxt.com:18806/c19fef588f0f4b09bcecafc1bdbc014f
 影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
@@ -562,6 +575,7 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?ct=19226&tid=MFEF1001328410013284&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影(粤语),P2p://generationnexxxt.com:18806/36168ffcc2234f0fb6486c2fd4e318d7
 天映經典,http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.m3u8
 天映經典,http://107.151.203.111:2209/135/hk.php?id=ccmt
 天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MC8C8240146082401460&ct=19254&tsum=bd09d5cb5e6039e14bd93ca49b968ba8
