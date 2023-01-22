@@ -1110,23 +1110,6 @@ VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C141237661412376
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳视资讯,http://103.214.71.71:1656/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
-澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8?zgangd
-澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
-澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8?zgangd
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8?zgangd
-澳門-MACAU,http://61.244.22.5/ch3/ch3.live/index.m3u8
-澳视葡文,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳视综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8?zgangd
-澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-澳视体育,http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-澳视体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
-澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
-澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 
 4K頻道,#genre#
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
