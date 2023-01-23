@@ -484,6 +484,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
 電影頻道,#genre#
+東森電影台HD,P2p://generationnexxxt.com:18806/89b8f3ae536c431dae4da52b57bd704b
 東森電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影台HD,P2p://generationnexxxt.com:18806/89b8f3ae536c431dae4da52b57bd704b
 東森電影台HD,https://epg.pw/stream/c202e2ea1232381f5f1544fc8bd7e9c3a8eadab8492a8d1a9d36b73a464bcccc.m3u8
@@ -501,6 +502,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 東森電影台HD,http://120.84.96.74:808/hls/32/index.m3u8?blog.ntnas.top
 東森電影台HD,http://120.84.96.78:808/hls/32/index.m3u8?blog.ntnas.top
 東森電影台HD,http://120.84.96.69:808/hls/32/index.m3u8?blog.ntnas.top
+東森洋片台HD,P2p://generationnexxxt.com:18806/9d3b687174114c3ca176f0b9f6097ca0
 東森洋片台HD,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 東森洋片台HD,P2p://generationnexxxt.com:18806/9d3b687174114c3ca176f0b9f6097ca0
 東森洋片台HD,https://epg.pw/stream/b0f590a302d1f12fd4beb3ad957e0d70e33b4f92681a6e64699ebec48542ba23.ctv
