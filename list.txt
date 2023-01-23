@@ -189,6 +189,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 公視三台,P2p://generationnexxxt.com:18806/9c0decadcd27419b845a061351c2e19d
 公視戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 中天綜合台HD,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天綜合台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/ctizhonghe/playlist.m3u8
 中天綜合台HD,http://23.237.10.66:16372
 中天綜合台HD,http://220.134.196.147:9536/index.m3u8
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
@@ -198,6 +199,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中天綜合台HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天綜合台HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天娛樂台HD,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
+中天娛樂台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/ctient/playlist.m3u8
 中天娛樂台HD,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娛樂台HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娛樂台HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
@@ -353,6 +355,7 @@ JET 綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch
 爱爾達综合台,http://193.29.189.71:6868/cczz66.php?id=eltazonghe
 爱爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 爱爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+爱爾達影劇台,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/eltadrama_twn/playlist.m3u8
 爱爾達影劇台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 爱爾達影劇台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 爱爾達影劇台,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
@@ -525,6 +528,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 緯來電影台HD,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 緯來電影台HD,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 星衛HD電影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+星衛HD電影台,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/xingwei_movie/playlist.m3u8
 星衛HD電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星衛HD電影台,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 星衛HD電影台,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
@@ -567,10 +571,12 @@ CATCHPLAY Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunkl
 龍華電影,http://218.32.47.179:18556/.m3u8
 龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 龍華洋片,http://pull-l3-cny.douyincdn.com/third/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+龍華洋片,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lunghuawestern_twn/playlist.m3u8
 龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龍華洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 LS龍祥電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
+LS龍祥電影台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lungxiangtime_twn/playlist.m3u8
 LS龍祥電影台HD,http://198.16.64.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 LS龍祥電影台HD,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 LS龍祥電影台HD,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
@@ -617,6 +623,7 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+AXN HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/axn_twn/playlist.m3u8
 AXN HD,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN HD,http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
 AXN HD,http://218.32.47.179:18558/.m3u8
@@ -625,6 +632,7 @@ AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&c
 HBO,http://220.134.196.147:9511/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,https://epg.pw/stream/9682563c191635f432377079da2a239e5e0862be421ee422def3149d66eccade.ctv
 HBO HD頻道,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO HD頻道,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/hbohd_twn/playlist.m3u8
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
@@ -634,6 +642,7 @@ HBO強檔鉅獻HD,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.nt
 HBO強檔鉅獻HD,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 HBO強檔鉅獻HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941647&extension=ts&play_token=LZ8BJ2cyF1
 HBO原創鉅獻HD,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+HBO原創鉅獻HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/hbosignature_twn/playlist.m3u8
 HBO原創鉅獻HD,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
@@ -643,6 +652,7 @@ HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 MCE HD我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 好萊塢電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+好萊塢電影台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/hollywoodmovies_twn/playlist.m3u8
 好萊塢電影台HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 好萊塢電影台HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 好萊塢電影台HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
@@ -650,6 +660,7 @@ MCE HD我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.strea
 好萊塢電影台HD,http://220.134.196.147:9551/index.m3u8
 好萊塢電影台HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 CINEMAX HD,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+CINEMAX HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/cinemax_twn/playlist.m3u8
 CINEMAX HD,http://220.134.196.147:9530/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CINEMAX HD,http://218.32.47.179:18559/.m3u8
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
@@ -914,20 +925,24 @@ BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312
 BBC Lifestyle,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/bbclifestyle_twn/playlist.m3u8
 BBC Lifestyle,http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 Discovery 頻道HD,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
+Discovery 頻道HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/discoveryhd_twn/playlist.m3u8
 Discovery 頻道HD,http://220.134.196.147:9520/index.m3u8
 Discovery 頻道HD,http://220.134.196.147:9510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
 Discovery 頻道HD,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 Discovery 頻道HD,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 Discovery 頻道HD,http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 Discovery Asia,http://eaglevision.visualsec.net:8443/live/8K1eYn_JxymlrwmHKcCHsQ/1674421393/224.m3u8
+Discovery Asia,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/discoverytwn_twn/playlist.m3u8
 Discovery Asia,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
 Discovery Asia,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 Discovery Asia,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 Discovery科學頻道,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+Discovery科學頻道,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/discoverysc_twn/playlist.m3u8
 Discovery科學頻道,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 Discovery科學頻道,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 罪案偵緝頻道,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist_w740064912.m3u8
 DMAX HD,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
+DMAX HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/discoveryturbo_twn/playlist.m3u8
 DMAX HD,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 DMAX HD,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
 國家地理頻道HD,http://220.134.196.147:9509/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
@@ -994,6 +1009,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 嘉佳卡通,http://23.237.10.66:16662
 嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
 嘉佳卡通,http://111.20.33.103/TVOD/88888893/224/3221226227/index.m3u8?blog.ntnas.top
+Baby TV HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/babytv_twn/playlist.m3u8
 Baby TV HD,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
 Baby TV HD,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
 Baby TV HD,http://www.yshmzmc.top/gtjm.php?id=live1007
