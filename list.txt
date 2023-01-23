@@ -948,7 +948,7 @@ DMAX HD,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc825
 DMAX HD,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
 國家地理頻道HD,http://220.134.196.147:9509/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 國家地理頻道HD,http://220.134.196.147:9569/index.m3u8
-國家地理國際頻道,http://38.60.38.65:5588/wm2268.php?id=natgeohd_twn
+國家地理國際頻道,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/natgeohd_twn/playlist.m3u8
 國家地理國際頻道,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 國家地理國際頻道,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
 國家地理野生高畫質頻道,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
