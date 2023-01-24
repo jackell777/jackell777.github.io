@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -480,6 +481,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 華語電視2,https://epg.pw/stream/1bc31c5aef3c9f590724f97413d8e11a265d4268a4624043f3a9bf0691373cd9.m3u8
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 華語電視3,https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
+愛奇藝iQiyi,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Qiyi/playlist.m3u8
 芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 環球旅遊,http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
 星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
@@ -1574,10 +1576,7 @@ PLAYBOY,p2p://generationnexxxt.com:18806/6437ebfa6b8d40d281d3ee5b26044638
 JStar极限台,p2p://generationnexxxt.com:18806/0a9b53648ee44295bcfed16672d30743
 HAPPY,p2p://generationnexxxt.com:18806/046fa97ceef24e8fa4da5652a329f5dd
 K频道,p2p://generationnexxxt.com:18806/e15609cec41242d7953dd5b6e758f3ed
-Extasy 4K,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/5014/index.m3u8
-Cum 4k,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/6190/index.m3u8
-Tiny 4K,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/6258/index.m3u8
-SEX_VR,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/19406/index.m3u8
+
 ➌Adult 7 HD,http://live.geoiptv.org:8880/live/jibran/jibran1/268481.ts
 ➌Adult Mix,http://live.geoiptv.org:8880/live/jibran/jibran1/60089.ts
 ➌Adult Tİme,http://live.geoiptv.org:8880/live/jibran/jibran1/268703.ts
