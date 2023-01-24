@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -480,6 +481,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 華語電視3,https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
 芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 環球旅遊,http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
+星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 星空衛視,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
 星空衛視,http://120.84.96.161:808/hls/79/index.m3u8
@@ -1143,7 +1145,8 @@ VIUTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 VIUTV6,http://radius.8866.org:800/hls/85/index.m3u8
 VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
