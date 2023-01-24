@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -119,7 +120,7 @@ now新聞台,https://epg.pw/stream/3105c3babfd0f44de56eca1b5c8abf7c7c2b36dff3dc3
 鳳凰資訊台,https://epg.pw/stream/54f53acfdf2567a5388ae623135f160d406ea7c6c50dcc4b2e06ac2f00bb7fbc.m3u8
 鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-鳳凰香港,https://epg.pw/stream/464a51e02c602c584eb21c4d467619122534c52f6d3b9fe4f1bf5831d3f2466e.m3u8
+鳳凰香港,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/hkphoenix_twn/playlist.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.96:808/hls/81/index.m3u8
