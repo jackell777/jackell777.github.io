@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -1053,6 +1054,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 迪士尼动画,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 寶可夢,http://epg.112114.xyz/douyu/9765742
+蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
 鬥魚搞笑動漫,http://epg.112114.xyz/douyu/9401305
 動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 名偵探柯南,http://epg.112114.xyz/douyu/5377297
