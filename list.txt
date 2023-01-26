@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -190,6 +191,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 公視HD,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 公視HD,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公視三台,P2p://generationnexxxt.com:18806/9c0decadcd27419b845a061351c2e19d
+公視台語台,http://38.60.38.65:6868/wmm668.php?id=ctv2_taiwan
 公視戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 中天綜合台HD,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天綜合台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/ctizhonghe/playlist.m3u8
@@ -357,7 +359,9 @@ TLC 旅遊生活頻道HD,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/
 TLC 旅遊生活頻道HD,http://www.yshmzmc.top/gtjm.php?id=live1005
 TLC 旅遊生活頻道HD,http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 HGTV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/HGTV/playlist.m3u8
+HGTV,http://38.60.38.65:6868/wmm668.php?id=HGTV
 亞洲美食afn,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/afc_twn/playlist.m3u8
+亞洲美食afn,http://38.60.38.65:6868/wmm668.php?id=afc_twn
 JET 綜合台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/jettv_japan/playlist.m3u8
 JET 綜合台HD,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 JET 綜合台HD,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
@@ -372,6 +376,7 @@ JET 綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch
 靖天國際台,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
 靖天育樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 爱爾達综合台,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/eltazonghe/playlist.m3u8
+爱爾達综合台,http://38.60.38.65:6868/wmm668.php?id=eltazonghe
 爱爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 爱爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 爱爾達影劇台,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/eltadrama_twn/playlist.m3u8
@@ -455,6 +460,7 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 人間衛視HD,http://60.251.33.252:18561/.m3u8
 天良綜合台HD,https://epg.pm/stream/3b1f06a7804482922f0b50f631b5b8db6a588b2da0d6f10a03d4ae6e8450f29e.ctv
 信吉電視台HD,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/huanyutaiwan_twn/playlist.m3u8
+信吉電視台HD,http://38.60.38.65:6868/wmm668.php?id=huanyutaiwan_twn
 信吉電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 信大電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
