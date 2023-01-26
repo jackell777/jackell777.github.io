@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -620,7 +621,7 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
 天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b
-天映頻道,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Celestial/playlist.m3u8
+天映頻道,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
 天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映頻道,http://198.16.64.10:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
