@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -385,6 +386,7 @@ EYE旅遊台,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066
 EYE旅遊台,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 ONE,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941601
 ONE,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941628
+tvN,http://38.60.38.65:6868/wmm668.php?id=TVN
 Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 影迷數位紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 視納華仁紀實台,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
@@ -577,15 +579,10 @@ ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m
 HITS頻道,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941607
 HITS頻道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 HITS MOVIES HD,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941606
-BOO,P2p://generationnexxxt.com:18806/2b0ac2f2d3984806b8d73ef1a70df701
-AMC,P2p://generationnexxxt.com:18806/120ea1b7500a43bea14f633738fb91da
+BOO,http://38.60.38.65:6868/wmm668.php?id=Boo
 WarnerTV,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941652
-tvN,P2p://generationnexxxt.com:18806/002e853e84314b65a426f3bd542018be
-tvN Movies HD,P2p://generationnexxxt.com:18806/814ae1ac781c486685b70797698f9fb5
-Thrill,P2p://generationnexxxt.com:18806/e6ddf84d585a4ef086613dc1148a91a6
-SHOWCASE MOVIES,P2p://generationnexxxt.com:18806/579de82946444d6dbeb0154f3dfd0705
-HKC电影台,P2p://generationnexxxt.com:18806/c8a68ee5c4ce45ce9c7305da74adf752
-壹电视电影台,P2p://generationnexxxt.com:18806/c19fef588f0f4b09bcecafc1bdbc014f
+tvN Movies HD,http://38.60.38.65:6868/wmm668.php?id=Tvnmovie
+Thrill,http://38.60.38.65:6868/wmm668.php?id=Thrill
 影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
