@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -501,6 +502,9 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
 電影頻道,#genre#
+東森電影台HD,http://198.16.106.155:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森電影台HD,http://198.16.106.155:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影台HD,http://198.16.106.155:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 東森電影台HD,http://38.60.38.65:6868/wmm668.php?id=ettvmovie
 東森電影台HD,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影台HD,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/ettvmovie/playlist.m3u8
@@ -518,8 +522,11 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 東森電影台HD,http://120.84.96.74:808/hls/32/index.m3u8?blog.ntnas.top
 東森電影台HD,http://120.84.96.78:808/hls/32/index.m3u8?blog.ntnas.top
 東森電影台HD,http://120.84.96.69:808/hls/32/index.m3u8?blog.ntnas.top
-東森洋片台HD,http://38.60.38.65:6868/wmm668.php?id=ettvwestern
 東森洋片台HD,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+東森洋片台HD,http://198.16.106.155:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森洋片台HD,http://198.16.106.155:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+東森洋片台HD,http://198.16.106.155:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片台HD,http://38.60.38.65:6868/wmm668.php?id=ettvwestern
 東森洋片台HD,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/ettvwestern/playlist.m3u8
 東森洋片台HD,http://107.151.203.111:2209/135/hk.php?id=dsypt
 東森洋片台HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
