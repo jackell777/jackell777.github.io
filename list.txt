@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -609,6 +610,7 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://51.79.82.208:16024
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 澳門蓮花,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
