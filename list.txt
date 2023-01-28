@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -869,7 +870,7 @@ BT SPORT 1,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/9.m3u
 BT SPORT 1,http://50.7.220.74:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
 BT SPORT 1,http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
 BT SPORT 2,http://198.16.106.155:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
-BT SPORT 2,http://198.16.106.155:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcfhttp://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
+BT SPORT 2,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
 BT SPORT 2,http://50.7.220.74:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 BT SPORT 2,http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 BT SPORT 3,http://198.16.106.155:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
@@ -897,6 +898,7 @@ J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NBA TV,http://194.40.240.183:25461/3397537295/4538699784/55195
 NBA TV,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941562.m3u8
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
