@@ -897,7 +897,7 @@ J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NBA TV,http://194.40.240.183:25461/3397537295/4538699784/55195
+NBA TV,http://194.40.240.183:25461/3397537295/4538699784/55195.m3u8
 NBA TV,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941562.m3u8
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
