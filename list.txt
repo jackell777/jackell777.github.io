@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -952,6 +953,7 @@ TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+EDGEsport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 EDGEsport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
@@ -1075,9 +1077,14 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖洋卡通Nice,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 佩佩豬卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+青春动漫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 幼兒動畫歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 幼兒動畫歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+卡酷少儿,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+金鹰卡通,http://fengyeos.f3322.org:8002/udp/239.33.2.70:20700
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1000.m3u8?IASHttpSessionId=OTT2933020211208004916069966&zte_bandwidth=1000&bandwidth=1433600&ispcode=3&timeformat=local&channel=201600020004&ztecid=201600020004&m3u8_level=2&A=
 嘉佳卡通,http://23.237.10.66:16662
@@ -1089,6 +1096,8 @@ Baby TV HD,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE189053531890535
 Baby TV HD,http://www.yshmzmc.top/gtjm.php?id=live1007
 Baby TV HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 Baby TV HD,http://218.32.47.179:18514/.m3u8
+宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+宝宝动画,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 迪士尼动画,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 寶可夢,http://epg.112114.xyz/douyu/9765742
