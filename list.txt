@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -899,6 +900,12 @@ ELEVEN SPORTS 2 HD,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1
 央視風雲足球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
 央視高爾夫網球,http://fengyeos.f3322.org:8002/udp/239.33.3.88:23440
 央視高爾夫網球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+劲爆体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+五星体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+超级体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
@@ -1078,9 +1085,13 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 青春动漫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+动漫秀场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 幼兒動畫歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 幼兒動畫歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+炫动卡通,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 卡酷少儿,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 金鹰卡通,http://fengyeos.f3322.org:8002/udp/239.33.2.70:20700
