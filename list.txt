@@ -1,23 +1,24 @@
+
 新聞頻道,#genre#
-台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
-台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台視新聞台HD,https://git.io/JgkxY
+台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
 中視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視新聞台HD,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中視新聞台HD,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中視新聞台HD,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
 中視新聞台HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
+中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
 華視新聞資訊台HD,http://220.134.196.147:9538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 華視新聞資訊台HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊台HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 華視新聞資訊台HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
-民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
 民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
 民視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=1
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -25,28 +26,27 @@
 民視新聞台HD,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民視新聞台HD,http://123.51.229.65:18563/.m3u8
 TVBS新聞台 HD,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新聞台 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞台 HD,https://git.io/JgYl2
 TVBS新聞台 HD,http://2023.stream-link.org/playlist/tvbs_news
 TVBS新聞台 HD,http://38.60.38.65:6868/wmm668.php?id=tvbs_n
-TVBS新聞台 HD,https://git.io/JgYl2
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞台 HD,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://220.134.196.147:9503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 TVBS HD,http://38.60.38.65:6868/wmm668.php?id=tvbs
-TVBS HD,http://2023.stream-link.org/playlist/tvbs
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS HD,http://2023.stream-link.org/playlist/tvbs
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
-三立新聞LIVE,http://2023.stream-link.org/playlist/set_news.flv
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立iNEWS HD,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立iNEWS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 三立iNEWS HD,https://git.io/Jgkxj
+三立iNEWS HD,http://tv.redrainl.site:9500/live.m3u8?c=51
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞HD,http://38.60.38.65:6868/wmm668.php?id=niandainews_twn
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
