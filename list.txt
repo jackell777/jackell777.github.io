@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -588,7 +589,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 星衛HD電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星衛HD電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 星衛HD電影台,http://23.237.10.66:16359
-衛視電影台HD,http://220.134.196.147:9549/index.m3u8
+衛視電影台HD,http://220.134.196.147:9549/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台HD,http://www.yshmzmc.top/gtjm.php?id=live1031
 衛視電影台HD,http://218.32.47.179:18553/.m3u8
 衛視電影台HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
