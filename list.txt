@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -1178,6 +1179,7 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 now新聞台,http://2022.stream-link.org/playlist/now_news
 now新聞台,https://epg.pw/stream/3105c3babfd0f44de56eca1b5c8abf7c7c2b36dff3dc38e3d1d0e2aa5b1e5231.m3u8
 J1,http://38.60.38.65:6868/wmm668.php?id=tvbxinhe_twn
+J1,https://epg.pw/stream/71394077a59650f3857d50bebaae8cb6e3693ff4d7b45d4c0b511f24c5426ea2.ctv
 J1,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
