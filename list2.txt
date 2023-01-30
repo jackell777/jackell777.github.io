@@ -2,3 +2,15 @@ ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
 ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
 CINEMAX HD,http://line.premiumpowers.net:80/Manuel/1234567/941659
 TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
+HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
+HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
+HBO强档,http://line.premiumpowers.net:80/Manuel/1234567/941647
+AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
+CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
+HITS MOVIES,http://line.premiumpowers.net:80/Manuel/1234567/941606
+ANIMAX,http://line.premiumpowers.net:80/Manuel/1234567/941676
+ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
+CCM经典,http://line.premiumpowers.net:80/Manuel/1234567/941639
+天映,http://line.premiumpowers.net:80/Manuel/1234567/941618
+卫视电影台,http://line.premiumpowers.net:80/Manuel/1234567/941625
