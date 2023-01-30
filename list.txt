@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -40,7 +41,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
-三立新聞LIVE,http://2023.stream-link.org/playlist/set_news
+三立新聞LIVE,http://2023.stream-link.org/playlist/set_news.flv
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 三立iNEWS HD,http://tv.redrainl.site:9500/live.m3u8?c=51
@@ -399,8 +400,8 @@ Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/c
 華語綜藝台,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
 MTV Live HD音樂頻道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-MUSIC TV,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/MusicTV/playlist.m3u8
 MUSIC TV,http://38.60.38.65:6868/wmm668.php?id=MusicTV
+MUSIC TV,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/MusicTV/playlist.m3u8
 央視音樂,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 央視音樂,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 央視音樂,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
