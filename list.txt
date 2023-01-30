@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://git.io/JgkxY
@@ -731,6 +732,7 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 4K超高清電影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清電影,http://r.jdshipin.com/5DWJk
+黑莓電影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓電影,https://epg.pw/stream/2e1a99a107273a61bc4d0e04db3fa5c1f70489419f7136c571fb46fc71d5a24d.m3u8
 黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
