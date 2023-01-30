@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -1105,6 +1106,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 金鹰卡通,http://fengyeos.f3322.org:8002/udp/239.33.2.70:20700
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1000.m3u8?IASHttpSessionId=OTT2933020211208004916069966&zte_bandwidth=1000&bandwidth=1433600&ispcode=3&timeformat=local&channel=201600020004&ztecid=201600020004&m3u8_level=2&A=
+嘉佳卡通,http://ct.whosayssowhat.top:4022/udp/239.77.0.179:5146
 嘉佳卡通,http://23.237.10.66:16662
 嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
 嘉佳卡通,http://111.20.33.103/TVOD/88888893/224/3221226227/index.m3u8?blog.ntnas.top
@@ -1119,7 +1121,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 迪士尼动画,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 寶可夢,http://epg.112114.xyz/douyu/9765742
-蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
+蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
 鬥魚搞笑動漫,http://epg.112114.xyz/douyu/9401305
 動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 名偵探柯南,http://epg.112114.xyz/douyu/5377297
