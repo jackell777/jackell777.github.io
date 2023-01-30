@@ -1,1 +1,4 @@
-
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
+CINEMAX HD,http://line.premiumpowers.net:80/Manuel/1234567/941659
+TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
