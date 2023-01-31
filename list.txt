@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -949,6 +950,18 @@ Sky Sports Top Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300
 新視覺HD,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+beIN Sports 1,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34718
+beIN Sports 1,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/469.ts
+beIN Sports 2,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34719
+beIN Sports 2,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/1547.ts
+beIN Sports 3,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34720
+beIN Sports 3,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/1549.ts
+beIN Sports 4,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34721
+beIN Sports 4,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49946.ts
+beIN Sports 5,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
+beIN Sports 5,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54739.ts
+beIN Sports 6,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
+beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
