@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -953,9 +954,9 @@ J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NBA TV,http://kuchini.site:8080/LeCyGodF/de198ad6/15962
 NBA TV,http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/323446
 NBA TV,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132296
-NBA TV,http://kuchini.site:8080/LeCyGodF/de198ad6/15962
 NBA TV,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/nbatv/playlist.m3u8
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
