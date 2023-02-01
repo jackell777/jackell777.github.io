@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -25,14 +26,14 @@
 民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞台HD,http://123.51.229.65:18563/.m3u8
 TVBS新聞台 HD,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS新聞台 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TVBS新聞台 HD,https://git.io/JgYl2
-TVBS新聞台 HD,http://2023.stream-link.org/playlist/tvbs_news
 TVBS新聞台 HD,http://38.60.38.65:6868/wmm668.php?id=tvbs_n
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞台 HD,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞台 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞台 HD,https://git.io/JgYl2
+TVBS新聞台 HD,http://2023.stream-link.org/playlist/tvbs_news
 TVBS新聞台 HD,http://220.134.196.147:9503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 TVBS HD,http://38.60.38.65:6868/wmm668.php?id=tvbs
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
@@ -128,7 +129,6 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
-鳳凰香港,http://137.175.36.206:8188/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
@@ -210,13 +210,13 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中天綜合台HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天綜合台HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天娛樂台HD,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
+中天娛樂台HD,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂台HD,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+中天娛樂台HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+中天娛樂台HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娛樂台HD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://107.151.203.111:2209/135/hk.php?id=6057
-中天娛樂台HD,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-中天娛樂台HD,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-中天娛樂台HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天娛樂台HD,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天娛樂台HD,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天亞洲台,http://38.60.38.65:6868/wmm668.php?id=ctiasia_twn
 中天亞洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
