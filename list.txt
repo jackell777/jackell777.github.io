@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -75,11 +76,11 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 東森財經新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-央視新聞,https://live.v1.mk/aishang/cctv13hd
+央視新聞,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 央視新聞,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-央視財經,https://live.v1.mk/aishang/cctv2hd
+央視財經,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 央視財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
