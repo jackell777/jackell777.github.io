@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -59,13 +60,13 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新聞HD,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-東森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=02
-東森LIVE,http://38.60.38.65:6868/wmm668.php?id=ettvnews
-東森LIVE,http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+（故障）東森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=02
+（故障）東森LIVE,http://38.60.38.65:6868/wmm668.php?id=ettvnews
+（故障）東森LIVE,http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
+（故障）東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+（故障）東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+（故障）東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+（故障）東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 東森新聞HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1014
 東森新聞HD,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
@@ -87,18 +88,18 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 壹電視新聞HD,http://220.134.196.147:9570/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 壹電視新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1242
 壹電視新聞HD,http://220.134.196.147:9510/index.m3u8
-鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡電視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
 寰宇新聞台灣台,https://git.io/JgkpO
 寰宇新聞台灣台,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-非凡新聞HD,http://38.60.38.65:6868/wmm668.php?id=feifannews_twn
-非凡新聞HD,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞HD,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新聞HD,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+（故障）非凡新聞HD,http://38.60.38.65:6868/wmm668.php?id=feifannews_twn
+（故障）非凡新聞HD,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+（故障）非凡新聞HD,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+（故障）非凡新聞HD,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+（故障）非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡商業台HD,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 全球財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
@@ -113,8 +114,8 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 東方財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
-中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+（故障）中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+（故障）中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
@@ -130,13 +131,13 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-CNN HD,http://38.60.38.65:6868/wmm668.php?id=cnn_twn
-CNN HD,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-CNN HD,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-NBC NEWS,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+CNN Live全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN Live全球新聞,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN Live全球新聞,http://38.60.38.65:6868/wmm668.php?id=cnn_twn
+NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NHK HD,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-NHK HD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://61.58.60.230:9319/live/124.m3u8
