@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -36,6 +37,7 @@ TVBS HD,http://38.60.38.65:6868/wmm668.php?id=tvbs
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
+三立LIVE,http://2023.stream-link.org/playlist/set_news
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -59,6 +61,7 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新聞HD,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+東森LIVE,http://2023.stream-link.org/playlist/ebc_news
 東森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=02
 東森LIVE,http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
 東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
