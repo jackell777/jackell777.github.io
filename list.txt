@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -1178,6 +1179,10 @@ RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RHK32,http://38.60.38.65:6868/wmm668.php?id=rhk32_twn
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
+now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
 ViuTV,http://38.60.38.65:6868/wmm668.php?id=viu1_twn
 ViuTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
 VIUTV6,http://38.60.38.65:6868/wmm668.php?id=viusix_twn
