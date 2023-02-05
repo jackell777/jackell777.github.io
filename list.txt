@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -45,14 +46,14 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 三立iNEWS HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 三立iNEWS HD,https://git.io/Jgkxj
 三立iNEWS HD,http://tv.redrainl.site:9500/live.m3u8?c=51
-年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞HD,http://38.60.38.65:6868/wmm668.php?id=niandainews_twn
+年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
 年代新聞HD,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞HD,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞HD,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞HD,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞HD,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞HD,http://220.134.196.147:9544/index.m3u8
 中天新聞HD,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新聞HD,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
@@ -239,7 +240,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 （故障）三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 （故障）三立戲劇台,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 （故障）三立戲劇台,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
-三立台灣台HD,http://220.134.196.147:9521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立台灣台HD,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣台HD,http://220.134.196.147:9531/index.m3u8
 三立台灣台HD,http://38.60.38.65:6868/wmm668.php?id=sanlitaiwan
 三立台灣台HD,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
@@ -257,8 +258,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 八大綜合台HD,http://218.32.47.179:18520/.m3u8
 八大綜合台HD,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大綜合台HD,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-八大戲劇台HD,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-八大戲劇台HD,http://38.60.38.65:6868/wmm668.php?id=badadrama
+八大戲劇台HD,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大戲劇台HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
 八大戲劇台HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
@@ -267,10 +267,9 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 八大戲劇台HD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://220.134.196.147:9546/index.m3u8
 八大精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-（故障）緯來日本台HD,http://38.60.38.65:6868/wmm668.php?id=videolandjapan
-（故障）緯來日本台HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8?blog.ntnas.top
-（故障）緯來日本台HD,http://60.251.59.180:8513/.m3u8
-（故障）緯來日本台HD,http://220.134.196.147:9537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+緯來日本台HD,http://220.134.196.147:9547/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+緯來日本台HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8?blog.ntnas.top
+緯來日本台HD,http://60.251.59.180:8513/.m3u8
 緯來綜合台HD,http://220.134.196.147:9518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來綜合台HD,http://123.51.229.65:18540/.m3u8
 緯來綜合台HD,http://60.251.33.252:18540/.m3u8
@@ -324,15 +323,15 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 東風衛視台HD,http://218.32.47.179:18528/.m3u8
 東風衛視台HD,http://220.134.196.147:9578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 衛視中文台HD,http://220.134.196.147:9554/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u
-衛視中文台HD,http://38.60.38.65:6868/wmm668.php?id=weishichinese_twn
 衛視中文台HD,http://www.yshmzmc.top/gtjm.php?id=live1024
 衛視中文台HD,http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 衛視中文台HD,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 衛視中文台HD,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-（故障）年代MUCH台HD,http://220.134.196.147:9529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-（故障）年代MUCH台HD,http://www.yshmzmc.top/gtjm.php?id=live2002
-（故障）年代MUCH台HD,http://218.32.47.179:18529/.m3u8
-（故障）年代MUCH台HD,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+年代MUCH台HD,http://www.yshmzmc.top/gtjm.php?id=live2002
+年代MUCH台HD,http://www.yshmzmc.top/gtjm.php?id=live2002
+年代MUCH台HD,http://220.134.196.147:9529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+年代MUCH台HD,http://218.32.47.179:18529/.m3u8
+年代MUCH台HD,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 MOMO綜合台HD,http://220.134.196.147:9574/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 MOMO綜合台HD,http://www.yshmzmc.top/gtjm.php?id=live1248
 MOMO綜合台HD,http://220.134.196.147:9577/.m3u8
@@ -669,6 +668,7 @@ MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/
 好萊塢電影台HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 好萊塢電影台HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影台HD,http://220.134.196.147:9551/index.m3u8
+CINEMAX HD,http://220.134.196.147:9572/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CINEMAX HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
@@ -804,7 +804,6 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 央視奧林匹克,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 央視奧林匹克,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
 央視奧林匹克,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-緯來體育台HD,http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.m3u8
 緯來體育台HD,http://60.251.33.252:18509/.m3u8
 緯來體育台HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育台HD,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
@@ -1006,7 +1005,6 @@ DMAX HD,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D596486
 國家地理野生高畫質頻道,http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
 國家地理野生高畫質頻道,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 歷史頻道,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
-動物星球頻道HD,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
 動物星球頻道HD,http://220.134.196.147:9566/index.m3u8
 動物星球頻道HD,http://38.60.38.65:6868/wmm668.php?id=animalplanet_twn
 動物星球頻道HD,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
