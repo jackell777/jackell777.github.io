@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -921,6 +922,7 @@ FIGHT SPORTS2,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 日-女子摔角,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
 RAW摔角,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
 SD摔角,http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.flv?wsSecret=0a935a3c5d9bcd1c18fb36c44284c7a9&wsTime=6283a6ba&u=0&seqid=16527086663696960&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
+WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
