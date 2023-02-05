@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -161,8 +162,10 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 華視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 華視HD,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 華視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-華視綜合娛樂,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+華視警世劇場,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+歡喜玉玲瓏,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1675579088/ei/cPreY7z9DsqS2LYP2r-j4Ag/ip/104.45.204.64/id/r_wsMgFLKys.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-p5qlsny6.googlevideo.com/vprv/1/playlist_type/LIVE/initcwndbps/2921250/mh/Wf/mm/44/mn/sn-p5qlsny6/ms/lva/mv/m/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1675557163/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRQIhANUyUZNXra6CKcnQ9HHpdrwQHyWNzqkHkOOZZc8cwtyvAiAsRR9EcncKB_jts71Px2Q4kwwI0Udok8wjhWRWgbwF8A%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgC5iGh_jxmKM8rTObdOWnlq95ghCy5pa8FavDCY-YSbgCIQDlAWGeK2S-AmiMGmy-gl99qR62wRVSvs3pFzySIrJ0jg%3D%3D/playlist/index.m3u8
+大陸尋奇,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1675579379/ei/k_veY-XFHYKZhwbXoLmgBw/ip/104.45.204.64/id/pLxy7SRblyw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-p5qlsn7s.googlevideo.com/vprv/1/playlist_type/LIVE/initcwndbps/5020000/mh/RK/mm/44/mn/sn-p5qlsn7s/ms/lva/mv/m/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1675557407/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRAIgAZgcMcB70XMynjOFNGp84zaarUP_AKDDhzlZz1UvW6UCIC3G8ylE8QSANHyOn40rUsdVZ2WmTx_CnkJc0_g51Wli/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAK81W4abqgfR8SmsMACodAMLweF0ZfbjJp1Cu4qIWHu_AiEAnFaNPy6Fs19Io4hz9GyBP1nCzoa5a3M48wi9TEkS-kA%3D/playlist/index.m3u8
 民視HD,http://23.237.10.66:16334
 民視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 民視HD,http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
