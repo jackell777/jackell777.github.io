@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -28,6 +29,7 @@ TVBS新聞台 HD,http://220.134.196.147:9503/http/61.221.81.94:8088/hls/72/814/c
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞台 HD,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞台 HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新聞台 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞台 HD,https://git.io/JgYl2
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
@@ -43,6 +45,7 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 三立iNEWS HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 三立iNEWS HD,https://git.io/Jgkxj
 三立iNEWS HD,http://tv.redrainl.site:9500/live.m3u8?c=51
+三立財經新聞HD,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
@@ -89,6 +92,7 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 壹電視新聞HD,http://220.134.196.147:9510/index.m3u8
 鏡電視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
+鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 寰宇新聞台灣台,https://git.io/JgkpO
 寰宇新聞台灣台,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
@@ -101,6 +105,7 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡商業台HD,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+運通財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 全球財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
 全球財經台HD,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
@@ -381,9 +386,13 @@ TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m
 Mezzo Live HD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
 時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+K-Pop,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+K-Pop 2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-時尚台FTV,http://38.60.38.65:6868/wmm668.php?id=fashiontv_twn
+時尚台FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 時尚台FTV,http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 時尚台FTV,http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 寰宇娛樂TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
@@ -422,14 +431,18 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 原住民族電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 客家電視台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
 番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 大愛HD,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 大愛HD,http://60.251.33.252:18567/.m3u8
+大愛HD,http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
 大愛2台HD,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+大愛2台HD,http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
 大愛2台HD,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
 金光布袋戲,http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
 澳門蓮花,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
@@ -446,9 +459,12 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 香港佛陀,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 人間衛視HD,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視HD,http://60.251.33.252:18561/.m3u8
+人間衛視HD,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+人間衛視HD,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 信吉電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 信大電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
@@ -977,6 +993,7 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 幸福空間居家台HD,https://git.io/JgYYF
 幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+幸福空間居家台HD,http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
 亞洲旅遊台,http://220.134.196.147:9515/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://38.60.38.65:6868/wmm668.php?id=asiatravel_twn
 亞洲旅遊台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
