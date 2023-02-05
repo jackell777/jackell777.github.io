@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -38,8 +39,8 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 三立LIVE,http://2023.stream-link.org/playlist/set_news
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNEWS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 三立iNEWS HD,https://git.io/Jgkxj
