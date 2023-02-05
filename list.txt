@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -283,7 +284,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 龍華戲劇,http://60.251.33.252:18513/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
 龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華偶像,http://220.134.196.147:9531/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
+龍華偶像,http://220.134.196.147:9539/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
 龍華偶像,http://38.60.38.65:6868/wmm668.php?id=lunghuaidol_twn
 龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
@@ -457,8 +458,8 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 好消息HD,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
 好消息HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 （故障）好消息2台HD,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-（故障）好消息2台HD,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-（故障）好消息2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+好消息2台HD,http://live.streamingfast.net/osmflivech2.m3u8
+好消息2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 （故障）中台灣生活網頻道HD,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
