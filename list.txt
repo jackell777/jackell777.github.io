@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -456,6 +457,7 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 好消息HD,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
 好消息HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+好消息2台HD,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 好消息2台HD,http://live.streamingfast.net/osmflivech2.m3u8
 好消息2台HD,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
 好消息2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
