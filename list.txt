@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -570,7 +571,7 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 星衛HD電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 星衛HD電影台,http://23.237.10.66:16359
 衛視電影台HD,http://220.134.196.147:9549/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-衛視電影台HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941625
+衛視電影台HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941625.m3u8
 衛視電影台HD,http://www.yshmzmc.top/gtjm.php?id=live1031
 衛視電影台HD,http://218.32.47.179:18553/.m3u8
 衛視電影台HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
@@ -583,9 +584,9 @@ Star Movies Gold HD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/80
 Star Movies Gold HD,http://www.yshmzmc.top/gtjm.php?id=live2023
 Star Movies Gold HD,http://www.yshmzmc.top/gtjm.php?id=live1032
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
-ROCK ENTERTAINMENT,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941643
+ROCK ENTERTAINMENT,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941643.m3u8
 HITS頻道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
-HITS MOVIES,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941577
+HITS MOVIES,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941577.m3u8
 影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
@@ -617,7 +618,7 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MC8C8240146082401460&ct=19254&tsum=bd09d5cb5e6039e14bd93ca49b968ba8
 天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
-天映頻道,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941618
+天映頻道,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941618.m3u8
 天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映頻道,http://198.16.64.10:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
@@ -638,14 +639,13 @@ LS龍祥電影台HD,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-AXN HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660
-AXN HD,http://38.60.38.65:6868/wmm668.php?id=axn_twn
+AXN HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660.m3u8
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 AXN HD,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN HD,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN HD,http://218.32.47.179:18558/.m3u8
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
+HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO,http://220.134.196.147:9557/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9557/index.m3u8
@@ -654,12 +654,12 @@ HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO HD頻道,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD頻道,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO強檔鉅獻HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941647
+HBO強檔鉅獻HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941647.m3u8
 HBO強檔鉅獻HD,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-HBO原創鉅獻HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645
+HBO原創鉅獻HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645.m3u8
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原創鉅獻HD,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO溫馨家庭HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646
+HBO溫馨家庭HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646.m3u8
 HBO溫馨家庭HD,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
@@ -670,8 +670,7 @@ MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/
 好萊塢電影台HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 好萊塢電影台HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影台HD,http://220.134.196.147:9551/index.m3u8
-CINEMAX HD,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
-CINEMAX HD,http://38.60.38.65:6868/wmm668.php?id=cinemax_twn
+CINEMAX HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 CINEMAX HD,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
