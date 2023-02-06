@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -1076,9 +1077,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 樱桃小丸子,http://zzy789.xyz/bili.php?id=11765640
 
 港澳地區,#genre#
-翡翠台(華麗台),http://pull-l3-cny.douyincdn.com/third/stream-8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠台(華麗台),http://23.237.10.66:16410
-翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
@@ -1115,7 +1114,6 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 凤凰香港,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 TVB財經,https://j3.lhlh.app/mv.m3u8
-赛马直击,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
 無綫財經資訊台,http://38.60.38.65:6868/wmm668.php?id=tvbcaijing_twn
 無綫財經資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 無綫財經資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
@@ -1125,22 +1123,16 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
 無綫新聞台,http://radius.8866.org:800/hls/82/index.m3u8
 now新聞台,https://epg.pw/stream/3105c3babfd0f44de56eca1b5c8abf7c7c2b36dff3dc38e3d1d0e2aa5b1e5231.m3u8
-now新聞台,http://2022.stream-link.org/playlist/now_news
-J1,http://137.175.36.206:8188/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
-J1,http://38.60.38.65:6868/wmm668.php?id=tvbxinhe_twn
-J1,https://epg.pw/stream/71394077a59650f3857d50bebaae8cb6e3693ff4d7b45d4c0b511f24c5426ea2.ctv
-J1,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
-J2,http://r.jdshipin.com/Nr5jq
-J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
+now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
+now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-TVB星河,http://38.60.38.65:6868/wmm668.php?id=Xinhe
-TVB星河,http://119.140.58.42:9901/hls/12/index.m3u8
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
-明珠台,http://38.60.38.65:6868/wmm668.php?id=pearl_twn
-明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
+TVB星河,http://119.140.58.42:9901/hls/12/index.m3u8
+明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 明珠台,http://shazui.8866.org:800/hls/84/index.m3u8
 明珠台,http://198.16.64.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
@@ -1158,13 +1150,8 @@ RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
-now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
-ViuTV,http://38.60.38.65:6868/wmm668.php?id=viu1_twn
-ViuTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
-VIUTV6,http://38.60.38.65:6868/wmm668.php?id=viusix_twn
-VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
+VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 香港衛視,http://124.238.99.44:808/hls/352/index.m3u8
