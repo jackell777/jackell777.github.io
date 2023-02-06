@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -116,6 +117,7 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
 第一財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+第一財經,http://39.134.136.138:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 東方財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 （故障）中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
@@ -373,6 +375,11 @@ WarnerTV,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extensio
 Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 影迷數位紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 視納華仁紀實台,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+上海纪实人文,http://39.134.136.138:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+上海纪实人文,http://39.134.136.138:6610/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
+上海纪实人文,http://39.134.136.138:6610/000000001000/5000000001000021713/index.m3u8?channel-id=bestzb&Contentid=5000000001000021713&livemode=1&stbId=3
+上海纪实人文,http://39.134.136.138:6610/000000001000/1000000001000010606/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=3
+金鹰纪实,http://39.134.136.138:6610/000000001000/1000000002000011724/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 華語戲劇台,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
 華語綜藝台,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
 MTV Live HD音樂頻道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
@@ -404,6 +411,9 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 央視綜藝,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 央視綜藝,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 央視綜藝,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+NewTV超级综艺,http://39.134.136.138:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+NewTV超级综艺,http://39.134.136.138:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+NewTV金牌综艺,http://39.134.136.138:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
 央視軍事國防,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視軍事國防,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 央視軍事國防,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
@@ -412,16 +422,26 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 央視電視劇,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 央視電視劇,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 央視電視劇,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+NewTV超级电视剧,http://39.134.136.138:6610/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
+NewTV超级电视剧,http://39.134.136.138:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
+NewTV精品大剧,http://39.134.136.138:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
+NewTV家庭剧场,http://39.134.136.138:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
+NewTV魅力潇湘,http://39.134.136.138:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+SiTV都市剧场,http://39.134.136.138:6610/000000001000/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
+SiTV欢笑剧场,http://39.134.136.138:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 央視戲曲,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 央視戲曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 央視戲曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
 央視戲曲,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+NewTV炫舞未来,http://39.134.136.138:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 央視社會與法,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 央視社會與法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 央視社會與法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 央視社會與法,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+上海外語頻道,http://39.134.136.138:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 上海外語頻道,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 上海外語頻道,http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
+東方影視,http://39.134.136.138:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 東方影視,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
@@ -623,6 +643,7 @@ LS龍祥電影台HD,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
+精彩影视,http://39.134.136.138:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 全球大片,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
@@ -633,6 +654,15 @@ LS龍祥電影台HD,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+NewTV超级电影,http://39.134.136.138:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
+NewTV超级电影,http://39.134.136.138:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+NewTV超级电影,http://39.134.136.138:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+NewTV动作电影,http://39.134.136.138:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+NewTV惊悚悬疑,http://39.134.136.138:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+NewTV明星大片,http://39.134.136.138:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+iHOT爱院线,http://39.134.136.138:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+iHOT爱科幻,http://39.134.136.138:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+iHOT爱浪漫,http://39.134.136.138:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 AXN HD,http://220.134.196.147:9523/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
 AXN HD,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 AXN HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660.m3u8
@@ -695,21 +725,9 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 4K超高清電影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清電影,http://r.jdshipin.com/5DWJk
+黑莓電影,http://39.134.136.138:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 黑莓電影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-黑莓電影,https://epg.pw/stream/2e1a99a107273a61bc4d0e04db3fa5c1f70489419f7136c571fb46fc71d5a24d.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 CHC家庭影院,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
@@ -854,9 +872,14 @@ ELEVEN SPORTS 2 HD,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1
 央視風雲足球,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
 央視高爾夫網球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
 央視高爾夫網球,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
+劲爆体育,http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+NewTV超级体育,http://39.134.136.138:6610/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+NewTV超级体育http://39.134.136.138:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+NewTV超级体育,http://39.134.136.138:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+NewTV超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+NewTV精品体育,http://39.134.136.138:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
@@ -946,10 +969,15 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+NewTV精品纪录,http://39.134.136.138:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+求索动物,http://39.134.136.138:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+求索纪录,http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索科学,http://39.134.136.138:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索生活,http://39.134.136.138:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 LOVE NATURE,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
@@ -1033,21 +1061,27 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 青春动漫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+动漫秀场,http://39.134.136.138:6610/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 幼兒動畫歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 幼兒動畫歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-炫动卡通,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+哈哈炫动,http://39.134.136.138:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+哈哈炫动,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+哈哈炫动,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 卡酷少儿,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+金鹰卡通,http://39.134.136.138:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+金鹰卡通,http://39.134.136.138:6610/000000001000/1000000002000011724/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
-金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/1000.m3u8?IASHttpSessionId=OTT2933020211208004916069966&zte_bandwidth=1000&bandwidth=1433600&ispcode=3&timeformat=local&channel=201600020004&ztecid=201600020004&m3u8_level=2&A=
 嘉佳卡通,http://23.237.10.66:16662
+嘉佳卡通,http://39.134.136.138:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
 嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
-嘉佳卡通,http://111.20.33.103/TVOD/88888893/224/3221226227/index.m3u8?blog.ntnas.top
-嘉佳卡通,http://ct.whosayssowhat.top:4022/udp/239.77.0.179:5146
+黑莓动画,http://39.134.136.138:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+优漫卡通,http://39.134.136.138:6610/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
+优漫卡通,http://39.134.136.138:6610/000000001000/6000000003000030492/index.m3u8?channel-id=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3
+iHOT爱动漫,http://39.134.136.138:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 Baby TV HD,http://38.60.38.65:6868/wmm668.php?id=babytv_twn
 Baby TV HD,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
 Baby TV HD,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
@@ -1158,6 +1192,7 @@ VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C141237661412376
 4K頻道,#genre#
 廣東綜藝-4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 蘇州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+歡笑劇場-4K,http://39.134.136.138:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 歡笑劇場-4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 純享-4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 CCTV-4K-50P,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
