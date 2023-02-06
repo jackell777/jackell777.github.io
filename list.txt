@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -119,8 +120,10 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 第一財經,http://39.134.136.138:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 東方財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
-（故障）中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-（故障）中台灣新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+BTV财经,http://live.cooltv.top/tv/btime.php?id=btvcj
+BTV财经,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+BTV财经,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
@@ -356,21 +359,8 @@ WarnerTV,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extensio
 靖天國際台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 靖天國際台,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
 靖天育樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-（故障）爱爾達综合台,http://38.60.38.65:6868/wmm668.php?id=eltazonghe
-（故障）爱爾達综合台,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/eltazonghe/playlist.m3u8
 爱爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 爱爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
-（故障）爱爾達影劇台,http://38.60.38.65:6868/wmm668.php?id=eltadrama_twn
-（故障）爱爾達影劇台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
-（故障）爱爾達影劇台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
-（故障）爱爾達影劇台,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-（故障）爱爾達影劇台,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-（故障）EYE戲劇台,http://38.60.38.65:6868/wmm668.php?id=eyetvxiju_twn
-（故障）EYE戲劇台,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-（故障）EYE戲劇台,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-（故障）EYE旅遊台,http://38.60.38.65:6868/wmm668.php?id=eyetvtravel_twn
-（故障）EYE旅遊台,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-（故障）EYE旅遊台,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 影迷數位紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 視納華仁紀實台,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
@@ -410,6 +400,7 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 央視綜藝,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 央視綜藝,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 央視綜藝,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+热门综艺,http://cfss.cc/ds/bst.php?id=Cf-62
 NewTV超级综艺,http://39.134.136.138:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
 NewTV超级综艺,http://39.134.136.138:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 NewTV金牌综艺,http://39.134.136.138:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
@@ -428,11 +419,20 @@ NewTV家庭剧场,http://39.134.136.138:6610/000000001000/1000000004000008284/in
 NewTV魅力潇湘,http://39.134.136.138:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 SiTV都市剧场,http://39.134.136.138:6610/000000001000/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
 SiTV欢笑剧场,http://39.134.136.138:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+七彩戏剧,http://cfss.cc/ds/bst.php?id=Cf-56
+谍战剧场,http://cfss.cc/ds/bst.php?id=Cf-71
+热门剧场,http://cfss.cc/ds/bst.php?id=Cf-73
+BTV影视,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+BTV影视,http://live.cooltv.top/tv/btime.php?id=btvys
+BTV影视,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
 央視戲曲,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 央視戲曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 央視戲曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
 央視戲曲,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
 NewTV炫舞未来,http://39.134.136.138:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+BTV文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
+BTV文艺,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 央視社會與法,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 央視社會與法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 央視社會與法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
@@ -711,6 +711,7 @@ CINEMAX HD,http://218.32.47.179:18559/.m3u8
 IPTV高清院線,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 北京IPTV淘電影,http://genglicai.3322.org:9901/tsfile/live/1022_1.m3u8
+北京IPTV淘電影,http://222.129.37.206:8888/rtp/239.3.1.250:8001
 北京IPTV淘電影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘電影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰電影,https://epg.pw/stream/5c92bcc101de0dd4b2bc19f2d0b82dfeaed01bb6492cbc94cf2cdfe12bf279b1.m3u8
@@ -879,6 +880,11 @@ NewTV超级体育http://39.134.136.138:6610/000000001000/1000000001000009601/ind
 NewTV超级体育,http://39.134.136.138:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
 NewTV超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
 NewTV精品体育,http://39.134.136.138:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+BTV体育,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
+BTV体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+BTV体育,http://iptv.cooltv.top/tv/btime.php?id=bjjs
+BTV体育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1672541449&sign=dbd0def0539909209c12e07231ee1bb9
+BTV体育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548511-0-0-836dfb6400f8b405a1d09d5f2fe2ca71
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
