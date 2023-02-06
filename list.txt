@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -718,8 +719,6 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 漫威宇宙電影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 動作影院,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
 华語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
-4K超高清電影,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
-4K超高清電影,http://139.9.188.172:5678/sxg.php?id=emdy4k_8000
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 4K超高清電影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清電影,http://r.jdshipin.com/5DWJk
