@@ -1,3 +1,4 @@
+
 新聞頻道（45）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -763,7 +764,7 @@ SD摔角,http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
-人文幼兒,#genre#
+人文幼兒（63）,#genre#
 央視記錄,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
@@ -864,7 +865,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 哆啦A夢,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
 樱桃小丸子,http://zzy789.xyz/bili.php?id=11765640
 
-港澳地區,#genre#
+港澳地區（38）,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
@@ -937,7 +938,7 @@ VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
-4K頻道,#genre#
+4K頻道（38）,#genre#
 廣東綜藝-4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 蘇州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 歡笑劇場-4K,http://39.134.136.138:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
@@ -1045,6 +1046,7 @@ CCTV16,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/
 CCTV16,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV17,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
+各省衛視,#genre#
 江苏卫视,http://live.cooltv.top/tv/aishang.php?id=jswshd
 江苏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
 北京卫视,http://live.cooltv.top/tv/aishang.php?id=bjwshd
