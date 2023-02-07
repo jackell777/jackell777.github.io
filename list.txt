@@ -1,3 +1,4 @@
+
 新聞頻道（46）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -383,12 +384,13 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 信大電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-好消息HD,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
-好消息HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-好消息2台HD,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-好消息2台HD,http://live.streamingfast.net/osmflivech2.m3u8
-好消息2台HD,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-好消息2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
+好消息,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
+好消息,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+好消息2台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch50-2.m3u8
+好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+好消息2台,http://live.streamingfast.net/osmflivech2.m3u8
+好消息2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 （故障）彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
