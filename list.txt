@@ -1,3 +1,4 @@
+
 新聞頻道（45）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -656,7 +657,7 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 鬥魚電視劇13,http://epg.112114.xyz/douyu/6706214
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
-體育頻道（66）,#genre#
+體育頻道（73）,#genre#
 央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?blog.ntnas.top
 央視體育,http://23.237.10.66:16007
@@ -718,6 +719,13 @@ BT SPORT 1,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/9.m3u
 BT SPORT 2,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
 BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXNfr18wQOXtRPV-lx1B7l0/ts
 BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacyomqzS78vv0TT8ik6AShU/ts
+beIN Sports 1,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/100
+beIN Sports 2,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/101
+beIN Sports 3,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/102
+beIN Sports 4,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/103
+beIN Sports 5,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/104
+beIN Sports 6,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/105
+beIN Sports 7,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/106
 Sky Sports Arena,http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
 Sky Sports Arena,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11655.ts
 Sky Sports Arena,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267
