@@ -1,3 +1,4 @@
+
 新聞頻道,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -27,7 +28,6 @@ TVBS新聞台 HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunkl
 TVBS新聞台 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞台 HD,https://git.io/JgYl2
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-TVBS HD,http://38.60.38.65:6868/wmm668.php?id=tvbs
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
