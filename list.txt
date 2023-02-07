@@ -1,3 +1,4 @@
+
 新聞頻道（45）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -109,6 +110,8 @@ BTV財經,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
+鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
+鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
@@ -153,8 +156,9 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中天綜合台HD,http://220.134.196.147:9536/index.m3u8
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台HD,http://218.32.47.179:18526/.m3u8
-中天娛樂台HD,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
+中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
+中天娛樂台HD,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娛樂台HD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 （故障）中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
@@ -913,10 +917,11 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 鳳凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
+鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-鳳凰香港,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 鳳凰電影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 TVB財經,https://j3.lhlh.app/mv.m3u8
 無線財經資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
