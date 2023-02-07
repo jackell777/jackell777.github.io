@@ -1,3 +1,4 @@
+
 新聞頻道（45）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -714,10 +715,18 @@ BTV體育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
 GINX Esports TV,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 TRACE Sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-BT SPORT 1,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/9.m3u
-BT SPORT 2,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
-BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINaXNfr18wQOXtRPV-lx1B7l0/ts
-BT SPORT 3,http://tv4k.me:80/play/ZneOjJyQFdKORscgxAINacyomqzS78vv0TT8ik6AShU/ts
+BT SPORT 1,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40508
+BT SPORT 1,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
+BT SPORT 1,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1425
+BT SPORT 2,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40507
+BT SPORT 2,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
+BT SPORT 2,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1428
+BT SPORT 3,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40506
+BT SPORT 3,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
+BT SPORT 3,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1429
+BT SPORT 4,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40505
+BT SPORT 4,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
+BT SPORT 4,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1431
 beIN Sports 1,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/100
 beIN Sports 2,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/101
 beIN Sports 3,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/102
