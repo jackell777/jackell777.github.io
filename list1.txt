@@ -20,6 +20,7 @@
 
 
 
+台灣頻道,#genre#
 CNN,P2p://generationnexxxt.com:19806/c58b8b3ceaf447138bd486f0263be6f6
 民视,P2p://generationnexxxt.com:19806/640d5aaa202f42beb8372c429055944a
 人间卫视,P2p://generationnexxxt.com:19806/169b7287fe474c7882fe813b1cde71ca
@@ -385,14 +386,14 @@ ABC 澳大利亚,P2p://generationnexxxt.com:19806/3f1d537a14474f208a805606519a69
 台视财经,P2p://generationnexxxt.com:19806/89e86f864e2746e49549b99407d61e91
 东森新闻台(备),P2p://generationnexxxt.com:19806/a3827c45fb794cbe97d06bb46fd125b9
 镜新闻,P2p://generationnexxxt.com:19806/f292d0f0e75c479ca71ab2a48dd4c52a
-📺音乐测试,#genre#
+音乐测试,#genre#
 MTV,P2p://generationnexxxt.com:19806/54575dd6d9b745ed8761460e9624f305
 音乐日本电视，P2p://generationnexxxt.com:19806/dff80960c50f470aa07ea0a0a6b4370e
 MTV 直播，P2p://generationnexxxt.com:19806/79e6ab3d9fec4435aaac9b187fde63ff
 女中音直播，P2p://generationnexxxt.com:19806/4061cd2b7bb84626aadaab72a5a6f8b6
 CLASSICA 古典乐,P2p://generationnexxxt.com:19806/7fd5cca0237545d38dca2ca80e5393db
 CMusic,P2p://generationnexxxt.com:19806/117cf8c5f59d443a9d81b8d508f3d1fa
-📺体育测试,#genre#
+体育测试,#genre#
 CCTV5,P2p://generationnexxxt.com:19806/1a78a464e8024e97b5bef386e6d469fc
 CCTV5+,P2p://generationnexxxt.com:19806/8b09ae6e5cf749ddb099f4682262b948
 魅力足球,P2p://generationnexxxt.com:19806/8d59763f858f493a9b856fc598d6d800
@@ -456,7 +457,7 @@ Hub Premier 2,P2p://generationnexxxt.com:19806/855623bfa0ed4370bc4c073fc4374705
 Hub Premier 3,P2p://generationnexxxt.com:19806/9b7a23eec736415dbc1ddf68279116f0
 Hub Premier 4,P2p://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580	
 Hub Premier 5,P2p://generationnexxxt.com:19806/839518bc25954c7f97e2940c02d95d6f
-📺地理测试,#genre#
+地理测试,#genre#
 CCTV9,P2p://generationnexxxt.com:19806/73e864cb09f947c1ad07e35a812100e3
 国家地理频道,P2p://generationnexxxt.com:19806/4efcb9cd44d843fbb0348ae9b70f9554
 探索频道,P2p://generationnexxxt.com:19806/6014007ed85640e49a20bb6c342433b7
@@ -488,7 +489,7 @@ EYE TV旅游台,P2p://generationnexxxt.com:19806/e559895b754d4e888cb8b545beb496b
 时尚频道,P2p://generationnexxxt.com:19806/10bb85282c734c9bba5b86a7505f506b
 TV5MONDE Style 生活时尚,P2p://generationnexxxt.com:19806/def4fae7193c47ad945398dfb5af33bf
 旅游频道,P2p://generationnexxxt.com:19806/2b7c66c71542428e845679162a8b1882
-📺少儿测试,#genre#
+少儿测试,#genre#
 CCTV14,P2p://generationnexxxt.com:19806/673704a41c2140a182a3d8d4f6305ca8
 CN卡通频道,P2p://generationnexxxt.com:19806/e9bc0e878eb04cc1b39a3e23e0a9983d
 星空卫视,P2p://generationnexxxt.com:19806/ad8a538e720640eb972a8da13e66b23b
@@ -509,7 +510,7 @@ Animax,P2p://generationnexxxt.com:19806/d1a29bf313c7409f9d55ef2b34395dab
 Cbeebies,P2p://generationnexxxt.com:19806/fba85e5a38c54ab2a4634d4a3cfcd6d4
 梦工厂，P2p://generationnexxxt.com:19806/9035e8ea533040b2b820c63c3daeced0
 举手，P2p://generationnexxxt.com:19806/b12479567e4e4f9290c637e495ff9f21
-📺电影测试,#genre#
+电影测试,#genre#
 CCTV6,P2p://generationnexxxt.com:19806/6740c9efbe444e1bba82e936169dc871
 天映频道,P2p://generationnexxxt.com:19806/79e061c2c25f4abaaeae65dd4a715298
 天映经典,P2p://generationnexxxt.com:19806/517d359aed1646c1b3a2d4ac3dcdaf23
