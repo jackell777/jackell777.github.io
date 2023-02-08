@@ -1,3 +1,4 @@
+
 新聞頻道（46）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -1617,6 +1618,20 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
 🔞18禁頻道,#genre#
+松視1台,mitv://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
+松視2台,mitv://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
+松視3台,mitv://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
+彩虹e台,mitv://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
+彩虹電影台,mitv://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
+LookTV,mitv://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
+潘朵拉玩美台,mitv://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
+驚艷成人电影台,mitv://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
+PLAYBOY,mitv://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
+香草台,mitv://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
+JStar極美台,mitv://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
+HAPPY,mitv://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
+K頻道,mitv://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
+
 ALBA XXX 1,http://ipflix.click:80/live/sq1x0qr86b/7777/666419.m3u8
 ALBA XXX 2,http://ipflix.click:80/live/sq1x0qr86b/7777/666420.m3u8
 ALBA XXX 3,http://ipflix.click:80/live/sq1x0qr86b/7777/666421.m3u8
