@@ -1,3 +1,4 @@
+
 新聞頻道（46）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -407,6 +408,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 華語電視3,https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
 芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 環球旅遊,http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
+星空衛視,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 星空衛視,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
