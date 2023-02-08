@@ -18,8 +18,6 @@
 
 
 
-
-
 台灣頻道,#genre#
 CNN,P2p://generationnexxxt.com:19806/c58b8b3ceaf447138bd486f0263be6f6
 民视,P2p://generationnexxxt.com:19806/640d5aaa202f42beb8372c429055944a
