@@ -1,3 +1,4 @@
+
 新聞頻道（46）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -302,6 +303,8 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 NewTV超級綜藝,http://39.134.136.138:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
 NewTV超級綜藝,http://39.134.136.138:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 NewTV金牌綜藝,http://39.134.136.138:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+北京IPTV淘娛樂,http://222.129.37.206:8888/rtp/239.3.1.100:8001
+北京IPTV萌寵TV,http://222.129.37.206:8888/rtp/239.3.1.102:8001
 央視軍事國防,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視軍事國防,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 央視軍事國防,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
@@ -319,6 +322,7 @@ SiTV歡笑劇場,http://39.134.136.138:6610/000000001000/5000000002000009455/ind
 七彩戲劇,http://cfss.cc/ds/bst.php?id=Cf-56
 諜戰劇場,http://cfss.cc/ds/bst.php?id=Cf-71
 熱門劇場,http://cfss.cc/ds/bst.php?id=Cf-73
+北京IPTV淘劇場,http://222.129.37.206:8888/rtp/239.3.1.95:8001
 BTV影視,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 BTV影視,http://live.cooltv.top/tv/btime.php?id=btvys
 BTV影視,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
@@ -866,6 +870,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 哈哈炫動,http://39.134.136.138:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫動,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
 哈哈炫動,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+北京IPTV淘Baby,http://222.129.37.206:8888/rtp/239.3.1.238:8001
 卡酷少兒,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 卡酷少兒,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 金鹰卡通,http://39.134.136.138:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
