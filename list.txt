@@ -460,7 +460,7 @@ momo購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 viva購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
-電影頻道（60）,#genre#
+電影頻道（61）,#genre#
 東森電影台HD,P2p://generationnexxxt.com:19806/bbc6d03feefe4d13b396e2a77356431e
 東森電影台HD,http://27.47.71.49:8811/hls/58/index.m3u8
 東森電影台HD,http://27.47.71.16:8811/hls/58/index.m3u8
