@@ -19,6 +19,9 @@
 
 
 
+
+
+
 CNN,P2p://generationnexxxt.com:19806/c58b8b3ceaf447138bd486f0263be6f6
 民视,P2p://generationnexxxt.com:19806/640d5aaa202f42beb8372c429055944a
 人间卫视,P2p://generationnexxxt.com:19806/169b7287fe474c7882fe813b1cde71ca
@@ -548,7 +551,7 @@ HITS电影，P2p://generationnexxxt.com:19806/3f55143c7868447288c8123a33283d4a
 影迷数位电影台,P2p://generationnexxxt.com:19806/5f5878cc1f2d43d28160a3715ba24378
 美国电影台(粤语),P2p://generationnexxxt.com:19806/3192c3897a3542e894f74a8186dcff5f
 星光影金，P2p://generationnexxxt.com:19806/5f5b9f1a570046be8a4970baa022554a
-📺戏剧测试,#genre#
+戏剧测试,#genre#
 东森戏台,P2p://generationnexxxt.com:19806/e805174150f348c4abc9b3d62bc36434
 八大戏台,P2p://generationnexxxt.com:19806/35c741524b994211913d20fcee951af1
 搓来戏台,P2p://generationnexxxt.com:19806/14995041672c4649bbb92d4dc003021d
@@ -560,4 +563,18 @@ EYE TV戏台,P2p://generationnexxxt.com:19806/2dbc9917cd584c609c493dd4c08b4d47
 爱尔达影视剧台,P2p://generationnexxxt.com:19806/9094a401f36d4ed487230a5054c39e86
 Hub娱乐家,P2p://generationnexxxt.com:19806/e05abfe9e4e34973b21b559326944194
 亚洲剧台,P2p://generationnexxxt.com:19806/fe4b431cc32b4ae9b3280fde14c4fa88
+18禁测试,#genre#
+彩虹e台,mitv://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
+彩虹电影台,mitv://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
+看电视,mitv://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
+潘朵拉玩美台,mitv://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
+惊艳成人电影台,mitv://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
+松视1台,mitv://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
+松视2台,mitv://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
+花花公子,mitv://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
+香草台,mitv://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
+松视3台,mitv://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
+JStar极限台,mitv://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
+快乐,mitv://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
+K,mitv://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
 
