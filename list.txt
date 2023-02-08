@@ -1,3 +1,4 @@
+
 新聞頻道（49）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -770,13 +771,20 @@ BT SPORT 3,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1429
 BT SPORT 4,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40505
 BT SPORT 4,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
 BT SPORT 4,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1431
-beIN Sports 1,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/100
-beIN Sports 2,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/101
-beIN Sports 3,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/102
-beIN Sports 4,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/103
-beIN Sports 5,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/104
-beIN Sports 6,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/105
-beIN Sports 7,http://iptvmedia.live:8080/1eae94e3/e22181ebb2/106
+beIN Sports 1,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132195
+beIN Sports 1,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34718
+beIN Sports 2,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132196
+beIN Sports 2,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34719
+beIN Sports 3,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132197
+beIN Sports 3,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34720
+beIN Sports 4,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107198
+beIN Sports 4,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34721
+beIN Sports 5,http://onntv.online:25461/live/30A612037A90/8754467/175.ts
+beIN Sports 5,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
+beIN Sports 6,http://onntv.online:25461/live/30A612037A90/8754467/176.ts
+beIN Sports 6,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
+beIN Sports 7,http://onntv.online:25461/live/30A612037A90/8754467/177.ts
+beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
 Sky Sports Arena,http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
 Sky Sports Arena,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11655.ts
 Sky Sports Arena,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267
@@ -806,9 +814,9 @@ J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NBA TV,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132296
+NBA TV,http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34028
 NBA TV,http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/323446
-NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
-NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
+NBA TV,http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2644
 NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
@@ -822,16 +830,15 @@ EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 歐洲體育台HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-歐洲體育1台HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4151
-歐洲體育1台HD,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
-歐洲體育2台HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
-歐洲體育2台HD,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
+歐洲體育1台HD,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/260
+歐洲體育1台HD,http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/768
+歐洲體育1台HD,http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/30948
+歐洲體育2台HD,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/261
+歐洲體育2台HD,http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/769
+歐洲體育2台HD,http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/30949
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 FIGHT SPORTS2,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-日-女子摔角,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
-RAW摔角,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
-SD摔角,http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.flv?wsSecret=0a935a3c5d9bcd1c18fb36c44284c7a9&wsTime=6283a6ba&u=0&seqid=16527086663696960&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
 WWE摔角,P2p://generationnexxxt.com:19806/aa6909cc1f654c8fa8e7d9640336022b
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
