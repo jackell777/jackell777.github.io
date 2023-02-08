@@ -1,3 +1,4 @@
+
 新聞頻道（46）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -19,6 +20,7 @@
 民視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=1
 民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞台HD,http://123.51.229.65:18563/.m3u8
+TVBS新聞台 HD,http://158.101.151.82:9000/jmsytb.m3u8?c=03
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞台 HD,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -60,20 +62,20 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 東森財經新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-央視新聞,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 央視新聞,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-央視財經,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+央視新聞,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 央視財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+央視財經,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
 壹電視新聞HD,http://220.134.196.147:9570/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 壹電視新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1242
 壹電視新聞HD,http://220.134.196.147:9510/index.m3u8
-鏡電視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
+鏡電視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 寰宇新聞台灣台,P2p://generationnexxxt.com:19806/9aa8e350cb224c53941d041019eb39aa
 寰宇新聞台灣台,https://git.io/JgkpO
@@ -113,22 +115,24 @@ BTV財經,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 HKC新聞台,P2p://generationnexxxt.com:19806/9c4e14a6523c4ee3822b4c1c5dee4ec8
 HKC財經資訊,P2p://generationnexxxt.com:19806/30b6aa00f5bd49f2b335e2cbc98aff6e
+鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
+鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
-鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
+新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNN Live全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-CNN Live全球新聞,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-CNN Live全球新聞,http://38.60.38.65:6868/wmm668.php?id=cnn_twn
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+SKY NEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=29
 DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://61.58.60.230:9319/live/124.m3u8
