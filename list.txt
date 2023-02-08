@@ -1,3 +1,4 @@
+
 新聞頻道（46）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -1426,24 +1427,24 @@ SiTV七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 
 中國藍TV頻道（18）,#genre#
-中国蓝TV01,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-中国蓝TV02,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-中国蓝TV03,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-中国蓝TV04,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-中国蓝TV05,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-中国蓝TV06,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-中国蓝TV07,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-中国蓝TV08,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-中国蓝TV09,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-中国蓝TV10,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-中国蓝TV11,http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
-中国蓝TV12,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-中国蓝TV13,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-中国蓝TV14,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
-中国蓝TV15,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-中国蓝TV16,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-中国蓝TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-中国蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+中國藍TV01,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+中國藍(錢江)TV02,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+中國藍(經濟生活)TV03,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+中國藍TV04,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+中國藍(影視娛樂)TV05,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+中國藍TV06,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+中國藍(新聞)TV07,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+中國藍(浙江少兒)TV08,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+中國藍TV09,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+中國藍(浙江國際)TV10,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+中國藍(好易購)TV11,http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
+中國藍(之江紀錄)TV12,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+中國藍TV13,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+中國藍TV14,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+中國藍(中國藍新聞)TV15,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+中國藍TV16,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+中國藍(浙江衛視)TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
+中國藍TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 
 韓國頻道,#genre#
 KBS1,http://123.30.146.172:21585/200/mpegts
