@@ -1,3 +1,4 @@
+
 新聞頻道（49）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -961,6 +962,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+翡翠台,http://c-leung.homeip.net:8011/bysid/01
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 有線新聞台,https://api.leonardpark.dev/live/icable/109
@@ -991,6 +993,7 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 now新聞台,https://epg.pw/stream/3105c3babfd0f44de56eca1b5c8abf7c7c2b36dff3dc38e3d1d0e2aa5b1e5231.m3u8
 now新聞台,https://cdn.hklive.tv/xxxx/332/index.m3u8
 now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
+J2,http://c-leung.homeip.net:8012/bysid/82
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
@@ -1011,6 +1014,8 @@ RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+ViuTV,http://c-leung.homeip.net:8011/bysid/99
+VIUTV6,http://c-leung.homeip.net:8011/bysid/96
 VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
