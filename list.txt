@@ -159,6 +159,8 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台HD,http://218.32.47.179:18526/.m3u8
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
+中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
+中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娛樂台HD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
@@ -293,24 +295,21 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 寰宇娛樂TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 滾動力 rollor HD,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空間,http://23.237.10.66:16406
-央視綜合,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8?blog.ntnas.top
+央視綜合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 央視綜合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 央視綜合,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-央視綜藝,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8?blog.ntnas.top
-央視綜藝,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+央視綜藝,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 央視綜藝,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 央視綜藝,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-熱門綜藝,http://cfss.cc/ds/bst.php?id=Cf-62
+熱門綜藝,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
 NewTV超級綜藝,http://39.134.136.138:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
 NewTV超級綜藝,http://39.134.136.138:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
 NewTV金牌綜藝,http://39.134.136.138:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
 北京IPTV淘娛樂,http://222.129.37.206:8888/rtp/239.3.1.100:8001
 北京IPTV萌寵TV,http://222.129.37.206:8888/rtp/239.3.1.102:8001
-央視軍事國防,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8?blog.ntnas.top
 央視軍事國防,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 央視軍事國防,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
 央視軍事國防,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
-央視電視劇,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv88m/8000000/mnf.m3u8
 央視電視劇,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 央視電視劇,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 央視電視劇,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
@@ -327,7 +326,6 @@ SiTV歡笑劇場,http://39.134.136.138:6610/000000001000/5000000002000009455/ind
 BTV影視,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 BTV影視,http://live.cooltv.top/tv/btime.php?id=btvys
 BTV影視,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
-央視戲曲,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 央視戲曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 央視戲曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
 央視戲曲,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
@@ -335,7 +333,6 @@ NewTV炫舞未來,http://39.134.136.138:6610/000000001000/1000000001000000515/in
 BTV文藝,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 BTV文藝,http://live.cooltv.top/tv/btime.php?id=btvwy
 BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
-央視社會與法,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 央視社會與法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 央視社會與法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 央視社會與法,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
