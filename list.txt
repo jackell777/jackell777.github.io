@@ -1,3 +1,4 @@
+
 新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -157,18 +158,14 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
 公視HD,http://218.32.47.179:18505/.m3u8
 公視HD,http://220.134.196.147:9572/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
-公视3台,P2p://generationnexxxt.com:19806/496b500faf464734ad2fa921ee28f413
 公視戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-中天綜合台HD,P2p://generationnexxxt.com:19806/d4dac4df0482472fa52e425a0d1de709
 中天綜合台HD,http://23.237.10.66:16372
 中天綜合台HD,http://220.134.196.147:9536/index.m3u8
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台HD,http://218.32.47.179:18526/.m3u8
-中天娛樂台HD,P2p://generationnexxxt.com:19806/0d44b7b1b7844968ae74b63b133aa992
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/24/80/cnbc90.m3u8
 中天娛樂台HD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
-中天亞洲台,P2p://generationnexxxt.com:19806/caee9c7659d0406688cdec58ce632216
 中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 中天全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
@@ -180,7 +177,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立综合台,http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
-三立戲劇台,P2p://generationnexxxt.com:19806/c86f7eac2bc0465e9f2af8ec94e5d178
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 三立戲劇台,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
@@ -200,8 +196,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 八大戲劇台HD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://220.134.196.147:9546/index.m3u8
 八大精采台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-八大娛樂台,P2p://generationnexxxt.com:19806/1e68ddb82fa34afba44f74e34ce72dda
-八大優頻道,P2p://generationnexxxt.com:19806/c8f11e9735a448b396940074409b70bc
 緯來日本台HD,http://220.134.196.147:9547/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 緯來日本台HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8?blog.ntnas.top
 緯來日本台HD,http://60.251.59.180:8513/.m3u8
@@ -216,8 +210,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 緯來育樂台HD,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來育樂台HD,http://218.32.47.179:18562/.m3u8
 緯來育樂台HD,http://220.134.196.147:9578/index.m3u8
-緯來精采台,P2p://generationnexxxt.com:19806/995b310c71434b858c0b76e508356925
-壹電視综合,P2p://generationnexxxt.com:19806/e069a84b4fc546c7863b7240565f36db
 龍華戲劇,http://220.134.196.147:9534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 龍華戲劇,http://60.251.33.252:18513/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
@@ -238,10 +230,8 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 東森綜合台HD,http://220.134.196.147:9553/index.m3u8
 東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森戲劇台HD,http://60.251.33.252:18538/.m3u8
-東森超視HD,,P2p://generationnexxxt.com:19806/f68cf5b203204e6aabbc0883bf7375c4
 東森超視HD,http://220.134.196.147:9524/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-ETtoday综合台,P2p://generationnexxxt.com:19806/e85b643a603f4433b894d724aa267f86
 東風衛視台HD,http://123.51.229.65:18560/.m3u8
 東風衛視台HD,http://220.134.196.147:9549/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 東風衛視台HD,http://60.251.33.252:18560/.m3u8
@@ -257,18 +247,14 @@ ETtoday综合台,P2p://generationnexxxt.com:19806/e85b643a603f4433b894d724aa267f
 MOMO綜合台HD,http://220.134.196.147:9574/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 MOMO綜合台HD,http://www.yshmzmc.top/gtjm.php?id=live1248
 MOMO綜合台HD,http://220.134.196.147:9577/.m3u8
-星衛娛樂台HD,P2p://generationnexxxt.com:19806/1236aa85dc764cbf8e72428cb150229d
 星衛娛樂台HD,http://23.237.10.66:16359
 STAR World HD,http://220.134.196.147:9561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
 STAR World HD,http://123.51.229.65:18504/.m3u8
 STAR World HD,http://60.251.33.252:18504/.m3u8
 TLC 旅遊生活頻道HD,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 TLC 旅遊生活頻道HD,http://www.yshmzmc.top/gtjm.php?id=live1005
-WarnerTV,P2p://generationnexxxt.com:19806/8de0b26da032401e88753f0d50eb27c4
-WarnerTV,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941652
-霹靂台灣台,P2p://generationnexxxt.com:19806/e0b2e8fa07f4403480f87409322140f7
-高點综合台,P2p://generationnexxxt.com:19806/0cf6ce8c7242476c9447e0db9a882be0
-JET綜合台HD,P2p://generationnexxxt.com:19806/1f18408e390145d6ae4a6d61677297ad
+WarnerTV,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941652
+JET綜合台HD,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
 JET綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 國興衛視HD,http://220.134.196.147:9545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
@@ -282,8 +268,6 @@ JET綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch5
 靖天育樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 爱爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 爱爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
-爱爾達影劇台,P2p://generationnexxxt.com:19806/9094a401f36d4ed487230a5054c39e86
-EYE TV戲劇,P2p://generationnexxxt.com:19806/2dbc9917cd584c609c493dd4c08b4d47
 Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 影迷數位紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 視納華仁紀實台,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
@@ -457,13 +441,11 @@ viva購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3
 viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
 電影頻道（61）,#genre#
-東森電影台HD,P2p://generationnexxxt.com:19806/bbc6d03feefe4d13b396e2a77356431e
 東森電影台HD,http://27.47.71.49:8811/hls/58/index.m3u8
 東森電影台HD,http://27.47.71.16:8811/hls/58/index.m3u8
 東森電影台HD,http://27.47.71.94:8811/hls/58/index.m3u8
 東森電影台HD,http://27.47.71.203:8811/hls/58/index.m3u8
 東森電影台HD,http://jyjxy.7766.org:8811/hls/58/index.m3u8
-東森洋片台HD,P2p://generationnexxxt.com:19806/86ad9174857149ebb8506f2804729142
 東森洋片台HD,http://27.47.71.49:8811/hls/59/index.m3u8
 東森洋片台HD,http://27.47.71.16:8811/hls/59/index.m3u8
 東森洋片台HD,http://27.47.71.94:8811/hls/59/index.m3u8
@@ -472,7 +454,6 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 緯來電影台HD,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 緯來電影台HD,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 緯來電影台HD,http://220.134.196.147:9555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-星衛HD電影台,P2p://generationnexxxt.com:19806/58ef604c399e452091524a3bca61c246
 星衛HD電影台,http://107.151.203.111:2209/135/hk.php?id=xingwei
 星衛HD電影台,http://23.237.10.66:16359
 衛視電影台HD,http://220.134.196.147:9549/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
@@ -487,12 +468,8 @@ Star Movies Gold,http://www.yshmzmc.top/gtjm.php?id=live1032
 Star Movies Gold,http://220.134.196.147:9560/index.m3u8
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
-ROCK ENTERTAINMENT,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941643.m3u8
 HITS頻道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
-HITS MOVIES,P2p://generationnexxxt.com:19806/3f55143c7868447288c8123a33283d4a
-HITS MOVIES,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941577.m3u8
-壹電視電影台,P2p://generationnexxxt.com:19806/4b30a6f066504d68b310fcad0d1e6049
-AMC最愛電影,P2p://generationnexxxt.com:19806/2d15374c9bb84cb9877fe8d95d13c9b2
+HITS MOVIES,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941606
 影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
@@ -516,15 +493,12 @@ LS龍祥電影台HD,http://27.47.71.203:8811/hls/38/index.m3u8
 LS龍祥電影台HD,http://jyjxy.7766.org:8811/hls/38/index.m3u8
 經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 美亞電影,P2p://generationnexxxt.com:19806/74e191c0e0654a78b1a264d6ffc26f9c
-美亞電影(粤語),P2p://generationnexxxt.com:19806/3192c3897a3542e894f74a8186dcff5f
-天映經典,P2p://generationnexxxt.com:19806/517d359aed1646c1b3a2d4ac3dcdaf23
 天映經典,http://27.47.71.49:8811/hls/62/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
 天映經典,http://27.47.71.16:8811/hls/62/index.m3u8
 天映經典,http://27.47.71.94:8811/hls/62/index.m3u8
 天映經典,http://27.47.71.203:8811/hls/62/index.m3u8
-天映頻道,P2p://generationnexxxt.com:19806/79e061c2c25f4abaaeae65dd4a715298
-天映頻道,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941618.m3u8
+天映頻道,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941618
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://51.79.82.208:16024
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
