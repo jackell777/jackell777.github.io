@@ -1,3 +1,4 @@
+
 新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -60,14 +61,12 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 東森財經新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-央視新聞,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?blog.ntnas.top
+央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-央視新聞,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
-央視財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8?blog.ntnas.top
+央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-央視財經,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
 壹電視新聞HD,http://220.134.196.147:9570/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 壹電視新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1242
@@ -75,7 +74,6 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡電視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
-寰宇新聞台灣台,P2p://generationnexxxt.com:19806/9aa8e350cb224c53941d041019eb39aa
 寰宇新聞台灣台,https://git.io/JgkpO
 寰宇新聞台灣台,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
@@ -84,8 +82,8 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 非凡新聞HD,http://220.134.196.147:9539/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡商業台HD,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
-運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 運通財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 全球財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
 全球財經台HD,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
@@ -95,10 +93,8 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 香港國際財經台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
-第一財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 第一財經,http://39.134.136.138:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-東方財經,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 BTV財經,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
@@ -110,11 +106,11 @@ BTV財經,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
 有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
+鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
