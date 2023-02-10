@@ -60,12 +60,12 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 東森財經新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
 壹電視新聞HD,http://220.134.196.147:9570/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 壹電視新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1242
