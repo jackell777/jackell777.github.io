@@ -1,3 +1,4 @@
+
 新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -557,6 +558,7 @@ NewTV明星大片,http://39.134.136.138:6610/000000001000/1000000004000019008/in
 iHOT愛院線,http://39.134.136.138:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 iHOT愛科幻,http://39.134.136.138:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 iHOT愛浪漫,http://39.134.136.138:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+AXN HD,http://123.51.230.64:18558/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 AXN HD,http://220.134.196.147:9523/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
 AXN HD,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 AXN HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660.m3u8
@@ -579,6 +581,7 @@ MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/
 好萊塢電影台HD,P2p://generationnexxxt.com:19806/1473e451eeb4411fa06bafc1c62d20ae
 好萊塢電影台HD,http://220.134.196.147:9517/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?
 好萊塢電影台HD,http://220.134.196.147:9502/index.m3u8
+CINEMAX HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX HD,http://220.134.196.147:9572/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CINEMAX HD,http://220.134.196.147:9515/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CINEMAX HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
