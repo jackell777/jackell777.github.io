@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -831,14 +832,12 @@ DMAX,P2p://generationnexxxt.com:19806/dcf8cb7f7ddb434cacfde57a4a0f4eee
 國家地理野生高畫質頻道,P2p://generationnexxxt.com:19806/fa2e7e7c12934ccf8e4ba896ca1de33e
 國家地理野生高畫質頻道,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 歷史頻道,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
-動物星球頻道HD,http://220.134.196.147:9566/index.m3u8
+動物星球頻道HD,http://220.134.196.147:9566/http/60.251.39.91:8081/hls/70/812/ch37.m3u8?token=
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 幸福空間居家台HD,https://git.io/JgYYF
 幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 幸福空間居家台HD,http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
-HGTV居家樂活頻道,P2p://generationnexxxt.com:19806/f911cdf5ba074beabb4de2e481853de9
-美食星球,P2p://generationnexxxt.com:19806/e20823abeaa943aeb0cf96ebd1e22f41
 亞洲旅遊台,http://220.134.196.147:9523/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亞洲美食頻道,P2p://generationnexxxt.com:19806/b4ae19adb7cb44679a66b7b3b88ae623
 EYE TV旅遊台,P2p://generationnexxxt.com:19806/e559895b754d4e888cb8b545beb496bd
