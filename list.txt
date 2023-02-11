@@ -1,4 +1,5 @@
-新聞頻道（48）,#genre#
+
+🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -129,7 +130,7 @@ DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://61.58.60.230:9319/live/124.m3u8
 
-綜合頻道（160）,#genre#
+🪐綜合頻道（160）,#genre#
 台視HD,http://60.251.33.252:18543/.m3u8
 台視HD,http://23.237.10.66:16344
 中視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
@@ -432,7 +433,7 @@ momo購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 viva購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
-電影頻道（61）,#genre#
+🚀電影頻道（61）,#genre#
 東森電影台HD,http://27.47.71.49:8811/hls/58/index.m3u8
 東森電影台HD,http://27.47.71.16:8811/hls/58/index.m3u8
 東森電影台HD,http://27.47.71.94:8811/hls/58/index.m3u8
@@ -577,7 +578,7 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 峨眉電影,http://182.151.211.171:808/hls/58/index.m3u8
 峨眉電影,http://r.jdshipin.com/XIjta
 
-鬥魚頻道系列,#genre#
+😁鬥魚頻道系列,#genre#
 經典恐怖電影,http://epg.112114.xyz/douyu/1165374
 鬥魚恐怖電影1,http://epg.112114.xyz/douyu/263824
 鬥魚恐怖電影2,http://epg.112114.xyz/douyu/9275635
@@ -651,7 +652,7 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 鬥魚電視劇13,http://epg.112114.xyz/douyu/6706214
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
-體育頻道（73）,#genre#
+⚽體育頻道（73）,#genre#
 央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?blog.ntnas.top
 央視體育,http://23.237.10.66:16007
@@ -796,7 +797,7 @@ WWE摔角,P2p://generationnexxxt.com:19806/aa6909cc1f654c8fa8e7d9640336022b
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
-人文幼兒（63）,#genre#
+🗽🗽人文幼兒（63）,#genre#
 央視記錄,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
@@ -909,7 +910,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 哆啦A夢,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
 樱桃小丸子,http://zzy789.xyz/bili.php?id=11765640
 
-港澳地區（38）,#genre#
+🚝港澳地區（38）,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
@@ -984,7 +985,7 @@ VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
-4K頻道（38）,#genre#
+🌡4K頻道（38）,#genre#
 廣東綜藝-4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 蘇州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 歡笑劇場-4K,http://39.134.136.138:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
@@ -1032,7 +1033,7 @@ Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/151
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 BTV紀實科教-8K,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 
-央視頻道,#genre#
+🏴‍☠️央視頻道,#genre#
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
@@ -1090,7 +1091,7 @@ CCTV15,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/
 CCTV16,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
-各省衛視,#genre#
+🏳‍🌈各省衛視,#genre#
 江苏卫视,http://live.cooltv.top/tv/aishang.php?id=jswshd
 江苏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
 北京卫视,http://live.cooltv.top/tv/aishang.php?id=bjwshd
@@ -1540,7 +1541,7 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
-🔞18禁頻道,#genre#
+🈲18禁頻道,#genre#
 Japan HDV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6225/index.m3u8
 Fake Taxi HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6202/index.m3u8
 Playboy,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/527/index.m3u8
