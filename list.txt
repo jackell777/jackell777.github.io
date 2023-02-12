@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -563,15 +564,15 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
-CHC家庭影院,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC動作電影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC動作電影,https://live.v1.mk/aishang/chcdzdy
-CHC動作電影,http://wabc.ml/sxg.php?id=gef.wqCHCdzdyH265_4000
+CHC動作電影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC動作電影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC高清電影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 CHC高清電影,https://live.v1.mk/aishang/chcgqdy
-CHC高清電影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
+CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 峨眉電影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨眉電影,http://182.151.211.171:808/hls/58/index.m3u8
