@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -438,8 +439,8 @@ viva購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3
 viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
 🚀電影頻道（61）,#genre#
-東森電影台HD,http://120.84.96.122:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.72:808/hls/32/index.m3u8
+東森電影台HD,http://120.84.96.122:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.78:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.89:808/hls/32/index.m3u8
@@ -449,10 +450,10 @@ viva購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3
 東森電影台HD,http://120.84.96.125:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.196:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.233:808/hls/32/index.m3u8
+東森洋片台HD,http://120.84.96.72:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.122:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.71:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.73:808/hls/33/index.m3u8
-東森洋片台HD,http://120.84.96.72:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.78:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.85:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.89:808/hls/33/index.m3u8
@@ -496,10 +497,10 @@ CATCHPLAY Beyond,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunkl
 （故障）龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 （故障）龍華洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 （故障）龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+LS龍祥電影台HD,http://120.84.96.72:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://119.140.58.190:9901/hls/14/index.m3u8
 LS龍祥電影台HD,http://120.84.96.122:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.71:808/hls/35/index.m3u8
-LS龍祥電影台HD,http://120.84.96.72:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.78:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.85:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.89:808/hls/35/index.m3u8
