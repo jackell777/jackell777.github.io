@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -530,6 +531,7 @@ LS龍祥電影台HD,http://120.84.96.233:808/hls/35/index.m3u8
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 華語影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+私人影院,http://120.84.96.72:808/hls/24/index.m3u8
 NewTV超級電影,http://39.134.136.138:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
 NewTV超級電影,http://39.134.136.138:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 NewTV超級電影,http://39.134.136.138:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
