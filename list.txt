@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -988,7 +989,9 @@ RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
+VIUTV6,https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u8
 VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
