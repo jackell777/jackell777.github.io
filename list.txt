@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -9,7 +10,7 @@
 中視新聞台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視新聞台HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
 華視新聞資訊台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-華視新聞資訊台HD,http://220.134.196.147:9538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+華視新聞資訊台HD,http://220.134.196.147:9542/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=
 華視新聞資訊台HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊台HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
@@ -33,8 +34,8 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
-三立LIVE,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNEWS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 三立iNEWS HD,https://git.io/Jgkxj
@@ -60,10 +61,10 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 東森財經新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+央視新聞,https://live.v1.mk/aishang/cctv13hd
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
 央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+央視財經,https://live.v1.mk/aishang/cctv2hd
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
@@ -90,11 +91,12 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 香港國際財經台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
-第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 第一財經,http://39.134.136.138:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+東方財經,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 BTV財經,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
@@ -111,12 +113,12 @@ BTV財經,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-鳳凰香港,http://120.84.96.72:808/hls/81/index.m3u8
 鳳凰香港,http://tvmvip110.club/fengh.php?id=3
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+鳳凰香港,http://120.84.96.72:808/hls/81/index.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNN Live全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
@@ -126,8 +128,8 @@ FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 SKY News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
-DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
 DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://61.58.60.230:9319/live/124.m3u8
 
