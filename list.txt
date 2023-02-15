@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -99,7 +100,6 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
 第一財經,http://39.134.136.138:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-東方財經,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 BTV財經,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
