@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -833,15 +834,15 @@ WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
 🗽🗽人文幼兒（63）,#genre#
+央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 NewTV精品記錄,http://39.134.136.138:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
 NewTV魅力瀟湘,http://39.134.136.138:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+央視科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-央視科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 求索動物,http://39.134.136.138:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索紀錄,http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
@@ -877,6 +878,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 亞洲美食頻道,P2p://generationnexxxt.com:19806/b4ae19adb7cb44679a66b7b3b88ae623
 EYE TV旅遊台,P2p://generationnexxxt.com:19806/e559895b754d4e888cb8b545beb496bd
 momo親子台HD,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
+momo親子台HD,http://220.134.196.147:9523/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
 東森幼幼台HD,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
 東森幼幼台HD,http://www.yshmzmc.top/gtjm.php?id=live1008
 央視少兒,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
