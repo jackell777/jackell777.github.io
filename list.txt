@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -289,7 +290,6 @@ Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/c
 華語綜藝台,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
 MTV Live HD音樂頻道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-Channel V,http://jydx.jdshipin.com:8081/hls/88/index.m3u8
 央視音樂,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 央視音樂,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 央視音樂,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
