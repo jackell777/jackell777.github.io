@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -1583,20 +1584,6 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
 🈲18禁頻道,#genre#
-松視1臺,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
-松視2臺,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
-松視3臺,mitv://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
-彩虹E臺,mitv://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
-香蕉臺Banana,mitv://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
-彩虹電影,mitv://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
-潘朵啦玩美Perfec,mitv://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
-驚豔電影臺Amazing,mitv://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
-JS極限臺,mitv://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
-HAPPY,mitv://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
-K 頻道,mitv://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
-Look HD,mitv://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
-PLAYBOY,mitv://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
-
 Japan HDV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6225/index.m3u8
 Fake Taxi HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6202/index.m3u8
 Playboy,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/527/index.m3u8
