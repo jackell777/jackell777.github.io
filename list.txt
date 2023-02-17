@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -950,10 +951,11 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 
 🚝港澳地區（38）,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
+翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
-翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 有線新聞台,https://api.leonardpark.dev/live/icable/109
