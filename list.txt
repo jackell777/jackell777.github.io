@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -103,10 +104,13 @@ BTV財經,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m
 BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 BTV財經,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV財經,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
+有線新聞台,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線直播新聞台,http://pull-l3-cny.douyincdn.com/third/stream-1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
+有線財經資訊,http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
