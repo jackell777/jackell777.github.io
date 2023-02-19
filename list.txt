@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -144,10 +145,6 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 華視警世劇場,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 華視警世劇場,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-我可能不會愛你,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-新玫瑰瞳玲眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 民視HD,rtmp://119.81.124.89/sat/tv051
 民視HD,http://23.237.10.66:16334
 民視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
