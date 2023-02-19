@@ -1,11 +1,12 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+中視新聞台HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
-中視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視新聞台HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
 華視新聞資訊台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
