@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -75,10 +76,9 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 鏡電視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡電視新聞台,https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
-寰宇新聞台灣台,https://git.io/JgkpO
-寰宇新聞台灣台,http://tv.redrainl.site:9500/live.m3u8?c=22
-寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
+寰宇新聞,https://git.io/JgkpO
+寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 非凡新聞HD,http://220.134.196.147:9539/http/60.251.39.91:8081/hls/75/817/ch57.m3u8?token=
