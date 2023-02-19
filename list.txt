@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -33,12 +34,8 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
-三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNEWS HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立iNEWS HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
-三立iNEWS HD,https://git.io/Jgkxj
-三立iNEWS HD,http://tv.redrainl.site:9500/live.m3u8?c=51
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 三立財經新聞HD,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
@@ -84,10 +81,6 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 非凡新聞HD,http://220.134.196.147:9539/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡商業台HD,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
-運通財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
-運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-全球財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-全球財經台HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
 全球財經台HD,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -151,7 +144,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 華視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 華視警世劇場,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 華視警世劇場,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 我可能不會愛你,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 新玫瑰瞳玲眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
