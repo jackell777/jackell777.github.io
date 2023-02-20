@@ -1,4 +1,3 @@
-
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -125,7 +124,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://61.58.60.230:9319/live/124.m3u8
 
-🪐綜合頻道（160）,#genre#
+🪐綜合頻道（121）,#genre#
 台視HD,http://60.251.33.252:18543/.m3u8
 台視HD,http://23.237.10.66:16344
 台視HD,rtmp://119.81.124.89/sat/tv071
@@ -501,16 +500,13 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 北京IPTV淘電影,http://222.129.37.206:8888/rtp/239.3.1.250:8001
 北京IPTV淘電影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘電影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰電影,https://epg.pw/stream/5c92bcc101de0dd4b2bc19f2d0b82dfeaed01bb6492cbc94cf2cdfe12bf279b1.m3u8
-鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?blog.ntnas.top
 華語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 4K超高清電影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清電影,http://r.jdshipin.com/5DWJk
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓電影,http://39.134.136.138:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 黑莓電影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
-黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
