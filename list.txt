@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -8,11 +9,11 @@
 中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
 中視新聞台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視新聞台HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20368
-華視新聞資訊台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 華視新聞資訊台HD,http://220.134.196.147:9542/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=
 華視新聞資訊台HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊台HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
+華視新聞資訊台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 民視新聞台HD,https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
@@ -103,7 +104,6 @@ BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 有線財經資訊,http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
-鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
@@ -114,8 +114,6 @@ BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
-新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNN Live全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
