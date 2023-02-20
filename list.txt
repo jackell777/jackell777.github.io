@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -462,17 +463,8 @@ LS龍祥電影台HD,http://120.84.96.233:808/hls/35/index.m3u8
 華語影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 私人影院,http://120.84.96.73:808/hls/24/index.m3u8
-NewTV超級電影,http://39.134.136.138:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
-NewTV超級電影,http://39.134.136.138:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-NewTV超級電影,http://39.134.136.138:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
-NewTV動作電影,http://39.134.136.138:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-NewTV驚悚懸疑,http://39.134.136.138:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-NewTV明星大片,http://39.134.136.138:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
-iHOT愛院線,http://39.134.136.138:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-iHOT愛科幻,http://39.134.136.138:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-iHOT愛浪漫,http://39.134.136.138:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-AXN HD,http://123.51.230.64:18558/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 AXN HD,http://220.134.196.147:9523/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
+AXN HD,http://123.51.230.64:18558/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 AXN HD,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 AXN HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660.m3u8
 AXN HD,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
@@ -489,14 +481,13 @@ HBO原創鉅獻HD,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&ext
 HBO原創鉅獻HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645.m3u8
 HBO溫馨家庭HD,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941646
 HBO溫馨家庭HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646.m3u8
-CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 好萊塢電影台HD,http://220.134.196.147:9523/http/60.251.39.91:8081/hls/74/816/ch55.m3u8?token=
 好萊塢電影台HD,http://220.134.196.147:9517/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?
 好萊塢電影台HD,http://220.134.196.147:9502/index.m3u8
-CINEMAX HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX HD,http://220.134.196.147:9572/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CINEMAX HD,http://220.134.196.147:9515/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+CINEMAX HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX HD,http://218.32.47.179:18559/.m3u8
 央視電影,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
