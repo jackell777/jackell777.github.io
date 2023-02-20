@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -628,13 +629,10 @@ ELEVEN SPORTS 2 HD,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/
 博斯運動一台,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
 博斯運動二台,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
 博斯無限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-博斯無限2台,P2p://generationnexxxt.com:19806/f36eeeb900b045dfb6b4c18a01ccc309
-博斯網球台,rtmp://119.81.124.89/sat/md011
 博斯網球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+博斯網球台,rtmp://119.81.124.89/sat/md011
 博斯高球一台HD,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
-博斯高球二台HD,P2p://generationnexxxt.com:19806/2726e56c0f5941d5b76ee77478001d5f
-博斯魅力,rtmp://119.81.124.89/sat/md021
-博斯魅力,P2p://generationnexxxt.com:19806/6f293f12d03344f998a26f180a322c47
+博斯魅力,rtmp://119.81.124.89/sat/md031
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
 央視撞球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
 央視撞球,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
@@ -645,16 +643,6 @@ ELEVEN SPORTS 2 HD,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/
 勁爆體育,http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 勁爆體育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 五星體育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-NewTV超級體育,http://39.134.136.138:6610/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
-NewTV超級體育http://39.134.136.138:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
-NewTV超級體育,http://39.134.136.138:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
-NewTV超級體育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
-NewTV精品體育,http://39.134.136.138:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-BTV體育,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
-BTV體育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-BTV體育,http://iptv.cooltv.top/tv/btime.php?id=bjjs
-BTV體育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1672541449&sign=dbd0def0539909209c12e07231ee1bb9
-BTV體育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548511-0-0-836dfb6400f8b405a1d09d5f2fe2ca71
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 足球頻道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
@@ -672,19 +660,12 @@ BT SPORT 3,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1429
 BT SPORT 4,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40505
 BT SPORT 4,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
 BT SPORT 4,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1431
-beIN Sports 1,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132195
 beIN Sports 1,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34718
-beIN Sports 2,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132196
 beIN Sports 2,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34719
-beIN Sports 3,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132197
 beIN Sports 3,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34720
-beIN Sports 4,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107198
 beIN Sports 4,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34721
-beIN Sports 5,http://onntv.online:25461/live/30A612037A90/8754467/175.ts
 beIN Sports 5,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
-beIN Sports 6,http://onntv.online:25461/live/30A612037A90/8754467/176.ts
 beIN Sports 6,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
-beIN Sports 7,http://onntv.online:25461/live/30A612037A90/8754467/177.ts
 beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
 Sky Sports Arena,http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
 Sky Sports Arena,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11655.ts
@@ -714,9 +695,9 @@ J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NBA TV,http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/323446
 NBA TV,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132296
 NBA TV,http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34028
-NBA TV,http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/323446
 NBA TV,http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2644
 NBA動態,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -740,7 +721,6 @@ Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
 FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 FIGHT SPORTS2,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-WWE摔角,P2p://generationnexxxt.com:19806/aa6909cc1f654c8fa8e7d9640336022b
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
