@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -27,6 +28,7 @@ TVBS新聞台 HD,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新聞台 HD,https://git.io/JgYl2
+TVBS HD,http://tvmvip110.club/live.php?id=tvbs
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS HD,http://158.101.151.82:9000/jmsytb.m3u8?c=04
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
@@ -71,6 +73,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡電視新聞台,https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
+寰宇新聞,http://tvmvip110.club/live.php?id=hyxw
 寰宇新聞,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
 寰宇新聞,https://git.io/JgkpO
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
@@ -143,6 +146,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 華視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 華視警世劇場,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 華視警世劇場,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+藍色水玲瓏,http://tvmvip110.club/live.php?id=xyqt
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 民視HD,rtmp://119.81.124.89/sat/tv051
 民視HD,http://23.237.10.66:16334
@@ -150,8 +154,8 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 民視第一台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
 民視台灣台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民視綜藝台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+豬哥亮歌廳秀,http://tvmvip110.club/live.php?id=zyzg
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
-豬哥亮歌廳秀,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 公視HD,http://218.32.47.179:18505/.m3u8
 公視HD,http://220.134.196.147:9572/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 公視戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
