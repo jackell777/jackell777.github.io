@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -724,51 +725,29 @@ FIGHT SPORTS2,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
-🗽🗽人文幼兒（63）,#genre#
+🗽人文幼兒（63）,#genre#
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-NewTV精品記錄,http://39.134.136.138:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
-NewTV魅力瀟湘,http://39.134.136.138:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 央視科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-求索動物,http://39.134.136.138:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索紀錄,http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-求索科學,http://39.134.136.138:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-求索生活,http://39.134.136.138:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-LOVE NATURE,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
-BBC地球,P2p://generationnexxxt.com:19806/63de82df000426017f03ced45c0b0860
-BBC Lifestyle,P2p://generationnexxxt.com:19806/63de82de000c4aff7f03cd0f433f33aa
 Discovery頻道HD,http://220.134.196.147:9568/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 Discovery頻道HD,http://220.134.196.147:9568/index.m3u8
 Discovery頻道HD,http://www.yshmzmc.top/gtjm.php?id=live1002
 Discovery頻道HD,http://220.134.196.147:9520/index.m3u8
 Discovery頻道HD,http://220.134.196.147:9510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
-Discovery亞洲,P2p://generationnexxxt.com:19806/a3c447ea6ff04cc3b08c52e27eb63208
-Discovery科學,P2p://generationnexxxt.com:19806/d5b2381133624de4b7e61c4e9f508e6b
-DMAX,P2p://generationnexxxt.com:19806/dcf8cb7f7ddb434cacfde57a4a0f4eee
-罪案偵緝頻道,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist_w740064912.m3u8
 國家地理台灣頻道HD,http://220.134.196.147:9569/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 國家地理台灣頻道HD,http://www.yshmzmc.top/gtjm.php?id=live1003
 國家地理頻道HD,http://220.134.196.147:9509/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 國家地理頻道HD,http://220.134.196.147:9569/index.m3u8
-國家地理野生高畫質頻道,P2p://generationnexxxt.com:19806/fa2e7e7c12934ccf8e4ba896ca1de33e
 國家地理野生高畫質頻道,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-歷史頻道,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
 動物星球頻道HD,http://220.134.196.147:9566/http/60.251.39.91:8081/hls/70/812/ch37.m3u8?token=
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-幸福空間居家台HD,https://git.io/JgYYF
-幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-幸福空間居家台HD,http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
 亞洲旅遊台,http://220.134.196.147:9523/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
-亞洲美食頻道,P2p://generationnexxxt.com:19806/b4ae19adb7cb44679a66b7b3b88ae623
-EYE TV旅遊台,P2p://generationnexxxt.com:19806/e559895b754d4e888cb8b545beb496bd
-momo親子台HD,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
 momo親子台HD,http://220.134.196.147:9523/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
 東森幼幼台HD,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
 東森幼幼台HD,http://www.yshmzmc.top/gtjm.php?id=live1008
@@ -776,46 +755,26 @@ momo親子台HD,http://220.134.196.147:9523/http/116.50.42.18:8088/hls/70/812/ch
 央視少兒,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 央視少兒,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 央視少兒,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-東森幼幼,https://git.io/JgYON
-東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 i-Fun動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 ANIMAX,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 龍華卡通,http://220.134.196.147:9519/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
-Nick Jr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
-尼克兒童頻道HD,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
 經典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
 精選動漫台,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-靖洋卡通Nice,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
-佩佩豬卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 青春動漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 青春動漫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
-動漫秀場,http://39.134.136.138:6610/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
 動漫秀場,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 動漫秀場,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
-幼兒動畫歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-幼兒動畫歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-動畫,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-哈哈炫動,http://39.134.136.138:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫動,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
 哈哈炫動,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 北京IPTV淘Baby,http://222.129.37.206:8888/rtp/239.3.1.238:8001
 卡酷少兒,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 卡酷少兒,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
-金鹰卡通,http://39.134.136.138:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-金鹰卡通,http://39.134.136.138:6610/000000001000/1000000002000011724/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 嘉佳卡通,http://23.237.10.66:16662
-嘉佳卡通,http://39.134.136.138:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
-嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
-黑莓動畫,http://39.134.136.138:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-優漫卡通,http://39.134.136.138:6610/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
-優漫卡通,http://39.134.136.138:6610/000000001000/6000000003000030492/index.m3u8?channel-id=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3
-iHOT愛動漫,http://39.134.136.138:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 Baby TV HD,http://220.134.196.147:9541/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
 Baby TV HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 Baby TV HD,http://www.yshmzmc.top/gtjm.php?id=live1007
@@ -824,18 +783,10 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 寶寶動畫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-寶可夢,http://epg.112114.xyz/douyu/9765742
 蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
-鬥魚搞笑動漫,http://epg.112114.xyz/douyu/9401305
 動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
-名偵探柯南,http://epg.112114.xyz/douyu/5377297
-名偵探柯南劇場版,http://epg.112114.xyz/douyu/1783144
-海賊王劇場版,http://epg.112114.xyz/douyu/997925
 喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
-中華小當家,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
-哆啦A夢,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
-樱桃小丸子,http://zzy789.xyz/bili.php?id=11765640
 
 🚝港澳地區（38）,#genre#
 翡翠台(華麗台),http://23.237.10.66:16410
