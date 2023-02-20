@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -435,7 +436,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 東森購物1台HD,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 東森購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-東森購物3台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物3台HD,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 momo購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 momo購物2台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 viva購物1台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
