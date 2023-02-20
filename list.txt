@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -382,7 +383,7 @@ LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stre
 東森購物3台HD,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
-🚀電影頻道（61）,#genre#
+🚀電影頻道（38）,#genre#
 東森電影台HD,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.72:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.122:808/hls/32/index.m3u8
