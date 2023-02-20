@@ -1,3 +1,4 @@
+
 🌎新聞頻道（48）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -13,11 +14,11 @@
 華視新聞資訊台HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊台HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
+民視新聞台HD,https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=1
-民視新聞台HD,https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民視新聞台HD,http://123.51.229.65:18563/.m3u8
 TVBS新聞台 HD,rtmp://119.81.124.89/sat/tv551
 TVBS新聞台 HD,https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
@@ -36,20 +37,17 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-三立財經新聞HD,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
 年代新聞HD,http://220.134.196.147:9544/index.m3u8
-中天新聞HD,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新聞HD,https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+中天新聞HD,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新聞HD,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新聞HD,https://git.io/Jgkpy
 中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新聞HD,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-東森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=02
-東森LIVE,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=1
 東森新聞HD,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1014
 東森財經新聞HD,http://60.251.33.252:18515/.m3u8
@@ -73,7 +71,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 鏡電視新聞台,https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 寰宇新聞,http://tvmvip110.club/live.php?id=hyxw
-寰宇新聞,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
+寰宇新聞,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
 寰宇新聞,https://git.io/JgkpO
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
