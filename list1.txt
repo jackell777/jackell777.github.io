@@ -27,6 +27,9 @@
 
 
 
+
+
+
 台灣頻道,#genre#
 CNN,P2p://generationnexxxt.com:19806/fd411706eeba4cd89f853e57069e4eb6
 民视,P2p://generationnexxxt.com:19806/15f5218e79ad46c3bd1cafa2103a1116
@@ -138,3 +141,17 @@ Discovery Asia,P2p://generationnexxxt.com:19806/5ed9f08f03444d1a87bf7e48eb176477
 Discovery科学频道,P2p://generationnexxxt.com:19806/20fe89b0a6544e4a996536ce41500cbd
 DMAX,P2p://generationnexxxt.com:19806/d5df0c99bf6b4d0ca98edf56149b7c21
 EVE,P2p://generationnexxxt.com:19806/802e05b18c1440f3be2db7eb68960f5c
+
+松視1臺,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+松視2臺,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+松視3臺,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+香蕉臺,P2p://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+彩虹e臺,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+彩虹電影,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+潘朵啦玩美,P2p://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+驚豔電影臺,P2p://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+JSᴴᴰ極限臺,P2p://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+HAPPY,P2p://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+K 頻道,P2p://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
+Look HD,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
