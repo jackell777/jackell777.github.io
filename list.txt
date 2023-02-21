@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -1389,6 +1390,20 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
 🈲18禁頻道,#genre#
+松視1臺,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+松視2臺,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+松視3臺,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+香蕉臺,P2p://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+彩虹e臺,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+彩虹電影,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+潘朵啦玩美,P2p://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+驚豔電影臺,P2p://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+JSᴴᴰ極限臺,P2p://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+HAPPY,P2p://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+K 頻道,P2p://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
+Look HD,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
+
 Japan HDV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6225/index.m3u8
 Fake Taxi HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6202/index.m3u8
 Playboy,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/527/index.m3u8
