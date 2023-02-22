@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -199,7 +200,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 壹電視綜合,P2p://generationnexxxt.com:19806/d384dedc74aa44dd8a4af19b69ea6a5a
 緯來精采,P2p://generationnexxxt.com:19806/2f69ec5e8af14bd2a900c213c7e2496b
 ETtoday綜合台,P2p://generationnexxxt.com:19806/615acc21a1724960ab09a49b09f3f5b6
-緯來綜合台,P2p://generationnexxxt.com:19806/83cbf1ce885b44988262a31242329069
 龍華戲劇,http://220.134.196.147:9535/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 龍華戲劇,http://60.251.33.252:18513/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
