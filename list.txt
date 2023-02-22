@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -154,6 +155,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
+中天亞洲台,P2p://generationnexxxt.com:19806/a763deefbae74bbe9e6d7eeeae5143b4
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 中天全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 TVBS歡樂台HD,rtmp://119.81.124.89/sat/tv421
