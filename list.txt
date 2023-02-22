@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -505,8 +506,10 @@ HBO,http://220.134.196.147:9557/index.m3u8
 HBO,http://www.yshmzmc.top/gtjm.php?id=live1029
 HBO強檔鉅獻HD,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 HBO強檔鉅獻HD,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941647
+HBO原創鉅獻HD,P2p://generationnexxxt.com:19806/8b3d44f4686d41adba17df9fcc3269e1
 HBO原創鉅獻HD,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941645
 HBO原創鉅獻HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645.m3u8
+HBO溫馨家庭HD,P2p://generationnexxxt.com:19806/dd04c17d0d674582be3126a5815dba0d
 HBO溫馨家庭HD,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941646
 HBO溫馨家庭HD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646.m3u8
 MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
