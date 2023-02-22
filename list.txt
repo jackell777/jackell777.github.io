@@ -1,9 +1,11 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
 台視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視財經台,P2p://generationnexxxt.com:19806/b145245970784c7a94685cec9193e3b5
 中視新聞台HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
 中視新聞台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
@@ -131,6 +133,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 中視HD,rtmp://119.81.124.89/sat/tv091
 中視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視精彩台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+中視經典台,P2p://generationnexxxt.com:19806/6f6d5f06b0264c3c8d19dd46abb7e333
 華視HD,http://218.32.47.179:18503/.m3u8
 華視HD,rtmp://119.81.124.89/sat/tv111
 華視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
