@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -140,8 +141,11 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 民視HD,rtmp://119.81.124.89/sat/tv051
 民視HD,http://23.237.10.66:16334
 民視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民視第一台,P2p://generationnexxxt.com:19806/eaa66f76d33e4631a6cea4ef0a1db4b6
+民視臺灣台,P2p://generationnexxxt.com:19806/340a65d2c9ca40678c768a4e1490cb65
 公視HD,http://220.134.196.147:9572/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 公視HD,http://218.32.47.179:18505/.m3u8
+公視3台,P2p://generationnexxxt.com:19806/82e4f9b5f19a4996890fb7c3533afe8d
 中天綜合台HD,http://220.134.196.147:9550/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
 中天綜合台HD,http://23.237.10.66:16372
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
@@ -165,6 +169,8 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立都會台,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,http://220.134.196.147:9532/index.m3u8
 三立都會台,http://www.yshmzmc.top/gtjm.php?id=live1020
+三立戲劇台,P2p://generationnexxxt.com:19806/ee6f8fc830dd4d0e89e686901fa48acb
+三立綜合台,P2p://generationnexxxt.com:19806/6283e61b8d17438fb6c35f2dd1bed794
 八大第一台HD,http://123.51.229.65:18539/.m3u8
 八大第一台HD,http://60.251.33.252:18539/.m3u8
 八大綜合台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
@@ -173,6 +179,9 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 八大戲劇台HD,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://220.134.196.147:9546/index.m3u8
+八大娛樂台,P2p://generationnexxxt.com:19806/3d7c5b6b0a6e4491847a15e11c33dd78
+八大優頻道,P2p://generationnexxxt.com:19806/b27b7d6e27f74385b69b3ce684c04b84
+星衛娛樂台,P2p://generationnexxxt.com:19806/b045b4e566354a00bd6a70c6f0278fd7
 緯來日本台HD,rtmp://119.81.124.89/sat/tv771
 緯來日本台HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8?blog.ntnas.top
 緯來日本台HD,http://60.251.59.180:8513/.m3u8
@@ -187,6 +196,10 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 緯來育樂台HD,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來育樂台HD,http://218.32.47.179:18562/.m3u8
 緯來育樂台HD,http://220.134.196.147:9578/index.m3u8
+壹電視綜合,P2p://generationnexxxt.com:19806/d384dedc74aa44dd8a4af19b69ea6a5a
+緯來精采,P2p://generationnexxxt.com:19806/2f69ec5e8af14bd2a900c213c7e2496b
+ETtoday綜合台,P2p://generationnexxxt.com:19806/615acc21a1724960ab09a49b09f3f5b6
+緯來綜合台,P2p://generationnexxxt.com:19806/83cbf1ce885b44988262a31242329069
 龍華戲劇,http://220.134.196.147:9535/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 龍華戲劇,http://60.251.33.252:18513/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
@@ -340,6 +353,7 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 好消息,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
 好消息,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+好消息2台,P2p://generationnexxxt.com:19806/38e0f6cf69e14dc29c6ae68e1cbe74ef
 好消息2台,http://live.streamingfast.net/osmflivech2.m3u8
 好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 好消息2台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch50-2.m3u8
@@ -383,6 +397,7 @@ LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stre
 美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
 🚀電影頻道（38）,#genre#
+東森電影台HD,P2p://generationnexxxt.com:19806/73851b582e524868a51099b0fba550da
 東森電影台HD,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.72:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.122:808/hls/32/index.m3u8
@@ -394,6 +409,7 @@ LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stre
 東森電影台HD,http://120.84.96.125:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.196:808/hls/32/index.m3u8
 東森電影台HD,http://120.84.96.233:808/hls/32/index.m3u8
+東森洋片台HD,P2p://generationnexxxt.com:19806/be0fbc82af0445008d0fa51d1163f00f
 東森洋片台HD,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 東森洋片台HD,http://120.84.96.73:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.72:808/hls/33/index.m3u8
@@ -408,6 +424,7 @@ LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stre
 東森洋片台HD,http://120.84.96.126:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.196:808/hls/33/index.m3u8
 東森洋片台HD,http://120.84.96.233:808/hls/33/index.m3u8
+星衛HD電影台,P2p://generationnexxxt.com:19806/8746f6c5cbe242cdb415d05202ef5e2d
 緯來電影台HD,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 緯來電影台HD,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 緯來電影台HD,http://220.134.196.147:9555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
@@ -418,19 +435,24 @@ LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stre
 衛視電影台HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台HD,http://23.237.10.66:16010
 衛視電影台HD,http://220.134.196.147:9578/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
+Star Movies HD,P2p://generationnexxxt.com:19806/40297df912b948d3a58dfc2f9344b2e6
 Star Movies Gold,http://220.134.196.147:9534/http/60.251.39.91:8081/hls/62/804/ch08.m3u8
 Star Movies Gold,http://www.yshmzmc.top/gtjm.php?id=live1032
 Star Movies Gold,http://220.134.196.147:9560/index.m3u8
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+ROCK Extreme,P2p://generationnexxxt.com:19806/d96bcc9531bf4ea2bbac4f89e4787835
+HITS MOVIES,P2p://generationnexxxt.com:19806/05a07c18804845fe822ce4c25148bb61
 HITS MOVIES,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941606
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天電影台,P2p://generationnexxxt.com:19806/df9893e6ca70430492818337732a939f
 龍華電影,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
 龍華電影,http://220.134.196.147:9556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://220.134.196.147:9558/index.m3u8
 龍華電影,http://220.134.196.147:9504/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://218.32.47.179:18556/.m3u8
 龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+LS龍祥電影台HD,P2p://generationnexxxt.com:19806/304303b21a904fd9a71e3bf39ac02d43
 LS龍祥電影台HD,http://120.84.96.73:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.72:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://119.140.58.190:9901/hls/14/index.m3u8
@@ -444,6 +466,11 @@ LS龍祥電影台HD,http://120.84.96.125:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.126:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.196:808/hls/35/index.m3u8
 LS龍祥電影台HD,http://120.84.96.233:808/hls/35/index.m3u8
+美亞電影台HD,P2p://generationnexxxt.com:19806/0dbdaf5c0e3f414abf614ed174b34d67
+AMC最愛電影,P2p://generationnexxxt.com:19806/f4f7a4d25bef4125aa934e5f9d35080e
+CatchPlay電影台,P2p://generationnexxxt.com:19806/dab053f4de9d431d8a84b9b1ec569b9a
+CinemaWorld,P2p://generationnexxxt.com:19806/fe370077b603437ca268fa53b98be19a
+壹電視電影台,P2p://generationnexxxt.com:19806/2505ebef01a44e6d8e0facd68e5168e3
 經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
 天映經典,http://27.47.71.16:8811/hls/62/index.m3u8
@@ -788,6 +815,48 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 
 🚝港澳地區（38）,#genre#
+港臺電視31,P2p://generationnexxxt.com:19806/9046fe3ee1c94a8eac242e51cc9895ff
+港臺電視32,P2p://generationnexxxt.com:19806/7d948f0b367a4e07b951125c212538ca
+HOY TV,P2p://generationnexxxt.com:19806/01dbdb22ec1b46b899251dfdf3114e2e
+?翡翠台(備),P2p://generationnexxxt.com:19806/c36a993d4e9f474085e37409335523c8
+J2,P2p://generationnexxxt.com:19806/5ad90613483e4caab51882abfa1518ad
+無綫新聞台(備),P2p://generationnexxxt.com:19806/e0e92ce4e14e4a8fb5f68334d86089e9
+無綫新聞台,P2p://generationnexxxt.com:19806/95c95dadeea940d290aeda7be36c1729
+無綫財經·資訊台,P2p://generationnexxxt.com:19806/b7249d88458b46288137719328dcc5f4
+ViuTVsix,P2p://generationnexxxt.com:19806/960fba7c3e044f9dbcf00886133201ab
+ViuTV,P2p://generationnexxxt.com:19806/3294b1287b994ef5a2a9e5f6535ec716
+鳳凰中文台,P2p://generationnexxxt.com:19806/60768ce83312415bb695d6c0d8b69db2
+鳳凰資訊台,P2p://generationnexxxt.com:19806/f8a785610bd54282b2b4626587203850
+鳳凰香港台,P2p://generationnexxxt.com:19806/46d2b5743ec74356aee9fb2dc23d8032
+TVB星河(粵),P2p://generationnexxxt.com:19806/eab1c9e80e294eb4810639f05b16a268
+陽光衛視,P2p://generationnexxxt.com:19806/459b3a871d9f42d38771e1d9a29936a2
+澳門-MACAU,P2p://generationnexxxt.com:19806/58eda5ffed6b4c79bfd339c536cc2d70
+澳門蓮花,P2p://generationnexxxt.com:19806/a040e3aba7234eca8e28658f6e1649f7
+now新聞台,P2p://generationnexxxt.com:19806/c7374326e00144988e888ebaaedce0ff
+HKC電影台,P2p://generationnexxxt.com:19806/3ce65bf4b50a422f80589101f467dc09
+鳳凰電影台,P2p://generationnexxxt.com:19806/8aada433eafe44b3853c851e2de3b59d
+HKC新聞台,P2p://generationnexxxt.com:19806/c6014214fba0483ebf4856a14e2ed5ed
+HKC財經資訊台,P2p://generationnexxxt.com:19806/711bf19921cb40e9abfe365a22baf5a6
+HKC 18,P2p://generationnexxxt.com:19806/b69388dcf6574b62844d49c39ee0916b
+HKC 603,P2p://generationnexxxt.com:19806/e42a42cdced245b2bb9f534d4da6e8ea
+HKC體育台,P2p://generationnexxxt.com:19806/6d1be546b0954041810fdb39b88ee6d3
+HKC Sports Plus 1,P2p://generationnexxxt.com:19806/511674f6e58d4636834a9fde5e8f42c0
+HKC綜合娛樂台,P2p://generationnexxxt.com:19806/3c27b903255f42879a39011de87f47c8
+TVB娛樂新聞台,P2p://generationnexxxt.com:19806/2a15fb5b8acf49ec97e9020a343013c2
+翡翠台,P2p://generationnexxxt.com:19806/95044fff239543bb930f22245aee31f5
+TVB經典台,P2p://generationnexxxt.com:19806/872fa53d77f247c1b2d86666514eed22
+Thrill,P2p://generationnexxxt.com:19806/b4239fb001c84d2795ba74f0bd98c460
+明珠台,P2p://generationnexxxt.com:19806/fdcbb62b6c524fab849fd7336157caa4
+18台,P2p://generationnexxxt.com:19806/1d2e621a98dc408fb541d0159fe4e865
+HKC Sports Plus 3,P2p://generationnexxxt.com:19806/3505ac567db44049b028cc7331e7e9b5
+功夫台(華語),P2p://generationnexxxt.com:19806/f8f26da4003e4e72807afad2a6704145
+美亞電影台(粵語),P2p://generationnexxxt.com:19806/c68673888d4440dca87649d461e02824
+Hands Up,P2p://generationnexxxt.com:19806/0e6d76a3cdda438c8ac20ecbe1d65417
+粵語片台,P2p://generationnexxxt.com:19806/af0ab8e87afa4a8b969e3b318025d085
+亞洲劇台,P2p://generationnexxxt.com:19806/75e18867a78d4f42bb5b5153c81bb401
+功夫台,P2p://generationnexxxt.com:19806/71525f6981314b64b5168b51e982babd
+HOY資訊台,P2p://generationnexxxt.com:19806/cc9caf55933442cea14bb3b723af873c
+
 翡翠台(華麗台),http://23.237.10.66:16410
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
