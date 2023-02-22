@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
@@ -476,6 +477,7 @@ CinemaWorld,P2p://generationnexxxt.com:19806/fe370077b603437ca268fa53b98be19a
 天映經典,http://27.47.71.16:8811/hls/62/index.m3u8
 天映經典,http://27.47.71.94:8811/hls/62/index.m3u8
 天映經典,http://27.47.71.203:8811/hls/62/index.m3u8
+天映頻道,P2p://generationnexxxt.com:19806/81b3a92720664ab28af15cc9b8fdfb7d
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://51.79.82.208:16024
 天映經典,http://27.47.71.49:8811/hls/62/index.m3u8
