@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -28,7 +29,7 @@ TVBS新聞台 HD,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台 HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新聞台 HD,https://git.io/JgYl2
-TVBS HD,http://tvmvip110.club/live.php?id=tvbs
+TVBS HD,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS HD,http://158.101.151.82:9000/jmsytb.m3u8?c=04
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
