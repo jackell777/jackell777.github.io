@@ -1,10 +1,13 @@
+
 🌎新聞頻道（42）,#genre#
+台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
 台視財經台,P2p://generationnexxxt.com:19806/b145245970784c7a94685cec9193e3b5
+中視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞台HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
 中視新聞台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
@@ -14,6 +17,7 @@
 華視新聞資訊台HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 華視新聞資訊台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞台HD,https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
@@ -35,13 +39,16 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1079
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
 年代新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1077
 年代新聞HD,http://220.134.196.147:9544/index.m3u8
+中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞HD,https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 中天新聞HD,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新聞HD,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
@@ -84,6 +91,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡商業台HD,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 全球財經台HD,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -107,16 +115,24 @@ BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 有線財經資訊,http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
+鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+鳳凰中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
+鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 CNN Live全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+NBC新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 DW德國之聲,https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
@@ -134,8 +150,15 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 華視HD,rtmp://119.81.124.89/sat/tv111
 華視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 華視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-華視警世劇場,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+包青天劇場,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+包青天劇場,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 民視HD,rtmp://119.81.124.89/sat/tv051
 民視HD,http://23.237.10.66:16334
 民視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
@@ -265,6 +288,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo Live HD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+K-Pop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 K-Pop,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 K-Pop2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -319,11 +343,13 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 原住民族電視台HD,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
 原住民族電視台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+鳳凰中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 鳳凰香港,P2p://generationnexxxt.com:19806/46d2b5743ec74356aee9fb2dc23d8032
@@ -384,6 +410,7 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 亞洲旅遊台,http://220.134.196.147:9523/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://218.32.47.179:18513/.m3u8
 亞洲旅遊台,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+幸福居家空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
@@ -413,9 +440,14 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 俄羅斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-東森購物1台HD,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
-東森購物3台HD,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
-美麗人生購物台HD,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+東森購物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物3台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+momo購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+viva購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
 🚀電影頻道（38）,#genre#
 東森電影,P2p://generationnexxxt.com:19806/73851b582e524868a51099b0fba550da
