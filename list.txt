@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -89,6 +90,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 非凡新聞HD,http://220.134.196.147:9539/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡新聞HD,http://220.134.196.147:9512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 非凡商業台HD,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
+全球財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 全球財經台HD,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 運通財經台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
@@ -268,8 +270,8 @@ JET綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch5
 Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 國興衛視HD,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 靖天電視台,https://ytm2.yuanhsing.cf/Faintv.m3u8
-靖天電視台,https://epg.pw/stream/9a2d170c95f33dcdb6c1b203e63032c3531995ec951f50ffae99093c1366843f.m3u8
 靖天歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 靖天國際台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
@@ -838,6 +840,12 @@ momo親子台HD,http://220.134.196.147:9523/http/116.50.42.18:8088/hls/70/812/ch
 央視少兒,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 央視少兒,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 央視少兒,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
+東森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+佩佩豬卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+動畫1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+動畫2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+兒童歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+兒童歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 i-Fun動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 ANIMAX,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
