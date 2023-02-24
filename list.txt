@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -110,6 +111,13 @@ BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 鳳凰香港,P2p://generationnexxxt.com:19806/46d2b5743ec74356aee9fb2dc23d8032
+鳳凰香港,http://120.84.96.79:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.87:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.108:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.113:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.130:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.72:808/hls/81/index.m3u8
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
