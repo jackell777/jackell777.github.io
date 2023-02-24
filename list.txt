@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -109,19 +110,6 @@ BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-鳳凰香港,P2p://generationnexxxt.com:19806/46d2b5743ec74356aee9fb2dc23d8032
-鳳凰香港,http://120.84.96.79:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.87:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.108:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.113:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.130:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.72:808/hls/81/index.m3u8
-鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
-鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
-鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
-鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 CNN Live全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
@@ -329,6 +317,19 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 番薯電視台HD,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+鳳凰香港,P2p://generationnexxxt.com:19806/46d2b5743ec74356aee9fb2dc23d8032
+鳳凰香港,http://120.84.96.79:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.87:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.108:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.113:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.130:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.72:808/hls/81/index.m3u8
+鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
+鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
+鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
+鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 大愛HD,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
