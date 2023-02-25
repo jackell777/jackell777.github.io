@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -142,7 +143,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 台視HD,http://60.251.33.252:18543/.m3u8
 台視HD,http://23.237.10.66:16344
 台視HD,rtmp://119.81.124.89/sat/tv071
-中視HD,rtmp://219.80.97.25/sat/tv091
+中視HD,http://220.134.196.147:9573/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
 中視HD,rtmp://219.80.97.77/sat/tv091
 中視HD,rtmp://119.81.124.89/sat/tv091
 中視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
