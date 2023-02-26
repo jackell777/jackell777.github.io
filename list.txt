@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -535,6 +536,7 @@ CinemaWorld,P2p://generationnexxxt.com:19806/fe370077b603437ca268fa53b98be19a
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
+湖南電影,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 全球大片,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
@@ -584,6 +586,7 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 北京IPTV淘電影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV淘電影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 華語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
+4K超高清電影,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 4K超高清電影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清電影,http://r.jdshipin.com/5DWJk
