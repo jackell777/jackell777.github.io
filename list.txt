@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -473,13 +474,6 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 東森洋片,http://120.84.96.108:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.113:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.130:808/hls/33/index.m3u8
-私人影院,http://120.84.96.79:808/hls/85/index.m3u8
-私人影院,http://120.84.96.82:808/hls/85/index.m3u8
-私人影院,http://120.84.96.87:808/hls/85/index.m3u8
-私人影院,http://120.84.96.89:808/hls/85/index.m3u8
-私人影院,http://120.84.96.108:808/hls/85/index.m3u8
-私人影院,http://120.84.96.113:808/hls/85/index.m3u8
-私人影院,http://120.84.96.130:808/hls/85/index.m3u8
 星衛HD電影台,P2p://generationnexxxt.com:19806/8746f6c5cbe242cdb415d05202ef5e2d
 星衛HD電影台,http://23.237.10.66:16359
 緯來電影台HD,http://220.134.196.147:9571/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
