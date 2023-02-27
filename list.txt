@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -414,7 +415,7 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
-亞洲旅遊台,http://220.134.196.147:9523/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
+亞洲旅遊台,http://220.134.196.147:9524/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://218.32.47.179:18513/.m3u8
 亞洲旅遊台,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
 幸福居家空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
