@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -838,7 +839,7 @@ Discovery頻道HD,http://220.134.196.147:9510/http/60.251.39.91:8081/hls/71/813/
 動物星球頻道HD,http://220.134.196.147:9566/http/60.251.39.91:8081/hls/70/812/ch37.m3u8?token=
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 亞洲旅遊台,http://220.134.196.147:9524/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
-momo親子台HD,http://220.134.196.147:9523/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
+momo親子台HD,http://220.134.196.147:9524/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
 東森幼幼台HD,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
 東森幼幼台HD,http://www.yshmzmc.top/gtjm.php?id=live1008
 央視少兒,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?ProgramID=&encrypt=
