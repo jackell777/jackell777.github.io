@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -458,18 +459,18 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 
 🚀電影頻道（38）,#genre#
 東森電影,P2p://generationnexxxt.com:19806/73851b582e524868a51099b0fba550da
+東森電影,http://120.84.96.89:808/hls/32/index.m3u8
 東森電影,http://120.84.96.79:808/hls/32/index.m3u8
 東森電影,http://120.84.96.82:808/hls/32/index.m3u8
 東森電影,http://120.84.96.87:808/hls/32/index.m3u8
-東森電影,http://120.84.96.89:808/hls/32/index.m3u8
 東森電影,http://120.84.96.108:808/hls/32/index.m3u8
 東森電影,http://120.84.96.113:808/hls/32/index.m3u8
 東森電影,http://120.84.96.130:808/hls/32/index.m3u8
 東森洋片,P2p://generationnexxxt.com:19806/be0fbc82af0445008d0fa51d1163f00f
+東森洋片,http://120.84.96.89:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.79:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.82:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.87:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.89:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.108:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.113:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.130:808/hls/33/index.m3u8
@@ -485,6 +486,7 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 衛視電影台HD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影台HD,http://23.237.10.66:16010
 衛視電影台HD,http://220.134.196.147:9578/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
+私人影院,http://120.84.96.89:808/hls/85/index.m3u8
 Star Movies HD,P2p://generationnexxxt.com:19806/40297df912b948d3a58dfc2f9344b2e6
 Star Movies Gold,http://220.134.196.147:9534/http/60.251.39.91:8081/hls/62/804/ch08.m3u8
 Star Movies Gold,http://www.yshmzmc.top/gtjm.php?id=live1032
