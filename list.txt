@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -146,7 +147,6 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 中視HD,rtmp://119.81.124.89/sat/tv091
 中視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中視精彩台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-中視經典台,P2p://generationnexxxt.com:19806/6f6d5f06b0264c3c8d19dd46abb7e333
 華視HD,http://218.32.47.179:18503/.m3u8
 華視HD,rtmp://119.81.124.89/sat/tv111
 華視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
@@ -163,14 +163,9 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視HD,rtmp://119.81.124.89/sat/tv051
 民視HD,http://23.237.10.66:16334
 民視HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-民視第一台,P2p://generationnexxxt.com:19806/eaa66f76d33e4631a6cea4ef0a1db4b6
-民視第一台,rtmp://119.81.124.89/sat/md021
-民視第一台,rtmp://219.80.97.77/sat/md021
-民視臺灣台,P2p://generationnexxxt.com:19806/340a65d2c9ca40678c768a4e1490cb65
 公視HD,http://220.134.196.147:9572/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 公視HD,http://218.32.47.179:18505/.m3u8
-公視3台,P2p://generationnexxxt.com:19806/82e4f9b5f19a4996890fb7c3533afe8d
-中天綜合台HD,http://220.134.196.147:9551/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
+中天綜合台HD,http://220.134.196.147:9550/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
 中天綜合台HD,http://23.237.10.66:16372
 中天綜合台HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台HD,http://218.32.47.179:18526/.m3u8
@@ -179,7 +174,6 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://www.yshmzmc.top/gtjm.php?id=live1023
 中天娛樂台HD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
-中天亞洲台,P2p://generationnexxxt.com:19806/a763deefbae74bbe9e6d7eeeae5143b4
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 中天全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 TVBS歡樂台HD,rtmp://119.81.124.89/sat/tv421
@@ -194,8 +188,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立都會台,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,http://220.134.196.147:9532/index.m3u8
 三立都會台,http://www.yshmzmc.top/gtjm.php?id=live1020
-三立戲劇台,P2p://generationnexxxt.com:19806/ee6f8fc830dd4d0e89e686901fa48acb
-三立綜合台,P2p://generationnexxxt.com:19806/6283e61b8d17438fb6c35f2dd1bed794
 八大第一台HD,http://123.51.229.65:18539/.m3u8
 八大第一台HD,http://60.251.33.252:18539/.m3u8
 八大綜合台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
@@ -204,9 +196,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 八大戲劇台HD,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
 八大戲劇台HD,http://220.134.196.147:9546/index.m3u8
-八大娛樂台,P2p://generationnexxxt.com:19806/3d7c5b6b0a6e4491847a15e11c33dd78
-八大優頻道,P2p://generationnexxxt.com:19806/b27b7d6e27f74385b69b3ce684c04b84
-星衛娛樂台,P2p://generationnexxxt.com:19806/b045b4e566354a00bd6a70c6f0278fd7
 緯來日本台HD,rtmp://119.81.124.89/sat/tv771
 緯來日本台HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8?blog.ntnas.top
 緯來日本台HD,http://60.251.59.180:8513/.m3u8
@@ -221,9 +210,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 緯來育樂台HD,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來育樂台HD,http://218.32.47.179:18562/.m3u8
 緯來育樂台HD,http://220.134.196.147:9578/index.m3u8
-壹電視綜合,P2p://generationnexxxt.com:19806/d384dedc74aa44dd8a4af19b69ea6a5a
-緯來精采,P2p://generationnexxxt.com:19806/2f69ec5e8af14bd2a900c213c7e2496b
-ETtoday綜合台,P2p://generationnexxxt.com:19806/615acc21a1724960ab09a49b09f3f5b6
 龍華戲劇,http://220.134.196.147:9535/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 龍華戲劇,http://60.251.33.252:18513/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
@@ -268,7 +254,6 @@ STAR World HD,http://123.51.229.65:18504/.m3u8
 STAR World HD,http://60.251.33.252:18504/.m3u8
 TLC 旅遊生活頻道HD,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 TLC 旅遊生活頻道HD,http://www.yshmzmc.top/gtjm.php?id=live1005
-WarnerTV,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941652
 JET綜合台HD,http://220.134.196.147:9536/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
 JET綜合台HD,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
@@ -286,6 +271,7 @@ Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 影迷數位紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+央視音樂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 央視音樂,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&ProgramID=&encrypt=
 央視音樂,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 央視音樂,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
@@ -304,33 +290,43 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 寰宇娛樂TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 滾動力 rollor HD,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空間,http://23.237.10.66:16406
+央視綜合,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 央視綜合,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
 央視綜合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 央視綜合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 央視綜合,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+央視綜藝,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 央視綜藝,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&ProgramID=&encrypt=
 央視綜藝,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 央視綜藝,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 央視綜藝,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+熱門綜藝,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 熱門綜藝,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
 北京IPTV淘娛樂,http://222.129.37.206:8888/rtp/239.3.1.100:8001
 北京IPTV萌寵TV,http://222.129.37.206:8888/rtp/239.3.1.102:8001
+央視軍事國防,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 央視軍事國防,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?ProgramID=&encrypt=
 央視軍事國防,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 央視軍事國防,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
 央視軍事國防,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+央視農業農村,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 央視農業農村,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?ProgramID=&encrypt=
+央視電視劇,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 央視電視劇,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?ProgramID=&encrypt=
 央視電視劇,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 央視電視劇,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 央視電視劇,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+七彩戲劇,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 七彩戲劇,http://cfss.cc/ds/bst.php?id=Cf-56
+諜戰劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 諜戰劇場,http://cfss.cc/ds/bst.php?id=Cf-71
+熱門劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 熱門劇場,http://cfss.cc/ds/bst.php?id=Cf-73
 北京IPTV淘劇場,http://222.129.37.206:8888/rtp/239.3.1.95:8001
 BTV影視,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 BTV影視,http://live.cooltv.top/tv/btime.php?id=btvys
 BTV影視,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
+央視戲曲,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 央視戲曲,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?ProgramID=&encrypt=
 央視戲曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 央視戲曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
@@ -338,13 +334,16 @@ BTV影視,https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
 BTV文藝,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 BTV文藝,http://live.cooltv.top/tv/btime.php?id=btvwy
 BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
+央視社會與法,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 央視社會與法,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?ProgramID=&encrypt=
 央視社會與法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 央視社會與法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 央視社會與法,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
 上海外語頻道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+上海外語頻道,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
 上海外語頻道,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 上海外語頻道,http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
+東方影視,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 東方影視,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
@@ -358,7 +357,6 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 鳳凰中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-鳳凰香港,P2p://generationnexxxt.com:19806/46d2b5743ec74356aee9fb2dc23d8032
 鳳凰香港,http://120.84.96.79:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.87:808/hls/81/index.m3u8
