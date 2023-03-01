@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -672,6 +673,7 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 ⚽體育頻道（73）,#genre#
+央視體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
 央視體育,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?ProgramID=&encrypt=
 央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?blog.ntnas.top
@@ -679,11 +681,13 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 央視體育,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 央視體育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 央視體育,http://123.6.9.146/live/jz-cctv-5/live.m3u8
+央視體育賽事,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 央視體育賽事,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
 央視體育賽事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 央視體育賽事,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 央視體育賽事,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 央視體育賽事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
+央視奧林匹克,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 央視奧林匹克,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv16hd/51/index.m3u8?&ProgramID=&encrypt=
 央視奧林匹克,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 央視奧林匹克,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
@@ -716,18 +720,20 @@ ELEVEN SPORTS 2 HD,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/
 博斯魅力,rtmp://119.81.124.89/sat/md011
 博斯魅力,rtmp://119.81.124.89/sat/md031
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
-央視撞球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
-央視撞球,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
-央視風雲足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-央視風雲足球,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-央視高爾夫網球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
-央視高爾夫網球,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
+勁爆體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 勁爆體育,http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 勁爆體育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+五星體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星體育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+超级體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+足球頻道,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 足球頻道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+魅力足球,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 魅力足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
+快樂垂釣,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+遊戲風雲,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+電競天堂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 GINX Esports TV,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 TRACE Sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 BT SPORT 1,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40508
@@ -769,6 +775,7 @@ Sky Sports Premier League,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37069
 Sky Sports Top Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100
 智林體育台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 智林體育台HD,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+新視覺HD,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新視覺HD,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新視覺HD,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
@@ -809,16 +816,23 @@ WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
 🗽人文幼兒（63）,#genre#
+央視記錄,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+央視科教,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?ProgramID=&encrypt=
 央視科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+金鷹紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+上海紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+全紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+紀實科教,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+看天下精選,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 Discovery頻道HD,http://220.134.196.147:9568/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 Discovery頻道HD,http://220.134.196.147:9568/index.m3u8
@@ -836,6 +850,7 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 momo親子台HD,http://220.134.196.147:9524/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
 東森幼幼台HD,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
 東森幼幼台HD,http://www.yshmzmc.top/gtjm.php?id=live1008
+央視少兒,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 央視少兒,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?ProgramID=&encrypt=
 央視少兒,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
 央視少兒,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
