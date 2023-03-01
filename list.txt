@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -5,7 +6,7 @@
 台視新聞台HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞台HD,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台HD,https://git.io/JgkxY
-台視財經台,P2p://generationnexxxt.com:19806/b145245970784c7a94685cec9193e3b5
+台視財經台,P2p://generationnexxxt.com:19906/b145245970784c7a94685cec9193e3b5
 中視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞台HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中視新聞台HD,http://tv.redrainl.site:9500/live.m3u8?c=2
