@@ -870,23 +870,23 @@ ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+青春動漫,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 青春動漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-青春動漫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+動漫秀場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 動漫秀場,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-動漫秀場,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+哈哈炫動,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 哈哈炫動,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-哈哈炫動,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 北京IPTV淘Baby,http://222.129.37.206:8888/rtp/239.3.1.238:8001
+卡酷少兒,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 卡酷少兒,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-卡酷少兒,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 嘉佳卡通,http://23.237.10.66:16662
 Baby TV HD,http://220.134.196.147:9542/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
 Baby TV HD,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/13472
 Baby TV HD,http://www.yshmzmc.top/gtjm.php?id=live1007
 Baby TV HD,http://218.32.47.179:18514/.m3u8
+寶寶動畫,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 寶寶動畫,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-寶寶動畫,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
