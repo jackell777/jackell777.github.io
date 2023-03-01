@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -921,6 +922,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 TVB財經,https://j3.lhlh.app/mv.m3u8
+無線財經資訊台,http://120.84.96.89:808/hls/86/index.m3u8
 無線財經資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 無線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 無線財經資訊台,http://radius.8866.org:800/hls/83/index.m3u8
@@ -933,10 +935,10 @@ J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 TVB星河,http://119.140.58.42:9901/hls/12/index.m3u8
+明珠台,http://120.84.96.89:808/hls/26/index.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 明珠台,http://shazui.8866.org:800/hls/84/index.m3u8
-明珠台,http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
