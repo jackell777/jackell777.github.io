@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -359,10 +360,11 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 鳳凰中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.79:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.87:808/hls/81/index.m3u8
-鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.108:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.113:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.130:808/hls/81/index.m3u8
@@ -370,7 +372,6 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
-鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 大愛HD,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
@@ -434,10 +435,10 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 華語電視3,https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
 芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 環球旅遊,http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
+星空衛視,http://120.84.96.89:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.79:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.82:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.87:808/hls/79/index.m3u8
-星空衛視,http://120.84.96.89:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.108:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.113:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.130:808/hls/79/index.m3u8
