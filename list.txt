@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -137,9 +138,9 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://61.58.60.230:9319/live/124.m3u8
 
-測試頻道,#genre#
+❤測試頻道,#genre#
 CNN,mitv://generationnexxxt.com:19806/28b3b84bc22e468893dc6f267d363099
-視,mitv://generationnexxxt.com:19806/debfc7e3fc6f4f5ba921859e73b78a9f
+民視,mitv://generationnexxxt.com:19806/debfc7e3fc6f4f5ba921859e73b78a9f
 人間衛視,mitv://generationnexxxt.com:19806/7ae3cb55ad714371aa2c3889e3feb580
 台視,mitv://generationnexxxt.com:19806/049edd42c1484c2f894a3f249fdb253b
 大愛,mitv://generationnexxxt.com:19806/167ef66a89d8445eb27be19127be48c6
@@ -280,7 +281,7 @@ Nice TV靖天歡樂台,mitv://generationnexxxt.com:19806/cb345d2f657c48029979fc5
 三立戲劇台,mitv://generationnexxxt.com:19806/d1f8057ae98a43b2af3b733249d378bd
 龍華戲劇,mitv://generationnexxxt.com:19806/56a5a0614c4442c08c8c13185c74d722
 靖天戲劇台,mitv://generationnexxxt.com:19806/4a6f410ab3944902bdda29f3576c54e4
-洋戲劇台,mitv://generationnexxxt.com:19806/1b22a119d4674420b9ae4d479ce664ff
+靖洋戲劇台,mitv://generationnexxxt.com:19806/1b22a119d4674420b9ae4d479ce664ff
 靖天日本台,mitv://generationnexxxt.com:19806/73cf81c411894161b445b487ec1de164
 i-Fun動漫台,mitv://generationnexxxt.com:19806/a110823bfb024da599f1902d307de0bc
 韓國娛樂台,mitv://generationnexxxt.com:19806/2759d04acb914a83a696530f3814c7ab
@@ -1090,7 +1091,7 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
 
-港澳測試,#genre#
+🧡港澳測試,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/58cb293bb6ed45528ed2a739c1536c4a
 港台電視32,mitv://generationnexxxt.com:19806/143e471e3de946f08d281f85dbf477c8
 HOY TV,mitv://generationnexxxt.com:19806/13eebc989d2f462390f5feca1b9ac99d
