@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -69,7 +70,7 @@ TVBS新聞台 HD,https://git.io/JgYl2
 央視財經,https://live.v1.mk/aishang/cctv2hd
 央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 壹電視新聞HD,http://60.251.59.180:8501/.m3u8
-壹電視新聞HD,http://220.134.196.147:9570/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+壹電視新聞HD,http://220.134.196.147:9545/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞HD,http://www.yshmzmc.top/gtjm.php?id=live1242
 壹電視新聞HD,http://220.134.196.147:9510/index.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
