@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -707,12 +708,14 @@ LS龍祥電影台,http://120.84.96.113:808/hls/35/index.m3u8
 LS龍祥電影台,http://120.84.96.130:808/hls/35/index.m3u8
 經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 天映經典,http://27.47.71.16:8811/hls/62/index.m3u8
 天映經典,http://27.47.71.94:8811/hls/62/index.m3u8
 天映經典,http://27.47.71.203:8811/hls/62/index.m3u8
+天映經典,http://27.47.71.49:8811/hls/62/index.m3u8
+天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映頻道,http://51.79.82.208:16024
-天映經典,http://27.47.71.49:8811/hls/62/index.m3u8
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 澳門蓮花,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
@@ -1134,11 +1137,16 @@ Hands Up,mitv://generationnexxxt.com:19806/948e5f6068674f3a846cefe1b1ce4180
 HOY資訊台,mitv://generationnexxxt.com:19806/4b9e780005d04d86ab87f7c2949aa8d1
 
 🚝港澳地區（38）,#genre#
-翡翠台(華麗台),http://23.237.10.66:16410
-翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
-翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+華麗台,http://23.237.10.66:16410
+華麗台,http://r.jdshipin.com/thuYX
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
@@ -1155,9 +1163,17 @@ HOY資訊台,mitv://generationnexxxt.com:19806/4b9e780005d04d86ab87f7c2949aa8d1
 鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 鳳凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-鳳凰香港,http://tvmvip110.club/fengh.php?id=3
-鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.79:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.87:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.108:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.113:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.130:808/hls/81/index.m3u8
+鳳凰香港,http://120.84.96.72:808/hls/81/index.m3u8
+鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
+鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 TVB財經,https://j3.lhlh.app/mv.m3u8
@@ -1169,6 +1185,8 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 無線新聞台,http://radius.8866.org:800/hls/82/index.m3u8
 有線18台,rtmp://119.81.124.89/sat/hk041
 有線18台,rtmp://219.80.97.77/sat/hk041
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
@@ -1190,6 +1208,7 @@ RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 VIUTV6,https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u8
