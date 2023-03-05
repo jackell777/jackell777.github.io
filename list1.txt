@@ -14,6 +14,7 @@
 中天新聞,https://www.youtube.com/watch?v=_QbRXRnHMVY
 飢餓遊戲,https://www.youtube.com/watch?v=vILCdaEnfTo
 長歌行,https://www.youtube.com/watch?v=I7yYOp7Tqdw
+風中奇緣,https://www.youtube.com/watch?v=6st08Em5RbM
 三千鴉殺,https://www.youtube.com/watch?v=WvL4nX9zEng
 包青天,https://www.youtube.com/watch?v=PY7a4qVNmgI
 進擊的巨人,https://www.youtube.com/watch?v=naT_bsmkJ8U
@@ -38,3 +39,6 @@ MVP情人,https://www.youtube.com/watch?v=c4-Qryx29ZU
 公視,https://www.youtube.com/watch?v=4Uc00FPs27M
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+鳳凰衛視,https://www.youtube.com/watch?v=dmDg7NfUoSw
+寰宇新聞台,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+綜藝玩很大,https://www.youtube.com/watch?v=1vgXTP63giM
