@@ -1,1 +1,206 @@
-
+HBO,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941648
+HBO家庭,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941646
+HBO原创,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941645
+HBO强档,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941647
+AXN,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941660
+CINEMAX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941659
+HITS MOVIES,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941606
+ANIMAX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941676
+ROCK,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941643
+CCM经典,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941639
+天映,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941618
+卫视电影台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941625
+紫金国际台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941630
+NOW MAKE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941655
+NET WORK,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941654
+TVB 1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=153396
+TVB E,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=153398
+无线新闻,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=153399
+TVB 戏剧,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=153400
+TVB 翡翠,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=153401
+F新时代1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=90351
+F新时代2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=90352
+TVB星河,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941620
+翡翠 海外版,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941619
+TVBS新闻,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941622
+UHB都会,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941649
+UHB都会,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941650
+UHB都会,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941633
+UHB都会,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941632
+UHB娱家,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941651
+UHB娱家,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941634
+HISTORY,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941661
+爱自然,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941663
+WB TV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941652
+国家地理1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941664
+国家地理2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941665
+CRIME+,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941666
+BBC earth,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941667
+BBC lifesyle,thttp://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941668
+NICK JR,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941670
+NICK CLODEON,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941671
+BBC CBEEBIES,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941672
+CART NITO,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941673
+BABY FIRST,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941675
+FTV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941677
+HUB SPORTS4,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941681
+ABC AUSTRALIA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941682
+FOX NEWS, http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941685
+DW NEWS,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941687
+CNBC NEWS,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941689
+CNN LIVE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941690
+BBC WORLD NEWS,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941693
+亚洲旅游,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941640
+迪士尼卡通,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941656
+YTV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941657
+CINEMA WORLD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941658
+KBS WORLD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941631
+KBS WORLD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941604
+UHB剧场首选,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941638
+GEM,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941635
+GEM,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941608
+2ND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941636
+TVBS亚洲台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941621
+TVN,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941623
+卫视中文台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941624
+ONE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941628
+ONE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941601
+ONE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941602
+NHK,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941610
+SONGS,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941611
+8TV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941616
+MEDIACORP,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941617
+CITSA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941612
+KARISMA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941605
+ASTRO WARNA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941609
+SUN MUSIC,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941590
+SUN TV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941591
+SONY MAX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941592
+SONY TV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941593
+NDTV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941594
+KTV,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941595
+COLORS1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941597
+COLORS2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941598
+COLORS3,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941599
+ZEE1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941587
+ZEE2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941588
+ZEE3,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941589
+SPO TV1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941564
+STAR HUB,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941567
+BEIN SPORTS2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941568
+BEIN SPORTS1,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941569
+NBA,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941562
+SPO TV2,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941563
+Eleven Sports 1,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
+Eleven Sports 2,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
+Eleven Sports 3,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
+Eleven Sports 4,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
+HUB SPORTS 1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941573
+HUB SPORTS 2 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941572
+HUB SPORTS 3 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941571
+HUB PREMIER 1 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032529
+HUB PREMIER 2 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032528
+HUB PREMIER 3 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032527
+HUB PREMIER 4 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032526
+HUB PREMIER 5 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032525
+HUB PREMIER 6 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032524
+HUB PREMIER 7 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032523
+HUB PREMIER 8 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032522
+HUB PREMIER 9 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032521
+HUB PREMIER 10 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032520
+HUB PREMIER 11 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1032519
+PREMIER SPORTS HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941570
+BEINSPORTS 1 PREMIUM HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596931
+BEINSPORTS 2 PREMIUM HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596930
+BEINSPORTS 3 PREMIUM HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596929
+BEINSPORTS 1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596928
+BEINSPORTS 2 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596927
+BEINSPORTS 3 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596926
+BEINSPORTS 4高清,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596925
+BEINSPORTS 5高清,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596924
+BEINSPORTS 6高清,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596923
+BEINSPORTS 7高清,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596922
+BEIN SPORT XTRA 1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=699243
+BEIN SPORT XTRA 2 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=699242
+BEIN SPORT NBA HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1011633
+BEINSPORTS 1 EN HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596919
+BEINSPORTS 2 EN HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596918
+BEINSPORTS 3 EN HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=596917
+BEIN SPORT FRENCH 1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=699235
+BEIN SPORT FRENCH 2 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=699234
+SKY SPORTS 主赛事高清,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30496
+SKY SPORTS PL HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30493
+SKY SPORTS FOOTBALL HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30498
+SKY SPORTS NFL HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30501
+SKY SPORTS ARENA HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30500
+SKY SPORTS CRICKET HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30502
+SKY SPORTS F1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30499
+SKY SPORTS GOLF HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30497
+SKY SPORTS MIX HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30495
+SKY SPORTS NEWS HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30494
+SKY SPORTS RACING HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=77373
+SKY SPORTS ACTION HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=929003
+CANAL+ FOOT HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1002837
+CANAL+ 360 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1002841
+CANAL+ SPORT HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506557
+CANAL+ TOP14高清,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506558
+CANAL+ PREMIER LEAGUE HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506556
+CANAL+ LIGUE1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506554
+CANAL+ LIGUE1 HD (BK),http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506555
+CANAL+ FORMULA1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506553
+RMC SPORT 2 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506548
+RMC SPORT LIVE 5 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506645
+RMC SPORT LIVE 6 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506646
+RMC SPORT LIVE 7 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506647
+RMC SPORT LIVE 8 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506648
+RMC SPORT LIVE 9 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506649
+BEIN SPORTS 1 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506552
+BEIN SPORTS 2 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506551
+BEIN SPORTS 3 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506550
+BEIN SPORTS MAX 4 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506653
+BEIN SPORTS MAX 5 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506654
+BEIN SPORTS MAX 6 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506655
+BEIN SPORTS MAX 7 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506656
+BEIN SPORTS MAX 8 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506657
+BEIN SPORTS MAX 9 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506658
+BEIN SPORTS MAX 10 HD FRANCE,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506652
+EQUIPE FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506619
+EUROSPORT 1 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506559
+EUROSPORT 2 FHD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=506560
+德国天空体育新闻,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889503
+SKY SPORT F1 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889504
+SKY SPORT BUNDESLIGA 1 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889502
+SKY SPORT BUNDESLIGA DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=984666
+SKY SPORT TOP EVENT DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=984665
+SKY SPORT TENNIS DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=984664
+SKY SPORT PREMIER LEAGUE DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=984663
+SKY SPORT MIX DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=984662
+SKY SPORT GOLF DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=984661
+SKY SPORT BUNDESLIGA 2 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889501
+SKY SPORT BUNDESLIGA 3 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889500
+SKY SPORT BUNDESLIGA 4 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889499
+SKY SPORT BUNDESLIGA 5 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889498
+SKY SPORT BUNDESLIGA 6 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889497
+SKY SPORT BUNDESLIGA 7 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889496
+SKY SPORT BUNDESLIGA 8 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889495
+SKY SPORT BUNDESLIGA 9 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889494
+SKY SPORT BUNDESLIGA 10 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889492
+SKY SPORT 1 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889491
+SKY SPORT 2 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889489
+SKY SPORT 3 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889488
+SKY SPORT 4 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889486
+SKY SPORT 5 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889485
+SKY SPORT 6 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889483
+SKY SPORT 7 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889482
+SKY SPORT 8 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889480
+SKY SPORT 9 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889479
+SKY SPORT 10 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889478
+SKY SPORT AUSTRIA 1 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889477
+SKY SPORT AUSTRIA 2 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889476
+SKY SPORT AUSTRIA 3 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889475
+SKY SPORT AUSTRIA 4 DEUTSCHLAND,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=889473
+BT SPORTS 1 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30567
+BT SPORTS 2 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30566
+BT SPORTS 3 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=30565
+BT SPORTS 4 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1019935
+BT SPORTS 5 HD,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=1004548
