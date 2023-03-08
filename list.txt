@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -102,10 +103,10 @@ TVBS新聞台 HD,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE323377403
 第一財經,http://39.134.136.138:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 東方財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 BTV財經,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV財經,https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
 BTV財經,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
-BTV財經,http://live.cooltv.top/tv/btime.php?id=btvcj
 有線新聞台,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
