@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -40,7 +41,7 @@ TVBS新聞台 HD,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE323377403
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://220.134.196.147:9544/index.m3u8
-中天新聞HD,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8?token=
+中天新聞HD,http://220.134.196.147:9542/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8?token=
 中天新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞HD,https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 中天新聞HD,http://tv.redrainl.site:9500/live.m3u8?c=3
