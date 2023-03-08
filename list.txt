@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1207,6 +1208,7 @@ ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 青春動漫,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 青春動漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 動漫秀場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
