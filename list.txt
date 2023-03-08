@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1076,6 +1077,10 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+求索紀錄,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
+求索生活,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+求索科學,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
+求索動物,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 金鷹紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 上海紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 全紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
