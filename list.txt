@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -131,6 +132,7 @@ Fox News,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C369362903693
 NBC新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 NBC新聞,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 ABC News US,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+Sky News,http://50.7.238.98:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
@@ -1154,6 +1156,8 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 紀實科教,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 看天下精選,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+BBC Earth,http://50.7.238.98:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+BBC Lifestyle,http://50.7.238.98:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 Discovery頻道,http://220.134.196.147:9568/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 Discovery頻道,http://50.7.238.114:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 Discovery頻道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
