@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1300,9 +1301,9 @@ Thrill,mitv://generationnexxxt.com:19806/3caec6e54207426db34555538a671f99
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
-香港開電視,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/654765611?ticket=9cd530a0a5259b9e128dd444131e9d5180e7baba&profile=pass
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港開電視,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/654765611?ticket=9cd530a0a5259b9e128dd444131e9d5180e7baba&profile=pass
 HOY 資訊台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2045866624?ticket=fa0f9d4f1ca6c2159d8a0a9d412725928d363be4&profile=pass
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
@@ -1317,6 +1318,7 @@ HOY 資訊台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/204
 鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 鳳凰資訊,http://107.151.203.111:2209/135/hk.php?id=fhzx
 鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+鳳凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 鳳凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 鳳凰香港,http://120.84.96.82:808/hls/81/index.m3u8
 鳳凰香港,http://120.84.96.89:808/hls/81/index.m3u8
@@ -1341,6 +1343,7 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 無線新聞台,http://radius.8866.org:800/hls/82/index.m3u8
 有線18台,rtmp://119.81.124.89/sat/hk041
 有線18台,rtmp://219.80.97.77/sat/hk041
+J2,,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
