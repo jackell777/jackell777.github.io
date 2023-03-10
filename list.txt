@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1370,7 +1371,8 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 無線新聞台,http://radius.8866.org:800/hls/82/index.m3u8
 有線18台,rtmp://119.81.124.89/sat/hk041
 有線18台,rtmp://219.80.97.77/sat/hk041
-J2,,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
