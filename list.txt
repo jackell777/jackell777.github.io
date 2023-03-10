@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -122,7 +123,7 @@ BTV財經,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-鳳凰資訊台,http://107.151.203.111:2209/135/hk.php?id=fhzx
+鳳凰資訊台,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
