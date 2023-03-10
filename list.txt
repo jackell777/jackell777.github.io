@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -767,7 +768,7 @@ BTV文藝,https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 香港衛視文旅台,http://107.151.203.111:2209/135/hk.php?id=hk6
 鳳凰衛視,http://60.251.33.252:18581/.m3u8
 阿里郎頻道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
-亞美衛視,http://www.seasky.icu/ymws.php
+CNC中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 俄羅斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
