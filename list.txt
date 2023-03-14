@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1066,14 +1067,17 @@ IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓電影,http://39.134.136.138:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 黑莓電影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
+CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+CHC動作電影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC動作電影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC動作電影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 CHC動作電影,https://live.v1.mk/aishang/chcdzdy
 CHC動作電影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清電影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 CHC高清電影,https://live.v1.mk/aishang/chcgqdy
