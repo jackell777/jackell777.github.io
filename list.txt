@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -767,53 +768,53 @@ ONE,mitv://generationnexxxt.com:19806/4c1d7a42f06e431589aa29448f2a77d5
 城市电视,mitv://generationnexxxt.com:19806/4ed9cf9666d7430d94e6f4f8c26986f6
 
 ●電影測試,#genre#
-CHC动作电影,mitv://generationnexxxt.com:19806/259812f575ed4eef814aa01b6a4f16cd
-CHC高清电影,mitv://generationnexxxt.com:19806/4c20b95cf04044c59bc68606ac0a3612
-CHC家庭影院,mitv://generationnexxxt.com:19806/8ee383c69dec43b59e925ccfe7c593d0]}
-天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
-天映频道,mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
-天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
-天映经典,mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
-美亚高清电影台,mitv://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
-美亚电影台(粤语),mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
-LSTime电影台,mitv://generationnexxxt.com:19806/f4ebb77a05614143857edb8aee033157
-龙华电影,mitv://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2
-靖天映画,mitv://generationnexxxt.com:19806/6caa39c31eef4f81bfbad1bde5618aef
-靖天电影台,mitv://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
-好莱坞电影台,mitv://generationnexxxt.com:19806/46d445a8b3064595a14bb0c38dd4ef9b
-壹电视电影台,mitv://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818
-星卫HD电影,mitv://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
-卫视电影台,mitv://generationnexxxt.com:19806/f417dc89221443288fc5c836ebd5265c
-纬来育乐台,mitv://generationnexxxt.com:19806/3f07a7bf018146bb9a46313ac3217865
-纬来电影台,mitv://generationnexxxt.com:19806/bbfe983ec251437e98b211c0be0f6dc8
-凤凰电影台,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
-东森洋片台,mitv://generationnexxxt.com:19806/c13e9183a454463c94c7881b7fcc7960
-东森电影台,mitv://generationnexxxt.com:19806/dceeb99d6c574d53a3e3fdaee65ed038
-采昌影剧,mitv://generationnexxxt.com:19806/31c35d1e653f48a6a1ef0ae3afc21216
-亚洲剧台,mitv://generationnexxxt.com:19806/39b2516c7f3e465da6e7a93837c1ea81]}
-Star Movies Gold,mitv://generationnexxxt.com:19806/74de8450f07845d49620a16b18179f2b
-STAR World,mitv://generationnexxxt.com:19806/23e6a2d2a7aa4bf395b62c4b648f844e
-爱尔达影剧,mitv://generationnexxxt.com:19806/3ead6bd41aaa4df2be79322afa7a3841
-WarnerTV,mitv://generationnexxxt.com:19806/d4639fbf11424dcf8f2614071d57b567
-tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
-tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
-Thrill,mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
-StarMoviesHD,mitv://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
-SHOWCASE MOVIES,mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
-HKC电影台,mitv://generationnexxxt.com:19806/dd45accdb93f42b8ae129d7b4bcc1ba5
-HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-HITS Movies,mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
-HBOSignature,mitv://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
-HBOHitsm,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
-HBO,mitv://generationnexxxt.com:19806/22e62f2a02e148b994e170e1f08c37d5
-HBOFamily,mitv://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
-CINEMAX,mitv://generationnexxxt.com:19806/95d32b8d96694e0ba6afc48e0da3dae0
-CinemaWorld,mitv://generationnexxxt.com:19806/51cabd19f61f4d0797a9950573c68c33
-CCTV6,mitv://generationnexxxt.com:19806/0a20cb6af808457f9643b12955c51229
-CatchPlay电影台,mitv://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
-BOO,mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
-AXN,mitv://generationnexxxt.com:19806/14fad2e990aa427f9db8a9080bf03d0c
-AMC,mitv://generationnexxxt.com:19806/596bc566f5024110b7a9832f4a4e1f86
+CHC动作电影,P2p://generationnexxxt.com:19806/259812f575ed4eef814aa01b6a4f16cd
+CHC高清电影,P2p://generationnexxxt.com:19806/4c20b95cf04044c59bc68606ac0a3612
+CHC家庭影院,P2p://generationnexxxt.com:19806/8ee383c69dec43b59e925ccfe7c593d0]}
+天映频道,P2p://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
+天映频道,P2p://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
+天映经典,P2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
+天映经典,P2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
+美亚高清电影台,P2p://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
+美亚电影台(粤语),P2p://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
+LSTime电影台,P2p://generationnexxxt.com:19806/f4ebb77a05614143857edb8aee033157
+龙华电影,P2p://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2
+靖天映画,P2p://generationnexxxt.com:19806/6caa39c31eef4f81bfbad1bde5618aef
+靖天电影台,P2p://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
+好莱坞电影台,P2p://generationnexxxt.com:19806/46d445a8b3064595a14bb0c38dd4ef9b
+壹电视电影台,P2p://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818
+星卫HD电影,P2p://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
+卫视电影台,P2p://generationnexxxt.com:19806/f417dc89221443288fc5c836ebd5265c
+纬来育乐台,P2p://generationnexxxt.com:19806/3f07a7bf018146bb9a46313ac3217865
+纬来电影台,P2p://generationnexxxt.com:19806/bbfe983ec251437e98b211c0be0f6dc8
+凤凰电影台,P2p://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
+东森洋片台,P2p://generationnexxxt.com:19806/c13e9183a454463c94c7881b7fcc7960
+东森电影台,P2p://generationnexxxt.com:19806/dceeb99d6c574d53a3e3fdaee65ed038
+采昌影剧,P2p://generationnexxxt.com:19806/31c35d1e653f48a6a1ef0ae3afc21216
+亚洲剧台,P2p://generationnexxxt.com:19806/39b2516c7f3e465da6e7a93837c1ea81]}
+Star Movies Gold,P2p://generationnexxxt.com:19806/74de8450f07845d49620a16b18179f2b
+STAR World,P2p://generationnexxxt.com:19806/23e6a2d2a7aa4bf395b62c4b648f844e
+爱尔达影剧,P2p://generationnexxxt.com:19806/3ead6bd41aaa4df2be79322afa7a3841
+WarnerTV,P2p://generationnexxxt.com:19806/d4639fbf11424dcf8f2614071d57b567
+tvN,P2p://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
+tvN Movies HD,P2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
+Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
+StarMoviesHD,P2p://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4
+SHOWCASE MOVIES,P2p://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
+HKC电影台,P2p://generationnexxxt.com:19806/dd45accdb93f42b8ae129d7b4bcc1ba5
+HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
+HITS Movies,P2p://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
+HBOSignature,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
+HBOHitsm,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
+HBO,P2p://generationnexxxt.com:19806/22e62f2a02e148b994e170e1f08c37d5
+HBOFamily,P2p://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
+CINEMAX,P2p://generationnexxxt.com:19806/95d32b8d96694e0ba6afc48e0da3dae0
+CinemaWorld,P2p://generationnexxxt.com:19806/51cabd19f61f4d0797a9950573c68c33
+CCTV6,P2p://generationnexxxt.com:19806/0a20cb6af808457f9643b12955c51229
+CatchPlay电影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
+BOO,P2p://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
+AXN,P2p://generationnexxxt.com:19806/14fad2e990aa427f9db8a9080bf03d0c
+AMC,P2p://generationnexxxt.com:19806/596bc566f5024110b7a9832f4a4e1f86
 
 🚀電影頻道（38）,#genre#
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
