@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -766,7 +767,7 @@ ONE,mitv://generationnexxxt.com:19806/4c1d7a42f06e431589aa29448f2a77d5
 新时代1(东部),mitv://generationnexxxt.com:19806/90cf0a71709d458bb17695dd32d569df
 城市电视,mitv://generationnexxxt.com:19806/4ed9cf9666d7430d94e6f4f8c26986f6
 
-電影測試,#genre#
+●電影測試,#genre#
 CHC动作电影,mitv://generationnexxxt.com:19806/259812f575ed4eef814aa01b6a4f16cd
 CHC高清电影,mitv://generationnexxxt.com:19806/4c20b95cf04044c59bc68606ac0a3612
 CHC家庭影院,mitv://generationnexxxt.com:19806/8ee383c69dec43b59e925ccfe7c593d0]}
@@ -1379,6 +1380,50 @@ Baby TV HD,http://218.32.47.179:18514/.m3u8
 江戶川柯南動畫,http://epg.112114.xyz/douyu/5377297
 動畫電影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+
+●港澳測試,#genre#
+凤凰电影,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
+凤凰香港,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
+凤凰中文,mitv://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
+翡翠台,mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
+明珠台,mitv://generationnexxxt.com:19806/5367b44c18e24cc6b45ede2d8eef89c2
+翡翠台(华丽台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
+翡翠台,mitv://generationnexxxt.com:19806/bcce94ed6c7040489dd2d82da6c57f78
+港台电视31,mitv://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8
+港台电视32,mitv://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db
+HKC体育台,mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
+TVB经典台,mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
+TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+功夫台,mitv://generationnexxxt.com:19806/f8605d83718d4a488d60e6534966eaaa
+功夫台(华语),mitv://generationnexxxt.com:19806/5aa8a2e529bb467b9e5372beba679bd9
+J2,mitv://generationnexxxt.com:19806/6ed24791c2ad495d8e6452e702365305
+无线新闻,mitv://generationnexxxt.com:19806/49426a8f402248f09fcba6206eda63e6
+无线新闻,mitv://generationnexxxt.com:19806/49333b72b06046e8b18999367fb20023
+18台,mitv://generationnexxxt.com:19806/50eee4f9efd84b2b91635b0f025436ac
+Hands Up,mitv://generationnexxxt.com:19806/ab6fee9c3d744e8489c7b335da8f7cc4
+HKC 18,mitv://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d
+HKC Sports Plus 1,mitv://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5
+HKC Sports Plus 3,mitv://generationnexxxt.com:19806/6049814ecef34f09b504a724d2141ee3
+HKC电影台,mitv://generationnexxxt.com:19806/dd45accdb93f42b8ae129d7b4bcc1ba5
+HKC体育台,mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
+有线新闻台,mitv://generationnexxxt.com:19806/c0d63783be094caeb93a2a14ceed9ff6
+HKC综合娱乐台,mitv://generationnexxxt.com:19806/f4815802ef204971b9820b0d6e0bd096
+香港603,mitv://generationnexxxt.com:19806/2141e79414314275a21c96d6b9a74933
+粤语片台,mitv://generationnexxxt.com:19806/8cb9f30c8e8e40a68ea6c14c4833bb64
+直播台,mitv://generationnexxxt.com:19806/118e1f01099545be9b9c14b63e4507a9
+ViuTV,mitv://generationnexxxt.com:19806/7e4dbc69b6fb411da3a5bacc400800f9
+ViuTVsix,mitv://generationnexxxt.com:19806/ea29c12de7d64c4b8156d29c9a17b587
+now新闻台,mitv://generationnexxxt.com:19806/118e1f01099545be9b9c14b63e4507a9
+港台电视31,mitv://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8
+港台电视32,mitv://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db
+Thrill,mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
+美亚电影台(粤语),mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
+亚洲剧台,mitv://generationnexxxt.com:19806/b3da19d3dcae4a069c396982020a1fe8
+阳光卫视,mitv://generationnexxxt.com:19806/260fcd7bb0bf4607b5ba6e3156c92995
+星空卫视,mitv://generationnexxxt.com:19806/a77c28f542f3409dbc345b842609b1ab
+澳门-MACAU,mitv://generationnexxxt.com:19806/2df34f6afc8c4ca583776ce95f685e31
+澳门莲花,mitv://generationnexxxt.com:19806/47c068088f364f139bbee06bc68b6bf3
 
 🚝港澳地區（38）,#genre#
 華麗台,http://23.237.10.66:16410
