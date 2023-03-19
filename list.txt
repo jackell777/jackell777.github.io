@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -15,6 +16,7 @@
 中視新聞台,http://50.7.238.98:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+華視新聞資訊台HD,http://154.39.245.180/tbs/jstbs.php?id=32
 華視新聞資訊台HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊台HD,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台HD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
@@ -41,10 +43,7 @@ TVBS新聞台 HD,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032
 三立新聞HD,http://220.134.196.147:9536/http/116.50.42.18:8081/hls/65/807/ch18.m3u8?token=
 三立新聞HD,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+三立LIVE,http://154.39.245.180/tbs/jstbs.php?id=34
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
@@ -267,6 +266,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中天亞洲台,http://50.7.238.98:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 中天全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+TVBS HD,http://154.39.245.180/tbs/jstbs.php?id=46
 TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
@@ -275,6 +275,7 @@ TVBS HD,http://50.7.238.98:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&ts
 TVBS HD,http://50.7.238.98:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS HD,http://220.134.196.147:9542/http/116.50.42.18:8088/hls/75/817/ch58.m3u8?token=
 TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
+TVBS歡樂台,http://154.39.245.180/tbs/jstbs.php?id=47
 TVBS歡樂台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS歡樂台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS歡樂台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
@@ -1459,6 +1460,7 @@ Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 🚝港澳地區（38）,#genre#
 華麗台,http://23.237.10.66:16410
 華麗台,http://r.jdshipin.com/thuYX
+翡翠台,http://154.39.245.180/tbs/jstbs.php?id=12
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
@@ -1468,14 +1470,17 @@ Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
+香港開電視,http://154.39.245.180/tbs/jstbs.php?id=21
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港開電視,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/654765611?ticket=9cd530a0a5259b9e128dd444131e9d5180e7baba&profile=pass
 HOY 資訊台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2045866624?ticket=fa0f9d4f1ca6c2159d8a0a9d412725928d363be4&profile=pass
+有線新聞台,http://154.39.245.180/tbs/jstbs.php?id=3
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
+有線財經資訊,http://154.39.245.180/tbs/jstbs.php?id=4
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
@@ -1510,8 +1515,14 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 無線新聞台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2036169997?ticket=53b9a8f29f5261c02dc146954e37f7e3f66e8a14&profile=pass
 無線新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
 無線新聞台,http://radius.8866.org:800/hls/82/index.m3u8
+有線18台,http://154.39.245.180/tbs/jstbs.php?id=5
 有線18台,rtmp://119.81.124.89/sat/hk041
 有線18台,rtmp://219.80.97.77/sat/hk041
+有線603,http://154.39.245.180/tbs/jstbs.php?id=8
+有線新聞台,http://154.39.245.180/tbs/jstbs.php?id=3
+NOW新聞台,http://154.39.245.180/tbs/jstbs.php?id=17
+有線體育台,http://154.39.245.180/tbs/jstbs.php?id=6
+J2,http://154.39.245.180/tbs/jstbs.php?id=14
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
@@ -1525,6 +1536,7 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB星河,http://183.239.193.55:2223/hls/6/index.m3u8
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 TVB星河,http://119.140.58.42:9901/hls/12/index.m3u8
+明珠台,http://154.39.245.180/tbs/jstbs.php?id=13
 明珠台,http://120.84.96.82:808/hls/26/index.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
@@ -1533,9 +1545,11 @@ TVB星河,http://119.140.58.42:9901/hls/12/index.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
 經典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
+RHK31,http://154.39.245.180/tbs/jstbs.php?id=22
 RHK31,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/236957176?ticket=597daaf2659b03770c1272b8a371b1e14068a5e1&profile=pass
 RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RHK31,http://radius.8866.org:800/hls/89/index.m3u8
+RHK32,http://154.39.245.180/tbs/jstbs.php?id=23
 RHK32,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/239019394?ticket=aa4f8d47ccc101b748e3afa86813b14b88596744&profile=pass
 RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
