@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1072,6 +1073,38 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 鬥魚電視劇12,http://epg.112114.xyz/douyu/3756989
 鬥魚電視劇13,http://epg.112114.xyz/douyu/6706214
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
+
+●體育測試,#genre#
+CCTV16,P2p://generationnexxxt.com:19806/27657a68a6d84731b11c0dd507b2462b
+CCTV5,P2p://generationnexxxt.com:19806/9a1a19fc0f3b4d2cbafe36b346a85c70
+CCTV5+,P2p://generationnexxxt.com:19806/bdb6ae3e382b4768b29cb093dce88403
+五星体育,P2p://generationnexxxt.com:19806/ff7c9263344f40eaa52bbbb0f12ed4b4
+ELEVEN体育一台,P2p://generationnexxxt.com:19806/f00bfea4c1a24c6fbb66a84a8eaddbc1
+ELEVEN体育二台,P2p://generationnexxxt.com:19806/28273f37aa6542a48bf16a31f93fb424
+HKC 18,P2p://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d
+香港603,P2p://generationnexxxt.com:19806/2141e79414314275a21c96d6b9a74933
+HKC Sports Plus 1,P2p://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5
+HKC Sports Plus 3,P2p://generationnexxxt.com:19806/6049814ecef34f09b504a724d2141ee3
+HKC体育台,P2p://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
+爱尔达体育1台(备),P2p://generationnexxxt.com:19806/c2a0cd86b0e349f5b1b79aa0f7d68d24
+爱尔达体育1台,P2p://generationnexxxt.com:19806/11cc6c2d81184d7198d31cec5e1fabc6
+爱尔达体育2,P2p://generationnexxxt.com:19806/3fb90885ddf746298cbfe99f6a5c6d0e
+爱尔达体育3台,P2p://generationnexxxt.com:19806/a05c440aa46a421eaab9400b23017480
+博斯高球1台,P2p://generationnexxxt.com:19806/17a5b145625e4ee6b138a083b4aad4df
+博斯高球2台,P2p://generationnexxxt.com:19806/9ad2e789a1f24414b5ba3bce8225638f
+博斯魅力网,P2p://generationnexxxt.com:19806/79e1743aa91c4a3f9b356d3e623aaa1e
+博斯网球台,P2p://generationnexxxt.com:19806/eabbb39b2df84ec7b180dd07d003e801
+博斯无限二台,P2p://generationnexxxt.com:19806/c72f3545e44c43ada003f77cb4fbfcad
+博斯无限台,P2p://generationnexxxt.com:19806/388b178d61794d16a7f53bbea14a1d82
+博斯运动一台,P2p://generationnexxxt.com:19806/69f6752a9d7b43d4b82c649b645a6028
+博斯运动二台,P2p://generationnexxxt.com:19806/13330f2946b14921ac4ba04f38403f80
+广东体育,P2p://generationnexxxt.com:19806/49029e826ba344d58152340505447c5c
+魅力足球,P2p://generationnexxxt.com:19806/9312f0918c124af28ea9633958d0bf51
+纬来体育台,P2p://generationnexxxt.com:19806/eaf8c5ac85f24ebf90e089012da3269c
+纬来育乐台,P2p://generationnexxxt.com:19806/3f07a7bf018146bb9a46313ac3217865
+智林体育,P2p://generationnexxxt.com:19806/8aec43ce170d42ee8168f04aad54ba6d
+Z频道,P2p://generationnexxxt.com:19806/b25a5fc1e6904dddbb188e90ea532bad
+WWE,P2p://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 
 ⚽體育頻道（73）,#genre#
 央視體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
