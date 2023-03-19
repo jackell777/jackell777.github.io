@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1074,6 +1075,7 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 ●體育測試,#genre#
+NBA,P2p://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 CCTV16,P2p://generationnexxxt.com:19806/27657a68a6d84731b11c0dd507b2462b
 CCTV5,P2p://generationnexxxt.com:19806/9a1a19fc0f3b4d2cbafe36b346a85c70
 CCTV5+,P2p://generationnexxxt.com:19806/bdb6ae3e382b4768b29cb093dce88403
