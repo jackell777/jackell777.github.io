@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -2242,7 +2243,11 @@ JStar极限台,P2p://generationnexxxt.com:19806/f05ed9c0b0db4acb834117168861b364
 HAPPY,P2p://generationnexxxt.com:19806/621bba9e74ba4b49be758c0208929195
 K,P2p://generationnexxxt.com:19806/59ead8b7585c475584ab90ce75389b35
 
-🈲18禁頻道,#genre#
+🈲唉唉叫頻道,#genre#
+彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
+彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
+JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
+奥視HD,http://125.227.210.55:62697/VideoInput/play.ts
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
