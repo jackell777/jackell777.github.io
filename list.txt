@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1252,7 +1253,7 @@ J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NBA TV,http://skylogic.site:8080/641f31b8/8cf87a1541/15962
+NBA TV,http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370
 NBA TV,http://iptvtree.net:8080/9ba1ba9e/9e6e25e5cc/15962
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
