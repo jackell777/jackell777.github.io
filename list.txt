@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -446,6 +447,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 央視音樂,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 央視音樂,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 央視音樂,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
+Channel V 音樂,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo Live HD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
@@ -654,6 +656,7 @@ astro全佳,http://50.7.238.98:8278/Quanjia/playlist.m3u8?tid=MFFF32935427329354
 新加坡lU,http://50.7.238.98:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
 新加坡lU,http://50.7.238.114:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
 ONe,http://50.7.238.98:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
+澳亞衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=aoya_1500
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 俄羅斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
@@ -1313,10 +1316,10 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 央視科教,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-求索紀錄,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
-求索生活,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
-求索科學,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
-求索動物,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
+求索紀錄,http://chuangye168.gnway.org:56994/g8dyou.php?id=QSJLHD_7000
+求索生活,http://chuangye168.gnway.org:56994/g8dyou.php?id=QSSHHD_7000
+求索科學,http://chuangye168.gnway.org:56994/g8dyou.php?id=qiusuokexueHD_7000
+求索動物,http://chuangye168.gnway.org:56994/g8dyou.php?id=QSDWHD_7000
 金鷹紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 上海紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 全紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
