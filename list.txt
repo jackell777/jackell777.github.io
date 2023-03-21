@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -301,7 +302,6 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立都會台,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,http://220.134.196.147:9532/index.m3u8
 三立都會台,http://www.yshmzmc.top/gtjm.php?id=live1020
-三立國際台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156390&extension=ts&play_token=UEKTIim7lP
 八大第一台,http://123.51.229.65:18539/.m3u8
 八大第一台,http://60.251.33.252:18539/.m3u8
 八大第一台,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
@@ -614,6 +614,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 亞洲旅遊台,http://50.7.238.98:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 美食星球,http://50.7.238.98:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+中華美食,http://223.83.183.218:9901/tsfile/live/0001_41.m3u8
 幸福居家空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 生活時尚,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
 健康養生,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
@@ -632,6 +633,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 華語電視3,https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
 芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 環球旅遊,http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
+星空衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=xingkong_1500
 星空衛視,http://120.84.96.89:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.79:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.82:808/hls/79/index.m3u8
@@ -1561,8 +1563,8 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,http://120.84.96.82:808/hls/86/index.m3u8?blog.ntnas.top
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-TVB星河,http://183.239.193.55:2223/hls/6/index.m3u8
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+TVB星河,http://183.239.193.55:2223/hls/6/index.m3u8
 TVB星河,http://119.140.58.42:9901/hls/12/index.m3u8
 明珠台,http://154.39.245.180/tbs/jstbs.php?id=13
 明珠台,http://120.84.96.82:808/hls/26/index.m3u8
