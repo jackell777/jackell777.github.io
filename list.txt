@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -80,18 +81,20 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-央視新聞,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+央視新聞,http://cfss.cc/ds/bst.php?id=Cf-14
 央視新聞,http://39.136.173.106/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
 央視新聞,https://live.v1.mk/aishang/cctv13hd
-央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-央視財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+央視新聞,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+央視財經,http://cfss.cc/ds/bst.php?id=Cf-2
 央視財經,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?ProgramID=&encrypt=
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 央視財經,https://live.v1.mk/aishang/cctv2hd
+央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+央視財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 壹電視新聞,http://220.134.196.147:9545/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞,http://www.yshmzmc.top/gtjm.php?id=live1242
 壹電視新聞,http://220.134.196.147:9510/index.m3u8
@@ -443,12 +446,13 @@ EYETV旅遊,http://50.7.238.98:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF506660
 Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 影迷數位紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-央視音樂,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-央視音樂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+央視音樂,http://cfss.cc/ds/bst.php?id=Cf-16
 央視音樂,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&ProgramID=&encrypt=
 央視音樂,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 央視音樂,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 央視音樂,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
+央視音樂,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+央視音樂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 Channel V 音樂,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo Live HD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
@@ -468,18 +472,20 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 滾動力 rollor HD,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 八度空間,http://23.237.10.66:16406
 八度空間,http://50.7.238.98:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-央視綜合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-央視綜合,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+央視綜合,http://cfss.cc/ds/bst.php?id=Cf-1
 央視綜合,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
 央視綜合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 央視綜合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 央視綜合,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-央視綜藝,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-央視綜藝,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+央視綜合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+央視綜合,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+央視綜藝,http://cfss.cc/ds/bst.php?id=Cf-3
 央視綜藝,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&ProgramID=&encrypt=
 央視綜藝,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 央視綜藝,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 央視綜藝,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+央視綜藝,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+央視綜藝,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 熱門綜藝,http://cfss.cc/ds/bst.php?id=Cf-62
 熱門綜藝,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 熱門綜藝,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
@@ -491,29 +497,35 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 北京IPTV萌寵TV,http://www.dyc.com.cn:8002/rtp/239.3.1.102:8001
 北京IPTV萌寵TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
 北京IPTV萌寵TV,http://222.128.98.255:4000/rtp/239.3.1.102:8001
-央視軍事國防,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-央視軍事國防,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+央視軍事國防,http://cfss.cc/ds/bst.php?id=Cf-8
 央視軍事國防,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?ProgramID=&encrypt=
 央視軍事國防,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 央視軍事國防,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
 央視軍事國防,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+央視軍事國防,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+央視軍事國防,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+央視農業農村,http://cfss.cc/ds/bst.php?id=Cf-18
+央視農業農村,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?ProgramID=&encrypt=
 央視農業農村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 央視農業農村,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-央視農業農村,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?ProgramID=&encrypt=
-央視電視劇,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-央視電視劇,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+央視電視劇,http://cfss.cc/ds/bst.php?id=Cf-9
 央視電視劇,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?ProgramID=&encrypt=
 央視電視劇,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 央視電視劇,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 央視電視劇,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+央視電視劇,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+央視電視劇,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+七彩戲劇,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 七彩戲劇,http://cfss.cc/ds/bst.php?id=Cf-56
 七彩戲劇,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 諜戰劇場,http://cfss.cc/ds/bst.php?id=Cf-71
 諜戰劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 熱門劇場,http://cfss.cc/ds/bst.php?id=Cf-73
 熱門劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+都市劇場,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 都市劇場,http://cfss.cc/ds/bst.php?id=Cf-83
 都市劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+歡笑劇場,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 歡笑劇場,http://cfss.cc/ds/bst.php?id=Cf-46
 歡笑劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
 北京IPTV淘劇場,http://router.tonyliangli.cn:4022/rtp/239.3.1.95:8001
@@ -524,22 +536,24 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 北京IPTV經典劇場,http://119.39.128.18:88/hls/37/index.m3u8
 BTV影視,http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000
 BTV影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
-央視戲曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-央視戲曲,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+央視戲曲,http://cfss.cc/ds/bst.php?id=Cf-12
 央視戲曲,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?ProgramID=&encrypt=
 央視戲曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 央視戲曲,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
 央視戲曲,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+央視戲曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+央視戲曲,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 戲曲精選,http://cfss.cc/ds/bst.php?id=Cf-49
 戲曲精選,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 BTV文藝,http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
 BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
-央視社會與法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-央視社會與法,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+央視社會與法,http://cfss.cc/ds/bst.php?id=Cf-13
 央視社會與法,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?ProgramID=&encrypt=
 央視社會與法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 央視社會與法,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 央視社會與法,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+央視社會與法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+央視社會與法,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 上海外語頻道,http://cfss.cc/ds/bst.php?id=Cf-55
 上海外語頻道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海外語頻道,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
@@ -632,6 +646,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 中華美食,http://223.83.183.218:9901/tsfile/live/0001_41.m3u8
 幸福居家空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+生活時尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 生活時尚,http://cfss.cc/ds/bst.php?id=Cf-59
 生活時尚,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
 健康養生,http://cfss.cc/ds/bst.php?id=Cf-64
@@ -640,10 +655,12 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 茶頻道,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
 陶瓷高清,http://cfss.cc/ds/bst.php?id=Cf-74
 陶瓷高清,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/taocihd/8000000/mnf.m3u8
+法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 法治天地,http://cfss.cc/ds/bst.php?id=Cf-85
 法治天地,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
-金色學堂,http://cfss.cc/ds/bst.php?id=Cf-65
+金色學堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 金色學堂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+新視覺,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新視覺,http://cfss.cc/ds/bst.php?id=Cf-60
 新視覺,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
@@ -1017,13 +1034,14 @@ CINEMAX,http://50.7.238.98:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX,http://218.32.47.179:18559/.m3u8
-央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-央視電影,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+央視電影,http://cfss.cc/ds/bst.php?id=Cf-7
 央視電影,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=
 央視電影,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 央視電影,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
 央視電影,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 央視電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+央視電影,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 IPTV高清院線,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV高清院線,http://home.111818.xyz:8888/udp/239.76.252.217:9000
