@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -955,13 +956,15 @@ Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/c
 湖南電影,http://119.39.128.18:88/hls/30/index.m3u8
 湖南電影,http://api2.52tb.xyz/info?id=564&token=20230218htjgzi
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-百事通4K電影,http://mrchenwu.myds.me:8066/udp/239.45.3.107:5140
+全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
 全球大片,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+華語影院,http://cfss.cc/ds/bst.php?id=Cf-66
 華語影院,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+星光影院,http://cfss.cc/ds/bst.php?id=Cf-70
 星光影院,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
@@ -1015,11 +1018,11 @@ CINEMAX,http://50.7.238.98:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX,http://218.32.47.179:18559/.m3u8
+央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 央視電影,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 央視電影,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=
 央視電影,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 央視電影,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 央視電影,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 央視電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 IPTV高清院線,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
