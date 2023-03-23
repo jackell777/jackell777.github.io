@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -46,7 +47,7 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 三立LIVE,https://raw.githubusercontent.com/echolin73/utlive/YTlive/setlive.m3u8
 三立LIVE,http://2023.stream-link.org/playlist/set_news.flv
 三立iNews,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch19.m3u8
-三立NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
 年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
