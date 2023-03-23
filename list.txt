@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1575,13 +1576,13 @@ Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 🚝港澳地區（38）,#genre#
 華麗台,http://23.237.10.66:16410
 華麗台,http://r.jdshipin.com/thuYX
-翡翠台,http://154.39.245.180/tbs/jstbs.php?id=12
-翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://154.39.245.180/tbs/jstbs.php?id=12
+翡翠台,http://23.237.10.66:16106
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
