@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -2023,45 +2024,6 @@ CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//i
 贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 
-超级体育,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
-汽车世界,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
-看天下精选,http://183.207.255.188/live/program/live/ktxjx8m/8000000/mnf.m3u8
-全球大片,http://183.207.255.188/live/program/live/qqdp8m/8000000/mnf.m3u8
-华语影院,http://183.207.255.188/live/program/live/hyyy8m/8000000/mnf.m3u8
-星光影院,http://183.207.255.188/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场,http://183.207.255.188/live/program/live/dzjc8m/8000000/mnf.m3u8
-热门剧场,http://183.207.255.188/live/program/live/rmjc8m/8000000/mnf.m3u8
-热门综艺,http://183.207.255.188/live/program/live/rmzy8m/8000000/mnf.m3u8
-戏曲精选,http://183.207.255.188/live/program/live/xqjx8m/8000000/mnf.m3u8
-健康养生,http://183.207.255.188/live/program/live/jkys8m/8000000/mnf.m3u8
-青春动漫,http://183.207.255.188/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画,http://183.207.255.188/live/program/live/bbdh8m/8000000/mnf.m3u8
-电竞天堂,http://183.207.255.188/live/program/live/djtt8m/8000000/mnf.m3u8
-百变课堂,http://183.207.255.188/live/program/live/bbkt8m/8000000/mnf.m3u8
-上海新闻,http://183.207.255.188/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市,http://183.207.255.188/live/program/live/dshd8m/8000000/mnf.m3u8
-上海教育,http://183.207.255.188/live/program/live/setvhd/8000000/mnf.m3u8
-上海外语,http://183.207.255.188/live/program/live/icshd8m/8000000/mnf.m3u8
-东方影视,http://183.207.255.188/live/program/live/dfyshd8m/8000000/mnf.m3u8
-第一财经,http://183.207.255.188/live/program/live/dycjhd8m/8000000/mnf.m3u8
-纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-哈哈炫动,http://183.207.255.188/live/program/live/hhxd8m/8000000/mnf.m3u8
-五星体育,http://183.207.255.188/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-足球频道,http://183.207.255.188/live/program/live/zqpd8m/8000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd8m/8000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-劲爆体育,http://183.207.255.188/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-乐游,http://183.207.255.188/live/program/live/qjshd8m/8000000/mnf.m3u8
-东方财经,http://183.207.255.188/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-法治天地,http://183.207.255.188/live/program/live/fztd8m/8000000/mnf.m3u8
-生活时尚,http://183.207.255.188/live/program/live/shss8m/8000000/mnf.m3u8
-金色学堂,http://183.207.255.188/live/program/live/jingsepd8m/8000000/mnf.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjc8m/8000000/mnf.m3u8
-都市剧场,http://183.207.255.188/live/program/live/dsjc8m/8000000/mnf.m3u8
-七彩戏剧,http://183.207.255.188/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-动漫秀场,http://183.207.255.188/live/program/live/dmxc8m/8000000/mnf.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfy8m/8000000/mnf.m3u8
-
 欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
@@ -2318,19 +2280,44 @@ iHOT頻道,#genre#
 爱奇艺-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
 
 SiTV頻道,#genre#
-SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-SiTV生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
-SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-SiTV法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-SiTV金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
-SiTV七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+超级体育,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
+汽车世界,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
+看天下精选,http://183.207.255.188/live/program/live/ktxjx8m/8000000/mnf.m3u8
+全球大片,http://183.207.255.188/live/program/live/qqdp8m/8000000/mnf.m3u8
+华语影院,http://183.207.255.188/live/program/live/hyyy8m/8000000/mnf.m3u8
+星光影院,http://183.207.255.188/live/program/live/xgyy8m/8000000/mnf.m3u8
+谍战剧场,http://183.207.255.188/live/program/live/dzjc8m/8000000/mnf.m3u8
+热门剧场,http://183.207.255.188/live/program/live/rmjc8m/8000000/mnf.m3u8
+热门综艺,http://183.207.255.188/live/program/live/rmzy8m/8000000/mnf.m3u8
+戏曲精选,http://183.207.255.188/live/program/live/xqjx8m/8000000/mnf.m3u8
+健康养生,http://183.207.255.188/live/program/live/jkys8m/8000000/mnf.m3u8
+青春动漫,http://183.207.255.188/live/program/live/qcdm8m/8000000/mnf.m3u8
+宝宝动画,http://183.207.255.188/live/program/live/bbdh8m/8000000/mnf.m3u8
+电竞天堂,http://183.207.255.188/live/program/live/djtt8m/8000000/mnf.m3u8
+百变课堂,http://183.207.255.188/live/program/live/bbkt8m/8000000/mnf.m3u8
+上海新闻,http://183.207.255.188/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海都市,http://183.207.255.188/live/program/live/dshd8m/8000000/mnf.m3u8
+上海教育,http://183.207.255.188/live/program/live/setvhd/8000000/mnf.m3u8
+上海外语,http://183.207.255.188/live/program/live/icshd8m/8000000/mnf.m3u8
+东方影视,http://183.207.255.188/live/program/live/dfyshd8m/8000000/mnf.m3u8
+第一财经,http://183.207.255.188/live/program/live/dycjhd8m/8000000/mnf.m3u8
+纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+哈哈炫动,http://183.207.255.188/live/program/live/hhxd8m/8000000/mnf.m3u8
+五星体育,http://183.207.255.188/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+足球频道,http://183.207.255.188/live/program/live/zqpd8m/8000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd8m/8000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+劲爆体育,http://183.207.255.188/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+乐游,http://183.207.255.188/live/program/live/qjshd8m/8000000/mnf.m3u8
+东方财经,http://183.207.255.188/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+法治天地,http://183.207.255.188/live/program/live/fztd8m/8000000/mnf.m3u8
+生活时尚,http://183.207.255.188/live/program/live/shss8m/8000000/mnf.m3u8
+金色学堂,http://183.207.255.188/live/program/live/jingsepd8m/8000000/mnf.m3u8
+欢笑剧场,http://183.207.255.188/live/program/live/hxjc8m/8000000/mnf.m3u8
+都市剧场,http://183.207.255.188/live/program/live/dsjc8m/8000000/mnf.m3u8
+七彩戏剧,http://183.207.255.188/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+动漫秀场,http://183.207.255.188/live/program/live/dmxc8m/8000000/mnf.m3u8
+游戏风云,http://183.207.255.188/live/program/live/yxfy8m/8000000/mnf.m3u8
 
 中國藍TV頻道（18）,#genre#
 中國藍TV01,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
