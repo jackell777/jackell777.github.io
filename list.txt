@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1576,6 +1577,10 @@ Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 🚝港澳地區（38）,#genre#
 華麗台,http://23.237.10.66:16410
 華麗台,http://r.jdshipin.com/thuYX
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -1639,6 +1644,8 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 NOW新聞台,http://154.39.245.180/tbs/jstbs.php?id=17
 有線體育台,http://154.39.245.180/tbs/jstbs.php?id=6
 J2,http://154.39.245.180/tbs/jstbs.php?id=14
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
@@ -1675,6 +1682,7 @@ ViuTV,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1001584734?
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
+VIUTV6,http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 VIUTV6,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2070525578?ticket=fa3971afc4b3304fa4878cf6c862def95f703874&profile=pass
 VIUTV6,https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u8
 VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
