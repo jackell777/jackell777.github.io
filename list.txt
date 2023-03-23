@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -140,8 +141,10 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 東方財經,http://cfss.cc/ds/bst.php?id=Cf-82
 東方財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+BTV新聞,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BTV新聞,http://router.tonyliangli.cn:4022/udp/239.3.1.159:8000
 BTV新聞,http://222.128.98.255:4000/rtp/239.3.1.159:8000
+BTV財經,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
 BTV財經,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
 BTV財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
 有線新聞台,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
@@ -517,11 +520,14 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 熱門綜藝,http://cfss.cc/ds/bst.php?id=Cf-62
 熱門綜藝,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 熱門綜藝,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+北京IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
 北京IPTV淘精彩,http://router.tonyliangli.cn:4022/rtp/239.3.1.178:8001
 北京IPTV淘精彩,http://222.128.98.255:4000/rtp/239.3.1.178:8001
+北京IPTV淘娛樂,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 北京IPTV淘娛樂,http://www.dyc.com.cn:8002/rtp/239.3.1.100:8001
 北京IPTV淘娛樂,http://router.tonyliangli.cn:4022/rtp/239.3.1.100:8001
 北京IPTV淘娛樂,http://222.128.98.255:4000/rtp/239.3.1.100:8001
+北京IPTV萌寵TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
 北京IPTV萌寵TV,http://www.dyc.com.cn:8002/rtp/239.3.1.102:8001
 北京IPTV萌寵TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
 北京IPTV萌寵TV,http://222.128.98.255:4000/rtp/239.3.1.102:8001
@@ -556,12 +562,14 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 歡笑劇場,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 歡笑劇場,http://cfss.cc/ds/bst.php?id=Cf-46
 歡笑劇場,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+北京IPTV淘劇場,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 北京IPTV淘劇場,http://router.tonyliangli.cn:4022/rtp/239.3.1.95:8001
 北京IPTV淘劇場,http://222.128.98.255:4000/rtp/239.3.1.95:8001
 北京IPTV淘劇場,http://www.dyc.com.cn:8002/rtp/239.3.1.95:8001
 北京IPTV抗戰劇場,http://119.39.128.18:88/hls/35/index.m3u8
 北京IPTV古裝劇場,http://119.39.128.18:88/hls/36/index.m3u8
 北京IPTV經典劇場,http://119.39.128.18:88/hls/37/index.m3u8
+BTV影視,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
 BTV影視,http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000
 BTV影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
 央視戲曲,http://cfss.cc/ds/bst.php?id=Cf-12
@@ -573,6 +581,7 @@ BTV影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
 央視戲曲,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 戲曲精選,http://cfss.cc/ds/bst.php?id=Cf-49
 戲曲精選,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+BTV文藝,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
 BTV文藝,http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
 BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 央視社會與法,http://cfss.cc/ds/bst.php?id=Cf-13
@@ -678,6 +687,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 生活時尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 生活時尚,http://cfss.cc/ds/bst.php?id=Cf-59
 生活時尚,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 健康養生,http://cfss.cc/ds/bst.php?id=Cf-64
 健康養生,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 茶頻道,http://cfss.cc/ds/bst.php?id=Cf-79
@@ -962,14 +972,14 @@ Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/c
 龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 龍華洋片,http://50.7.238.98:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龍華洋片,http://50.7.238.98:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
-龍祥電影台,http://120.84.96.82:808/hls/35/index.m3u8
-龍祥電影台,http://120.84.96.89:808/hls/35/index.m3u8
-龍祥電影台,http://120.84.96.79:808/hls/35/index.m3u8
-龍祥電影台,http://120.84.96.87:808/hls/35/index.m3u8
-龍祥電影台,http://120.84.96.108:808/hls/35/index.m3u8
-龍祥電影台,http://120.84.96.113:808/hls/35/index.m3u8
-龍祥電影台,http://120.84.96.130:808/hls/35/index.m3u8
-龍祥電影台,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥電影,http://120.84.96.82:808/hls/35/index.m3u8
+龍祥電影,http://120.84.96.89:808/hls/35/index.m3u8
+龍祥電影,http://120.84.96.79:808/hls/35/index.m3u8
+龍祥電影,http://120.84.96.87:808/hls/35/index.m3u8
+龍祥電影,http://120.84.96.108:808/hls/35/index.m3u8
+龍祥電影,http://120.84.96.113:808/hls/35/index.m3u8
+龍祥電影,http://120.84.96.130:808/hls/35/index.m3u8
+龍祥電影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 龍祥電影,http://50.7.238.98:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 龍祥電影,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 龍祥電影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
@@ -1000,9 +1010,9 @@ Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/c
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
+湖南電影,http://api2.52tb.xyz/info?id=564&token=20230218htjgzi
 湖南電影,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
 湖南電影,http://119.39.128.18:88/hls/30/index.m3u8
-湖南電影,http://api2.52tb.xyz/info?id=564&token=20230218htjgzi
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 全球大片,http://183.207.255.188/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
@@ -1080,6 +1090,7 @@ CINEMAX,http://218.32.47.179:18559/.m3u8
 IPTV高清院線,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV高清院線,http://home.111818.xyz:8888/udp/239.76.252.217:9000
+北京IPTV淘電影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 北京IPTV淘電影,http://router.tonyliangli.cn:4022/rtp/239.3.1.250:8001
 北京IPTV淘電影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 北京IPTV淘電影,http://www.dyc.com.cn:8002/rtp/239.3.1.250:8001
@@ -1297,6 +1308,7 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 五星體育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 超级體育,http://cfss.cc/ds/bst.php?id=Cf-63
 超级體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+北京體育,http://qnap.yjnhome.com:4000/udp/239.3.1.243:8000
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 足球頻道,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 足球頻道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
@@ -1415,6 +1427,7 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 金鷹紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 上海紀實,http://cfss.cc/ds/bst.php?id=Cf-52
 上海紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+北京紀實,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
 全紀實,http://cfss.cc/ds/bst.php?id=Cf-58
 全紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 紀實科教,http://cfss.cc/ds/bst.php?id=Cf-78
@@ -1530,8 +1543,10 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 哈哈炫動,http://cfss.cc/ds/bst.php?id=Cf-81
 哈哈炫動,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 哈哈炫動,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+北京IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 北京IPTV淘Baby,http://www.dyc.com.cn:8002/rtp/239.3.1.238:8001
 北京IPTV淘Baby,http://222.129.37.206:8888/rtp/239.3.1.238:8001
+卡酷少兒,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
 卡酷少兒,http://cfss.cc/ds/bst.php?id=Cf-77
 卡酷少兒,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 卡酷少兒,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
