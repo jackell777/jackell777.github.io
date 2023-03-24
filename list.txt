@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -253,6 +254,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視綜藝台,https://epg.pw/stream/919d22fc22bc420c0bd0b482c6349593ed7c05d598bc85d75e7fff295814aa3d.ctv
 民視影劇台,http://www.336699.live:1935/blockfive/litv-ftv09.stream/playlist.m3u8
 民視影劇台,https://epg.pw/stream/711eaf341ce145b730905ddc136a28beb43226d204c70e67b4b97d7f4a78a36f.ctv
+民視旅遊台,http://www.336699.live:1935/blockfive/litv-ftv07.stream/playlist.m3u8
 民視旅遊台,https://epg.pw/stream/187d3b053e980df1d7d725b91f7c14a14040829d14b9f4dfe8910d10ddcc100f.ctv
 公視,http://220.134.196.147:9572/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
@@ -393,7 +395,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 龍華日韓,http://59.125.122.90:18508/.m3u8
 龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-龍華日韓,http://220.134.196.147:9501/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
 東森綜合台,http://220.134.196.147:9553/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森綜合台,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合台,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
@@ -758,6 +760,7 @@ ONe,http://50.7.238.98:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 俄羅斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+愛爾達生活英語,http://www.336699.live:1935/blockfive/litv-longturn20.stream/playlist.m3u8
 LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 東森購物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
@@ -1121,6 +1124,9 @@ CINEMAX,http://218.32.47.179:18559/.m3u8
 央視電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 央視電影,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+精彩影視,http://223.83.183.218:9901/tsfile/live/0001_39.m3u8
+精彩影視,http://39.134.136.141:6610/000000001000/2000000004000000063/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
+精彩影視,http://39.134.136.141:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 IPTV高清院線,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 IPTV高清院線,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV高清院線,http://home.111818.xyz:8888/udp/239.76.252.217:9000
@@ -1333,6 +1339,7 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 博斯高球二台,http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
 博斯魅力,http://50.7.238.98:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+車迷TV,http://www.336699.live:1935/blockfive/4gtv-live201.stream/playlist.m3u8
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
 勁爆體育,http://183.207.255.188/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 勁爆體育,http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
