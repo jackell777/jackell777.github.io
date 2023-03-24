@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -912,13 +913,17 @@ AXN,P2p://generationnexxxt.com:19806/14fad2e990aa427f9db8a9080bf03d0c
 AMC,P2p://generationnexxxt.com:19806/596bc566f5024110b7a9832f4a4e1f86
 
 🚀電影頻道（38）,#genre#
-東森電影,http://120.84.96.82:808/hls/32/index.m3u8
-東森電影,http://120.84.96.89:808/hls/32/index.m3u8
-東森電影,http://120.84.96.79:808/hls/32/index.m3u8
+東森電影,http://120.84.96.23:808/hls/32/index.m3u8
+東森電影,http://120.84.96.28:808/hls/32/index.m3u8
+東森電影,http://120.84.96.72:808/hls/32/index.m3u8
+東森電影,http://120.84.96.73:808/hls/32/index.m3u8
 東森電影,http://120.84.96.87:808/hls/32/index.m3u8
+東森電影,http://120.84.96.89:808/hls/32/index.m3u8
+東森電影,http://120.84.96.96:808/hls/32/index.m3u8
 東森電影,http://120.84.96.108:808/hls/32/index.m3u8
 東森電影,http://120.84.96.113:808/hls/32/index.m3u8
-東森電影,http://120.84.96.130:808/hls/32/index.m3u8
+東森電影,http://120.84.96.120:808/hls/32/index.m3u8
+東森電影,http://120.84.96.133:808/hls/32/index.m3u8
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森電影,http://50.7.238.98:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
