@@ -1,5 +1,5 @@
 
-🌎新聞頻道（42）,#genre#
+🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -194,7 +194,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台,http://61.58.60.230:9319/live/124.m3u8
 
-💥綜合頻道（121）,#genre#
+💥綜合頻道,#genre#
 台視,http://60.251.33.252:18543/.m3u8
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://50.7.238.98:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
@@ -935,7 +935,7 @@ BOO,P2p://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
 AXN,P2p://generationnexxxt.com:19806/14fad2e990aa427f9db8a9080bf03d0c
 AMC,P2p://generationnexxxt.com:19806/596bc566f5024110b7a9832f4a4e1f86
 
-🚀電影頻道（38）,#genre#
+🚀電影頻道,#genre#
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 東森電影,http://50.7.238.98:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
@@ -1273,25 +1273,25 @@ HKC体育台,P2p://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
 Z频道,P2p://generationnexxxt.com:19806/b25a5fc1e6904dddbb188e90ea532bad
 WWE,P2p://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 
-⚽體育頻道（73）,#genre#
+⚽體育頻道,#genre#
+央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,http://cfss.cc/ds/bst.php?id=Cf-5
 央視體育,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?ProgramID=&encrypt=
-央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?blog.ntnas.top
 央視體育,http://23.237.10.66:16007
 央視體育,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 央視體育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 央視體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+央視體育賽事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 央視體育賽事,http://cfss.cc/ds/bst.php?id=Cf-6
 央視體育賽事,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
-央視體育賽事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 央視體育賽事,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 央視體育賽事,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 央視體育賽事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 央視體育賽事,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+央視奧林匹克,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 央視奧林匹克,http://cfss.cc/ds/bst.php?id=Cf-17
 央視奧林匹克,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv16hd/51/index.m3u8?&ProgramID=&encrypt=
-央視奧林匹克,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 央視奧林匹克,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 央視奧林匹克,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
 央視奧林匹克,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
@@ -1457,7 +1457,7 @@ WWE摔角,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA923390329233903
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
-🗽人文幼兒（63）,#genre#
+🗽人文幼兒,#genre#
 央視記錄,http://cfss.cc/ds/bst.php?id=Cf-10
 央視記錄,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
@@ -1675,7 +1675,7 @@ Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
 澳门-MACAU,P2p://generationnexxxt.com:19806/2df34f6afc8c4ca583776ce95f685e31
 澳门莲花,P2p://generationnexxxt.com:19806/47c068088f364f139bbee06bc68b6bf3
 
-🚝港澳地區（38）,#genre#
+🚝港澳地區,#genre#
 華麗台,http://23.237.10.66:16410
 華麗台,http://r.jdshipin.com/thuYX
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
