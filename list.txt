@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1121,6 +1122,7 @@ CINEMAX,http://50.7.238.98:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX,http://218.32.47.179:18559/.m3u8
+漫威電影,http://epg.112114.xyz/douyu/6140589
 央視電影,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 央視電影,http://cfss.cc/ds/bst.php?id=Cf-7
 央視電影,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=
@@ -1140,7 +1142,6 @@ IPTV高清院線,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 北京IPTV淘電影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 北京IPTV淘電影,http://www.dyc.com.cn:8002/rtp/239.3.1.250:8001
 北京IPTV淘電影,http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-華語院線片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 4K超高清電影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清電影,http://r.jdshipin.com/5DWJk
@@ -1195,14 +1196,14 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 鬥魚電影23,http://epg.112114.xyz/douyu/3637726
 鬥魚電影24,http://epg.112114.xyz/douyu/323876
 鬥魚電影25,http://epg.112114.xyz/douyu/2935323
-鬥魚電影26,http://epg.112114.xyz/douyu/7459925
-鬥魚電影27,http://epg.112114.xyz/douyu/431460
-鬥魚電影28,http://epg.112114.xyz/douyu/1979257
-鬥魚電影29,http://epg.112114.xyz/douyu/8413092
-鬥魚電影30,http://epg.112114.xyz/douyu/2758565
-鬥魚電影31,http://epg.112114.xyz/douyu/3870925
-鬥魚電影32,http://epg.112114.xyz/douyu/6785471
-鬥魚電影33,http://epg.112114.xyz/douyu/4549169
+鬥魚電影26,http://epg.112114.xyz/douyu/20415
+鬥魚電影27,http://epg.112114.xyz/douyu/413573
+鬥魚電影28,http://epg.112114.xyz/douyu/5802446
+鬥魚電影29,http://epg.112114.xyz/douyu/74374
+鬥魚電影30,http://epg.112114.xyz/douyu/5033502
+鬥魚電影31,http://epg.112114.xyz/douyu/85894
+鬥魚電影32,http://epg.112114.xyz/douyu/6566671
+鬥魚電影33,http://epg.112114.xyz/douyu/2793084
 鬥魚電影34,http://epg.112114.xyz/douyu/4505431
 鬥魚電影35,http://epg.112114.xyz/douyu/6566671
 鬥魚電影36,http://epg.112114.xyz/douyu/3928
@@ -1212,14 +1213,6 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 鬥魚電影40,http://epg.112114.xyz/douyu/263824
 鬥魚電影41,http://epg.112114.xyz/douyu/36337
 鬥魚電影42,http://epg.112114.xyz/douyu/315457
-鬥魚電影43,http://epg.112114.xyz/douyu/20415
-鬥魚電影44,http://epg.112114.xyz/douyu/413573
-鬥魚電影45,http://epg.112114.xyz/douyu/5802446
-鬥魚電影46,http://epg.112114.xyz/douyu/74374
-鬥魚電影47,http://epg.112114.xyz/douyu/5033502
-鬥魚電影48,http://epg.112114.xyz/douyu/85894
-鬥魚電影49,http://epg.112114.xyz/douyu/6566671
-鬥魚電影50,http://epg.112114.xyz/douyu/2793084
 票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 熱播影院,http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
 豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
