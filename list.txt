@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1212,8 +1213,19 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 鬥魚電影40,http://epg.112114.xyz/douyu/263824
 鬥魚電影41,http://epg.112114.xyz/douyu/36337
 鬥魚電影42,http://epg.112114.xyz/douyu/315457
-票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-熱播影院,http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
+欧美电影1,http://jiandjh.51vip.biz:35455/huya/11352880
+欧美电影2,http://jiandjh.51vip.biz:35455/huya/21059581
+科幻电影,http://jiandjh.51vip.biz:35455/huya/11602034
+港台电影,http://jiandjh.51vip.biz:35455/huya/880261
+欧美娱乐,http://jiandjh.51vip.biz:35455/huya/21059574
+悬疑推理,http://jiandjh.51vip.biz:35455/huya/17445539
+好莱坞,http://jiandjh.51vip.biz:35455/huya/21059587
+经典好片,http://jiandjh.51vip.biz:35455/huya/11342427
+战争电影,http://jiandjh.51vip.biz:35455/huya/21059556
+中国功夫,http://jiandjh.51vip.biz:35455/huya/11352941
+精彩不断,http://jiandjh.51vip.biz:35455/huya/24396428
+高分电影,http://jiandjh.51vip.biz:35455/huya/16615910
+经典喜剧,http://jiandjh.51vip.biz:35455/huya/11352894
 豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
 
 鬥魚電視劇01,http://epg.112114.xyz/douyu/2838296
