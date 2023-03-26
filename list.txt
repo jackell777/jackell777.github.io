@@ -1,3 +1,4 @@
+
 🌎新聞頻道（42）,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -198,6 +199,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://50.7.238.98:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,rtmp://119.81.124.89/sat/tv071
+中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中視,http://220.134.196.147:9573/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
 中視,rtmp://219.80.97.77/sat/tv091
 中視,rtmp://119.81.124.89/sat/tv091
@@ -332,6 +334,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立都會台,http://220.134.196.147:9526/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,http://220.134.196.147:9532/index.m3u8
 三立都會台,http://www.yshmzmc.top/gtjm.php?id=live1020
+八大第一台,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
 八大第一台,http://123.51.229.65:18539/.m3u8
 八大第一台,http://60.251.33.252:18539/.m3u8
 八大第一台,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
@@ -347,6 +350,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 八大綜合台,http://50.7.238.98:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大綜合台,http://50.7.238.98:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大綜合台,http://50.7.238.98:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+八大戲劇台,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
 八大戲劇台,http://220.134.196.147:9543/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 八大戲劇台,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戲劇台,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
@@ -404,6 +408,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森衛視,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
 東森中國台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156393&extension=ts&play_token=UEKTIim7lP
+東森戲劇台,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 東森戲劇台,http://60.251.33.252:18538/.m3u8
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
@@ -1065,6 +1070,7 @@ Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/c
 超級電影,http://39.134.136.141:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
 動作電影,http://39.134.136.141:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 明星大片,http://39.134.136.141:6610/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
+AXN台灣,http://61.221.81.93:8078/hls/32/80/axn.m3u8
 AXN台灣,http://220.134.196.147:9524/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
 AXN台灣,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN台灣,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
@@ -1073,6 +1079,7 @@ AXN台灣,http://50.7.238.98:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250
 AXN台灣,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660.m3u8
 AXN台灣,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN台灣,http://218.32.47.179:18558/.m3u8
+HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO,http://220.134.196.147:9557/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
