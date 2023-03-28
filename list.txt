@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -510,7 +511,7 @@ TLC 旅遊生活頻道,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70
 TLC 旅遊生活頻道,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC 旅遊生活頻道,http://50.7.238.98:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC 旅遊生活頻道,http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-JET綜合台,http://220.134.196.147:9536/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
+JET綜合台,http://220.134.196.147:9535/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
 JET綜合台,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 Taiwan Plus,http://220.134.196.147:9542/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=
 Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
