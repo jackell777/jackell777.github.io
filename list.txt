@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1527,6 +1528,7 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 無線財經資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 無線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 無線財經資訊台,http://radius.8866.org:800/hls/83/index.m3u8
+無線新聞台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 無線新聞台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 無線新聞台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2036169997?ticket=53b9a8f29f5261c02dc146954e37f7e3f66e8a14&profile=pass
 無線新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
