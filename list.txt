@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1189,6 +1190,52 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 中國功夫電影,http://jiandjh.51vip.biz:35455/huya/11352941
 經典喜劇電影,http://jiandjh.51vip.biz:35455/huya/11352894
 豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
+
+👌百視電影頻道,#genre#
+BesTV電影01,https://bp-caster.bestv.com.cn/88/3/video.m3u8
+BesTV電影02,https://bp-caster.bestv.com.cn/89/3/video.m3u8
+BesTV電影03,https://bp-caster.bestv.com.cn/91/3/video.m3u8
+BesTV電影04,https://bp-caster.bestv.com.cn/92/3/video.m3u8
+BesTV電影05,https://bp-caster.bestv.com.cn/93/3/video.m3u8
+BesTV電影06,https://bp-caster.bestv.com.cn/94/3/video.m3u8
+BesTV電影07,https://bp-caster.bestv.com.cn/95/3/video.m3u8
+BesTV電影08,https://bp-caster.bestv.com.cn/96/3/video.m3u8
+BesTV電影09,https://bp-caster.bestv.com.cn/97/3/video.m3u8
+BesTV電影10,https://bp-caster.bestv.com.cn/98/3/video.m3u8
+BesTV電影11,https://bp-caster.bestv.com.cn/99/3/video.m3u8
+BesTV電影12,https://bp-caster.bestv.com.cn/100/3/video.m3u8
+BesTV電影13,https://bp-caster.bestv.com.cn/101/3/video.m3u8
+BesTV電影14,https://bp-caster.bestv.com.cn/102/3/video.m3u8
+BesTV電影15,https://bp-caster.bestv.com.cn/103/3/video.m3u8
+BesTV電影16,https://bp-caster.bestv.com.cn/104/3/video.m3u8
+BesTV電影17,https://bp-caster.bestv.com.cn/105/3/video.m3u8
+BesTV電影18,https://bp-caster.bestv.com.cn/106/3/video.m3u8
+BesTV電影19,https://bp-caster.bestv.com.cn/107/3/video.m3u8
+BesTV電影20,https://bp-caster.bestv.com.cn/108/3/video.m3u8
+BesTV電影21,https://bp-caster.bestv.com.cn/109/3/video.m3u8
+BesTV電影22,https://bp-caster.bestv.com.cn/110/3/video.m3u8
+BesTV電影23,https://bp-caster.bestv.com.cn/111/3/video.m3u8
+BesTV電影24,https://bp-caster.bestv.com.cn/112/3/video.m3u8
+BesTV電影25,https://bp-caster.bestv.com.cn/113/3/video.m3u8
+BesTV電影26,https://bp-caster.bestv.com.cn/114/3/video.m3u8
+BesTV電影27,https://bp-caster.bestv.com.cn/115/3/video.m3u8
+BesTV電影28,https://bp-caster.bestv.com.cn/116/3/video.m3u8
+BesTV電影29,https://bp-caster.bestv.com.cn/117/3/video.m3u8
+BesTV電影30,https://bp-caster.bestv.com.cn/118/3/video.m3u8
+BesTV電影31,https://bp-caster.bestv.com.cn/119/3/video.m3u8
+BesTV電影32,https://bp-caster.bestv.com.cn/120/3/video.m3u8
+BesTV電影33,https://bp-caster.bestv.com.cn/121/3/video.m3u8
+BesTV電影34,https://bp-caster.bestv.com.cn/122/3/video.m3u8
+BesTV電影35,https://bp-caster.bestv.com.cn/123/3/video.m3u8
+BesTV電影36,https://bp-caster.bestv.com.cn/124/3/video.m3u8
+BesTV電影37,https://bp-caster.bestv.com.cn/125/3/video.m3u8
+BesTV電影38,https://bp-caster.bestv.com.cn/126/3/video.m3u8
+BesTV電影39，https://bp-caster.bestv.com.cn/127/3/video.m3u8
+BesTV電影40,https://bp-caster.bestv.com.cn/128/3/video.m3u8
+BesTV電影41,https://bp-caster.bestv.com.cn/129/3/video.m3u8
+BesTV電影42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
+BesTV電影43,https://bp-caster.bestv.com.cn/131/3/video.m3u8
+BesTV電影44,https://bp-caster.bestv.com.cn/132/3/video.m3u8
 
 😁鬥魚頻道系列,#genre#
 經典恐怖電影,http://epg.112114.xyz/douyu/1165374
