@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -362,7 +363,7 @@ TVBS歡樂台,http://50.7.238.98:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C23187
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+三立綜合台,http://103.68.63.37:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
 三立綜合台,http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立綜合台,http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
 三立綜合台,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
