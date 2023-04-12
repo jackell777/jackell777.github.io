@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -427,7 +428,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 緯來綜合台,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 緯來綜合台,http://60.251.33.252:18540/.m3u8
 緯來綜合台,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
-緯來戲劇台,http://220.134.196.147:9534/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+緯來戲劇台,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 緯來戲劇台,http://218.32.47.179:18533/.m3u8
 緯來育樂台,http://220.134.196.147:9566/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來育樂台,http://123.51.229.65:18541/.m3u8
@@ -446,14 +447,14 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 龍華戲劇,http://60.251.33.252:18513/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
 龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華偶像,http://220.134.196.147:9543/http/116.50.42.18:8066/hls/210/10012/cstv12.m3u8?token=
+龍華偶像,http://220.134.196.147:9540/http/116.50.42.18:8066/hls/210/10012/cstv12.m3u8?token=
 龍華偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龍華偶像,http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龍華偶像,http://50.7.238.98:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 龍華偶像,http://59.125.122.90:18573/.m3u8
 龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華日韓,http://220.134.196.147:9543/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龍華日韓,http://220.134.196.147:9540/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 龍華日韓,http://123.51.229.65:18551/.m3u8
 龍華日韓,http://60.251.33.252:18551/.m3u8
 龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
@@ -479,7 +480,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 東森戲劇台,http://50.7.238.98:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇台,http://50.7.238.98:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
-東森超視,http://220.134.196.147:9523/http/116.50.42.18:8081/hls/64/806/ch14.m3u8?token=
+東森超視,http://220.134.196.147:9520/http/116.50.42.18:8081/hls/64/806/ch14.m3u8?token=
 東森超視,rtmp://119.81.124.89/sat/tv331
 東森超視,http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
@@ -514,7 +515,7 @@ TLC 旅遊生活頻道,http://50.7.238.98:8278/tlc_twn/playlist.m3u8?tid=MA0A590
 TLC 旅遊生活頻道,http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 JET綜合台,http://220.134.196.147:9538/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
 JET綜合台,http://220.134.196.147:9505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-Taiwan Plus,http://220.134.196.147:9543/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=
+Taiwan Plus,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=
 Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
@@ -772,7 +773,6 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
-亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 亞洲旅遊台,http://220.134.196.147:9526/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
