@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1522,7 +1523,7 @@ Discovery科學,http://50.7.238.98:8278/discoverysc_twn/playlist.m3u8?tid=mc6599
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-國家地理台灣頻道,http://220.134.196.147:9568/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
+國家地理台灣頻道,http://220.134.196.147:9565/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 國家地理台灣頻道,http://www.yshmzmc.top/gtjm.php?id=live1003
 國家地理頻道,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理頻道,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
@@ -1557,8 +1558,7 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 亞洲旅遊台,http://50.7.238.98:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-momo親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-momo親子台,http://220.134.196.147:9524/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
+momo親子台,http://220.134.196.147:9516/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
 東森幼幼台,http://220.134.196.147:9521/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
 東森幼幼台,http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼台,http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
@@ -1592,10 +1592,8 @@ CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD83373372833733
 i-Fun動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 ANIMAX,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-龍華卡通,http://220.134.196.147:9519/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
-經典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+龍華卡通,http://220.134.196.147:9518/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 經典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
-精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 精選動漫台,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
@@ -1624,7 +1622,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 卡酷少兒,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 嘉佳卡通,http://23.237.10.66:16662
-Baby TV,http://220.134.196.147:9542/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
+Baby TV,http://220.134.196.147:9540/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
 Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
 Baby TV,http://50.7.238.98:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
