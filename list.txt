@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -122,7 +123,7 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 寰宇台灣新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 寰宇國際新聞,http://tvmvip110.club/live.php?id=hyxw
-寰宇國際新聞,http://220.134.196.147:9521/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
+寰宇國際新聞,http://220.134.196.147:9520/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
 寰宇國際新聞,https://git.io/JgkpO
 寰宇國際新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
