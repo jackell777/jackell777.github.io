@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1461,14 +1462,14 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 央視科教,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 央視科教,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 央視科教,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-求索紀錄,http://39.134.136.141:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-求索紀錄,http://chuangye168.gnway.org:56994/g8dyou.php?id=QSJLHD_7000
-求索生活,http://39.134.136.141:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-求索生活,http://chuangye168.gnway.org:56994/g8dyou.php?id=QSSHHD_7000
-求索科學,http://39.134.136.141:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-求索科學,http://chuangye168.gnway.org:56994/g8dyou.php?id=qiusuokexueHD_7000
-求索動物,http://39.134.136.141:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索動物,http://chuangye168.gnway.org:56994/g8dyou.php?id=QSDWHD_7000
+求索紀錄,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
+求索紀錄,http://live.cooltv.top/tv/good.php?id=QSJLHD_7000
+求索生活,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+求索生活,http://live.cooltv.top/tv/good.php?id=QSSHHD_7000
+求索科學,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
+求索科學http://live.cooltv.top/tv/good.php?id=qiusuokexueHD_7000
+求索動物,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
+求索動物,http://live.cooltv.top/tv/good.php?id=QSDWHD_7000
 金鷹紀實,http://cfss.cc/ds/bst.php?id=Cf-48
 金鷹紀實,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 上海紀實,http://cfss.cc/ds/bst.php?id=Cf-52
