@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -293,6 +294,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公視,http://218.32.47.179:18505/.m3u8
+公視台語台,http://103.68.63.37:8278//ctv2_taiwan/playlist.m3u8
 中天綜合台,http://220.134.196.147:9550/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
 中天綜合台,http://23.237.10.66:16372
 中天綜合台,http://107.151.203.111:2209/135/us50.php?id=ztz
@@ -540,6 +542,7 @@ Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 愛爾達影劇,http://50.7.238.98:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 愛爾達影劇,http://50.7.238.98:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 愛爾達影劇,http://50.7.238.98:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+愛爾達综合台,http://103.68.63.37:8278//eltazonghe/playlist.m3u8
 愛爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 愛爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
@@ -699,6 +702,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 東方影視,http://mrchenwu.myds.me:8066/udp/239.45.3.237:5140
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+信吉電視台,http://103.68.63.37:8278//huanyutaiwan_twn/playlist.m3u8
 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
 原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
@@ -726,6 +730,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 鳳凰香港,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
+愛奇藝iQiyi,http://103.68.63.37:8278//Qiyi/playlist.m3u8
 大愛,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
@@ -786,9 +791,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 美食星球,http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 美食星球,http://50.7.238.98:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-中華美食,http://223.83.183.218:9901/tsfile/live/0001_41.m3u8
-中華美食,http://39.134.136.141:6610/000000001000/1000000005000266015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=3
-中華美食,http://39.134.136.141:6610/000000001000/2000000003000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
+亞洲美食afn,http://103.68.63.37:8278//afc_twn/playlist.m3u8
 幸福居家空間,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 生活時尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
 生活時尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
@@ -823,7 +826,6 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 華語電視2,https://epg.pw/stream/1bc31c5aef3c9f590724f97413d8e11a265d4268a4624043f3a9bf0691373cd9.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 華語電視3,https://epg.pw/stream/80afbedd74757842c4b170d0e10858e4790d45705b8ed54493a04f0438d00c45.m3u8
-星空衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=xingkong_1500
 星空衛視,http://120.84.96.87:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.82:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.89:808/hls/79/index.m3u8
@@ -832,6 +834,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 星空衛視,http://120.84.96.113:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.130:808/hls/79/index.m3u8
 星空衛視,http://113.117.74.8:808/hls/87/index.m3u8
+星空衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=xingkong_1500
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視,http://124.238.99.44:808/hls/352/index.m3u8
@@ -1269,6 +1272,7 @@ ELEVEN SPORTS 1,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df
 ELEVEN SPORTS 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+愛爾達體育1台,http://103.68.63.37:8278//eltasport_twn/playlist.m3u8
 愛爾達體育1台,rtmp://9wv7.mine.nu/sat/md021
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
@@ -1279,6 +1283,7 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 愛爾達體育1台,http://50.7.238.98:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 愛爾達體育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 愛爾達體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+愛爾達體育2台,http://103.68.63.37:8278//eltasport2_twn/playlist.m3u8
 愛爾達體育2台,rtmp://9wv7.mine.nu/sat/md041
 愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
@@ -1289,9 +1294,11 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 愛爾達體育2台,http://50.7.238.98:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 愛爾達體育2台,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 愛爾達體育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+愛爾達體育3台,http://103.68.63.37:8278//eltasport3_twn/playlist.m3u8
 愛爾達體育3台,rtmp://9wv7.mine.nu/sat/md031
 愛爾達體育3台,rtmp://219.80.97.77/sat/md051
 愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+博斯無限台,http://103.68.63.37:8278//bosiunlimited_twn/playlist.m3u8
 博斯運動一台,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動一台,rtmp://219.80.97.77/sat/md031
 博斯運動二台,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
@@ -1410,6 +1417,7 @@ MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28518.ts
 MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28767.ts
 MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25471.ts
 MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/35001.ts
+NBA TV,http://103.68.63.37:8278//nbatv/playlist.m3u8
 NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/82527.ts
 NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28745.ts
 NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25198.ts
