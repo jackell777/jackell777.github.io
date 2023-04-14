@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1305,6 +1306,7 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 ⚽體育頻道,#genre#
+央視體育,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,http://cfss.cc/ds/bst.php?id=Cf-5
 央視體育,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?ProgramID=&encrypt=
@@ -1313,6 +1315,7 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 央視體育,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 央視體育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 央視體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+央視體育賽事,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 央視體育賽事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 央視體育賽事,http://cfss.cc/ds/bst.php?id=Cf-6
 央視體育賽事,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
@@ -1320,6 +1323,7 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 央視體育賽事,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 央視體育賽事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 央視體育賽事,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+央視奧林匹克,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 央視奧林匹克,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 央視奧林匹克,http://cfss.cc/ds/bst.php?id=Cf-17
 央視奧林匹克,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv16hd/51/index.m3u8?&ProgramID=&encrypt=
@@ -1533,6 +1537,7 @@ WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
 🗽人文幼兒,#genre#
+央視記錄,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://cfss.cc/ds/bst.php?id=Cf-10
 央視記錄,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=
@@ -1540,6 +1545,7 @@ WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-8633344255
 央視記錄,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 央視記錄,http://111.31.238.41/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 央視記錄,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+央視科教,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 央視科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://cfss.cc/ds/bst.php?id=Cf-11
 央視科教,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?ProgramID=&encrypt=
@@ -1575,7 +1581,7 @@ BBC Lifestyle,http://103.68.63.37:8278/bbclifestyle_twn/playlist.m3u8
 BBC Lifestyle,http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 BBC Lifestyle,http://50.7.238.98:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 BBC Lifestyle,http://50.7.238.114:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-Discovery頻道,http://220.134.196.147:9568/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
+Discovery頻道,http://220.134.196.147:9566/http/60.251.39.91:8081/hls/61/803/ch11.m3u8
 Discovery頻道,http://103.68.63.37:8278/discoverych_twn/playlist.m3u8
 Discovery頻道,http://198.16.100.90:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 Discovery頻道,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
@@ -1667,6 +1673,7 @@ astro小太陽,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B70403
 astro小太陽,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 astro小太陽,http://50.7.238.98:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 astro小太陽,http://50.7.238.98:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+央視少兒,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 央視少兒,http://cfss.cc/ds/bst.php?id=Cf-15
 央視少兒,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?ProgramID=&encrypt=
 央視少兒,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
