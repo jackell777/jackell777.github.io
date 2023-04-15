@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1441,15 +1442,20 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 電競天堂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 GINX Esports TV,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 TRACE Sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+Astro Supersport,http://103.68.63.37:8278/Assp1/playlist.m3u8
+BT SPORT 1,http://103.68.63.37:8278/beeone/playlist.m3u8
 BT SPORT 1,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40508
 BT SPORT 1,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
 BT SPORT 1,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1425
+BT SPORT 2,http://103.68.63.37:8278/beetwo/playlist.m3u8
 BT SPORT 2,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40507
 BT SPORT 2,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
 BT SPORT 2,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1428
+BT SPORT 3,http://103.68.63.37:8278/beethree/playlist.m3u8
 BT SPORT 3,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40506
 BT SPORT 3,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
 BT SPORT 3,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1429
+BT SPORT 4,http://103.68.63.37:8278/btespn/playlist.m3u8
 BT SPORT 4,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40505
 BT SPORT 4,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
 BT SPORT 4,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1431
@@ -1463,7 +1469,9 @@ beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
 Sky Sports Arena,http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
 Sky Sports Arena,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11655.ts
 Sky Sports Arena,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267
+Sky Sports Cricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
 Sky Sports Cricket,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37072
+Sky Sports F1,http://198.16.100.90:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
 Sky Sports F1,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37068
 Sky Sports F1,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265
 Sky Sports NFL,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281849
