@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1465,6 +1466,7 @@ beIN Sports 4,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34721
 beIN Sports 5,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
 beIN Sports 6,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
 beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
+Sky Sports Arena,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/127618.ts
 Sky Sports Arena,http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
 Sky Sports Arena,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11655.ts
 Sky Sports Arena,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267
@@ -1478,11 +1480,14 @@ Sky Sports Golf,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37070
 Sky Sports Golf,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264
 Sky Sport Racing,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/39793
 Sky Sport Racing,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163132
+Sky Sports Football,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/32553.ts
 Sky Sports Football,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11658
 Sky Sports Football,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
 Sky Sports Mix,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/8336
+Sky Sports Main Event,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/32554.ts
 Sky Sports Main Event,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37073
 Sky Sports Main Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283053
+Sky Sports Premier League,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/32552.ts
 Sky Sports Premier League,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37069
 Sky Sports Top Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100
 智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
