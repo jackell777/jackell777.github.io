@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -153,14 +154,17 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 香港國際財經台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+上視新聞,http://mrchenwu.myds.me:8066/udp/239.45.3.209:5140
 上視新聞,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上視新聞,http://cfss.cc/ds/bst.php?id=Cf-50
 上視新聞,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+第一財經,http://mrchenwu.myds.me:8066/udp/239.45.3.211:5140
 第一財經,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 第一財經,http://cfss.cc/ds/bst.php?id=Cf-87
 第一財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 第一財經,http://mrchenwu.myds.me:8066/udp/239.45.3.211:5140
+東方財經,http://mrchenwu.myds.me:8066/udp/239.45.0.17:5140
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 東方財經,http://cfss.cc/ds/bst.php?id=Cf-82
 東方財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
