@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -839,6 +840,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 金色學堂,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 金色學堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 金色學堂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+樂遊頻道,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
 新視覺,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 新視覺,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新視覺,http://cfss.cc/ds/bst.php?id=Cf-60
@@ -860,9 +862,6 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 星空衛視,http://120.84.96.130:808/hls/79/index.m3u8
 星空衛視,http://113.117.74.8:808/hls/87/index.m3u8
 星空衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=xingkong_1500
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港衛視,http://124.238.99.44:808/hls/352/index.m3u8
 香港衛視文旅台,http://107.151.203.111:2209/135/hk.php?id=hk6
 鳳凰衛視,http://60.251.33.252:18581/.m3u8
 阿里郎頻道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
@@ -1744,7 +1743,6 @@ Baby TV,http://218.32.47.179:18514/.m3u8
 🚝港澳地區,#genre#
 華麗台,http://23.237.10.66:16410
 華麗台,http://r.jdshipin.com/thuYX
-翡翠台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=5
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
@@ -1759,21 +1757,16 @@ Baby TV,http://218.32.47.179:18514/.m3u8
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
-香港開電視,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=24
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港開電視,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/654765611?ticket=9cd530a0a5259b9e128dd444131e9d5180e7baba&profile=pass
-HOY 資訊台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=23
 HOY 資訊台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2045866624?ticket=fa0f9d4f1ca6c2159d8a0a9d412725928d363be4&profile=pass
-有線新聞台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=11
 有線新聞台,https://api.leonardpark.dev/live/icable/109
 有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
-有線財經資訊,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=15
 有線財經資訊,https://api.leonardpark.dev/live/icable/108
 有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
-香港國際財經台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=22
 香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -1797,13 +1790,11 @@ HOY 資訊台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/204
 鳳凰香港,http://27.47.71.49:8811/hls/34/index.m3u8
 鳳凰香港,http://27.47.71.203:8811/hls/34/index.m3u8
 TVB財經,https://j3.lhlh.app/mv.m3u8
-無線財經資訊台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=7
 無線財經資訊台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/714799654?ticket=45b858b577c1176f2eec7ffa34a9fe7ae0f29b37&profile=pass
 無線財經資訊台,http://120.84.96.82:808/hls/86/index.m3u8
 無線財經資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 無線財經資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 無線財經資訊台,http://radius.8866.org:800/hls/83/index.m3u8
-無線新聞台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=6
 無線新聞台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 無線新聞台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 無線新聞台,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2036169997?ticket=53b9a8f29f5261c02dc146954e37f7e3f66e8a14&profile=pass
@@ -1813,10 +1804,6 @@ TVB財經,https://j3.lhlh.app/mv.m3u8
 有線18台,rtmp://119.81.124.89/sat/hk041
 有線18台,rtmp://219.80.97.77/sat/hk041
 有線603,http://154.39.245.180/tbs/jstbs.php?id=8
-有線新聞台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=11
-NOW新聞台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=17
-有線體育台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=14
-J2,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=8
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
@@ -1829,7 +1816,6 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,http://120.84.96.82:808/hls/86/index.m3u8?blog.ntnas.top
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-明珠台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=9
 明珠台,http://120.84.96.82:808/hls/26/index.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
@@ -1838,31 +1824,24 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 經典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
 經典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
-RHK31,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=26
 RHK31,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/236957176?ticket=597daaf2659b03770c1272b8a371b1e14068a5e1&profile=pass
 RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RHK31,http://radius.8866.org:800/hls/89/index.m3u8
-RHK32,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=27
 RHK32,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/239019394?ticket=aa4f8d47ccc101b748e3afa86813b14b88596744&profile=pass
 RHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-ViuTV,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=19
 ViuTV,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1001584734?ticket=d3d100c02bd40ed72e3b02b2829a856324865ef1&profile=pass
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-VIUTV6,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=20
 VIUTV6,http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 VIUTV6,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/2070525578?ticket=fa3971afc4b3304fa4878cf6c862def95f703874&profile=pass
 VIUTV6,https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u8
 VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 星空衛視,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 星空衛視,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-香港衛視,http://124.238.99.44:808/hls/352/index.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港國際財經台,http://107.151.203.111:2209/135/hk.php?id=cable76h
 香港衛視文旅台,http://107.151.203.111:2209/135/hk.php?id=hk6
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
