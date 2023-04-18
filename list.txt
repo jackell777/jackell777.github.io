@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1444,30 +1445,26 @@ beIN Sports 4,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34721
 beIN Sports 5,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
 beIN Sports 6,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
 beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
-Sky Sports Arena,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/127618.ts
-Sky Sports Arena,http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
-Sky Sports Arena,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11655.ts
-Sky Sports Arena,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267
 Sky Sports Cricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
 Sky Sports Cricket,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37072
 Sky Sports F1,http://198.16.100.90:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
-Sky Sports F1,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37068
-Sky Sports F1,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265
-Sky Sports NFL,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281849
-Sky Sports Golf,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37070
-Sky Sports Golf,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264
-Sky Sport Racing,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/39793
-Sky Sport Racing,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163132
-Sky Sports Football,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/32553.ts
-Sky Sports Football,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/11658
-Sky Sports Football,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
-Sky Sports Mix,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/8336
-Sky Sports Main Event,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/32554.ts
-Sky Sports Main Event,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37073
-Sky Sports Main Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283053
-Sky Sports Premier League,http://restreamicos.com:8080/live/restledtv39hds/zYmcX7mrrW8b/32552.ts
-Sky Sports Premier League,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37069
-Sky Sports Top Event,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100
+ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25424.ts
+ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34954.ts
+ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28843.ts
+ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28836.ts
+ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28842.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28838.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25423.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34953.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28841.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28840.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/82541.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28839.ts
+ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28837.ts
+ESPN 3,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28844.ts
+ESPN U,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25417.ts
+ESPN U,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34947.ts
+ESPN U,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28835.ts
 智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 新視覺,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
@@ -1508,21 +1505,16 @@ EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-歐洲體育台,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-歐洲體育1台,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/260
-歐洲體育1台,http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/768
-歐洲體育1台,http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/30948
-歐洲體育2台,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/261
-歐洲體育2台,http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/769
-歐洲體育2台,http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/30949
-FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
-FIGHT SPORTS1,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+UFC Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28640.ts
+FIGHT SPORTS1,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28829.ts
+FIGHT SPORTS1,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28553.ts
+FIGHT SPORTS1,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28828.ts
 FIGHT SPORTS2,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+WWE摔角,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28624.ts
+WWE摔角,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28487.ts
 WWE摔角,http://198.16.100.90:8278/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WWE摔角,http://50.7.238.98:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WWE摔角,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-WWE摔角,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 WWE摔角,http://103.68.63.37:8278/wwe_twn/playlist.m3u8
 
 🗽人文幼兒,#genre#
