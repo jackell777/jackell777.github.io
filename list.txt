@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1419,20 +1420,21 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 電競天堂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 GINX Esports TV,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 TRACE Sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-Astro Supersport,http://103.68.63.37:8278/Assp1/playlist.m3u8
-BT SPORT 1,http://103.68.63.37:8278/beeone/playlist.m3u8
+Astro Supersport,http://198.16.100.90:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+Astro Supersport 3,http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+BT SPORT 1,http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
 BT SPORT 1,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40508
 BT SPORT 1,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
 BT SPORT 1,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1425
-BT SPORT 2,http://103.68.63.37:8278/beetwo/playlist.m3u8
+BT SPORT 2,http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 BT SPORT 2,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40507
 BT SPORT 2,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
 BT SPORT 2,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1428
-BT SPORT 3,http://103.68.63.37:8278/beethree/playlist.m3u8
+BT SPORT 3,http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
 BT SPORT 3,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40506
 BT SPORT 3,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
 BT SPORT 3,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1429
-BT SPORT 4,http://103.68.63.37:8278/btespn/playlist.m3u8
+BT SPORT 4,http://198.16.100.90:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
 BT SPORT 4,http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40505
 BT SPORT 4,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
 BT SPORT 4,http://obsfullhd.tv:25461/sallabosV1/5FnySQJkM2V1/1431
