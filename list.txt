@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -111,6 +112,7 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 央視財經,https://live.v1.mk/aishang/cctv2hd
 央視財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+央視中文國際,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 央視中文國際,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 央視中文國際,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 壹電視新聞,http://220.134.196.147:9547/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
@@ -150,14 +152,17 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 香港國際財經台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+上視新聞,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上視新聞,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上視新聞,http://mrchenwu.myds.me:8066/udp/239.45.3.209:5140
 上視新聞,http://cfss.cc/ds/bst.php?id=Cf-50
 上視新聞,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+第一財經,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 第一財經,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 第一財經,http://mrchenwu.myds.me:8066/udp/239.45.3.211:5140
 第一財經,http://cfss.cc/ds/bst.php?id=Cf-87
 第一財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+東方財經,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 東方財經,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 東方財經,http://mrchenwu.myds.me:8066/udp/239.45.3.17:5140
 東方財經,http://cfss.cc/ds/bst.php?id=Cf-82
