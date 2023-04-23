@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -93,6 +94,7 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+央視新聞,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
@@ -101,6 +103,7 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
 央視新聞,https://live.v1.mk/aishang/cctv13hd
 央視新聞,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+央視財經,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -215,7 +218,6 @@ DW德國之聲,https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
 國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台,http://61.58.60.230:9319/live/124.m3u8
-
 
 🌞台灣時效,#genre#
 CNN,p2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
@@ -1272,18 +1274,21 @@ Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/c
 湖南電影,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
 湖南電影,http://119.39.128.18:88/hls/30/index.m3u8
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+全球大片,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
 全球大片,http://tv.fanmingming.com/api/v4.php?id=qqdp8m/8000000
 全球大片,http://183.207.255.188/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+華語影院,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 華語影院,http://cfss.cc/ds/bst.php?id=Cf-66
 華語影院,http://tv.fanmingming.com/api/v4.php?id=hyyy8m/8000000
 華語影院,http://183.207.255.188/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+星光影院,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 星光影院,http://cfss.cc/ds/bst.php?id=Cf-70
 星光影院,http://tv.fanmingming.com/api/v4.php?id=xgyy8m/8000000
@@ -1375,6 +1380,7 @@ CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX,http://218.32.47.179:18559/.m3u8
 CINEMAX,http://103.68.63.37:8278/cinemax_twn/playlist.m3u8
+央視電影,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 央視電影,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
 央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 央視電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
