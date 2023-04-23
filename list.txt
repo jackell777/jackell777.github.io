@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -93,6 +94,7 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+央視新聞,http://39.134.136.161:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3$ITV
 央視新聞,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 央視新聞,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 央視新聞,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
@@ -101,6 +103,7 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 央視新聞,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
 央視新聞,https://live.v1.mk/aishang/cctv13hd
 央視新聞,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+央視財經,http://39.134.136.161:6610/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$ITV
 央視財經,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 央視財經,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 央視財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -109,6 +112,7 @@ TVBS新聞台,http://103.68.63.37:8278/tvbs_n/playlist.m3u8
 央視財經,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 央視財經,https://live.v1.mk/aishang/cctv2hd
 央視財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+央視中文國際,http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$ITV
 央視中文國際,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 央視中文國際,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 壹電視新聞,http://220.134.196.147:9547/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
