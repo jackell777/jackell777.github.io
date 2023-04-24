@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -18,10 +19,10 @@
 中視新聞台,http://50.7.238.98:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-華視新聞資訊台,http://2023.stream-link.org/live/215730961
 華視新聞資訊台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=51
 華視新聞資訊台,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台,http://stream.dsichannel.com:80/hls/cts-news.m3u8
+華視新聞資訊台,http://2023.stream-link.org/live/215730961
 華視新聞資訊台,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 華視新聞資訊台,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 華視新聞資訊台,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch14.m3u8
