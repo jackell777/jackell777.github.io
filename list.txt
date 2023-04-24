@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -708,10 +709,10 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 年代MUCH台,http://www.yshmzmc.top/gtjm.php?id=live2002
 年代MUCH台,http://218.32.47.179:18529/.m3u8
 年代MUCH台,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-MOMO綜合台,http://220.134.196.147:9575/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
+MOMO綜合台,http://220.134.196.147:9571/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 MOMO綜合台,rtmp://119.81.124.89/sat/tv761
 MOMO綜合台,http://www.yshmzmc.top/gtjm.php?id=live1248
-MOMO綜合台,http://220.134.196.147:9577/.m3u8
+MOMO綜合台,http://220.134.196.147:9575/.m3u8
 STAR World,http://220.134.196.147:9561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
 STAR World,http://123.51.229.65:18504/.m3u8
 STAR World,http://60.251.33.252:18504/.m3u8
