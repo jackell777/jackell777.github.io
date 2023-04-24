@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -173,12 +174,15 @@ BTV財經,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
 BTV財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
 香港now新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=17
 香港HOY新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=23
+香港無線新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6
 香港無線新聞台,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+香港有線新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=11
 香港有線新聞台,https://api.leonardpark.dev/live/icable/109
 香港有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 香港有線直播新聞台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 香港有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 香港有線直播新聞台,http://livetv.dnsfor.me:80/channel.7.m3u8
+香港有線財經資訊,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=15
 香港有線財經資訊,https://api.leonardpark.dev/live/icable/108
 香港有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
