@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -928,8 +929,9 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
-原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+原住民電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+原住民電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?blog.ntnas.top
+原住民電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
