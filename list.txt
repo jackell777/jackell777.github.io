@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1087,6 +1088,7 @@ ONe,http://50.7.238.98:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&
 LiveABC互動英語頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 東森購物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 momo購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
