@@ -53,10 +53,10 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 三立新聞,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/65/807/ch18.m3u8?token=
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立LIVE,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=48
+三立LIVE,https://raw.githubusercontent.com/echolin73/utlive/YTlive/setlive.m3u8
 三立iNEWS,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch19.m3u8
-三立NEWS+,https://raw.githubusercontent.com/echolin73/utlive/YTlive/setlive.m3u8
-三立NEWS+,http://2023.stream-link.org/playlist/set_news.flv
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立NEWS+,http://2023.stream-link.org/playlist/set_news.flv
 年代新聞,http://220.134.196.147:9518/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
