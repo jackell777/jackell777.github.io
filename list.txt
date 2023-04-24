@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -19,6 +20,7 @@
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 華視新聞資訊台,http://2023.stream-link.org/live/215730961
+華視新聞資訊台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=51
 華視新聞資訊台,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞資訊台,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
@@ -35,6 +37,7 @@
 民視新聞台,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民視新聞台,http://50.7.238.98:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民視新聞台,http://50.7.238.98:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+TVBS新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=54
 TVBS新聞台,rtmp://119.81.124.89/sat/tv551
 TVBS新聞台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新聞台,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/75/817/ch59.m3u8?token=
@@ -50,6 +53,7 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 三立新聞,http://220.134.196.147:9540/http/116.50.42.18:8081/hls/65/807/ch18.m3u8?token=
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立LIVE,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=48
 三立iNEWS,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch19.m3u8
 三立NEWS+,https://raw.githubusercontent.com/echolin73/utlive/YTlive/setlive.m3u8
 三立NEWS+,http://2023.stream-link.org/playlist/set_news.flv
@@ -76,6 +80,7 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 中天新聞,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新聞,http://50.7.238.98:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+東森LIVE,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44
 東森新聞,http://220.134.196.147:9531/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
@@ -167,6 +172,8 @@ BTV新聞,http://222.128.98.255:4000/rtp/239.3.1.159:8000
 BTV財經,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
 BTV財經,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
 BTV財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
+香港now新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=17
+香港HOY新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=23
 香港無線新聞台,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 香港有線新聞台,https://api.leonardpark.dev/live/icable/109
 香港有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
@@ -1526,6 +1533,7 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 車迷TV,http://www.336699.live:1935/blockfive/4gtv-live201.stream/playlist.m3u8
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
+香港有線體育台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=14
 勁爆體育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 勁爆體育,http://183.207.255.188/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 勁爆體育,http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
