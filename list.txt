@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -36,6 +37,7 @@
 民視新聞台,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民視新聞台,http://50.7.238.98:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民視新聞台,http://50.7.238.98:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+TVBS新聞台,http://211.23.114.106:8505/http/116.50.42.18:8081/hls/75/817/ch59.m3u8?token=
 TVBS新聞台,rtmp://119.81.124.89/sat/tv551
 TVBS新聞台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新聞台,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/75/817/ch59.m3u8?token=
@@ -56,6 +58,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 三立iNEWS,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch19.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,http://2023.stream-link.org/playlist/set_news.flv
+年代新聞,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/61/803/ch95.m3u8
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
@@ -116,6 +119,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 央視中文國際,http://39.134.136.161:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3$ITV
 央視中文國際,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 央視中文國際,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+壹電視新聞,http://211.23.114.106:8501/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞,http://220.134.196.147:9547/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞,http://www.yshmzmc.top/gtjm.php?id=live1242
 壹電視新聞,http://220.134.196.147:9510/index.m3u8
@@ -141,6 +145,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://220.134.196.147:9539/http/60.251.39.91:8081/hls/75/817/ch57.m3u8?token=
+非凡商業台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/74/816/ch56.m3u8?token=
 非凡商業台,http://220.134.196.147:9534/http/116.50.42.18:8088/hls/74/816/ch56.m3u8?token=
 非凡商業台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 全球財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
