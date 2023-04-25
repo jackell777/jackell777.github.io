@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -177,7 +178,6 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 香港開電視資訊台,http://2022.stream-link.org/live/1288486992
 香港無線新聞台,http://2022.stream-link.org/live/1511624341
 香港無線新聞台,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-香港無線財經體育資訊台,http://2022.stream-link.org/live/1652644142
 香港有線新聞台,http://2022.stream-link.org/live/954568378
 香港有線新聞台,https://api.leonardpark.dev/live/icable/109
 香港有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
