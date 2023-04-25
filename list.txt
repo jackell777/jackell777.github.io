@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -197,6 +198,7 @@ BTV財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
 鳳凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
 鳳凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+新唐人美東,https://ntd02.akamaized.net/HD-NY/index.m3u8
 CNN全球新聞,http://ip2121.com:8081/live/cnn/playlist.m3u8
 CNN全球新聞,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN全球新聞,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
