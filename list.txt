@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -1083,7 +1084,7 @@ astro全佳,http://50.7.238.98:8278/Quanjia/playlist.m3u8?tid=MFFF32935427329354
 新加坡lU,http://50.7.238.114:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
 ONe,http://198.16.100.90:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
 ONe,http://50.7.238.98:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
-澳亞衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=aoya_1500
+澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 美國中文電視,https://jpts.sinovision.net/livestream.m3u8
 美國中文電視,https://cdnts.sinovision.net/livestream.m3u8
 俄羅斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
