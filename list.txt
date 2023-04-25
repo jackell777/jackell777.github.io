@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -167,12 +168,14 @@ TVBS新聞台,http://50.7.238.98:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337
 東方財經,http://mrchenwu.myds.me:8066/udp/239.45.3.17:5140
 東方財經,http://cfss.cc/ds/bst.php?id=Cf-82
 東方財經,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-BTV新聞,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-BTV新聞,http://router.tonyliangli.cn:4022/udp/239.3.1.159:8000
-BTV新聞,http://222.128.98.255:4000/rtp/239.3.1.159:8000
-BTV財經,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
-BTV財經,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
-BTV財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
+北京新聞,http://live.cooltv.top/tv/btime.php?id=btvxw
+北京新聞,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+北京新聞,http://router.tonyliangli.cn:4022/udp/239.3.1.159:8000
+北京新聞,http://222.128.98.255:4000/rtp/239.3.1.159:8000
+北京財經,http://live.cooltv.top/tv/btime.php?id=btvcj
+北京財經,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
+北京財經,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
+北京財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
 香港now新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=17
 香港HOY新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=23
 香港無線新聞台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6
@@ -891,9 +894,10 @@ STYLE HD 生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/c
 北京IPTV抗戰劇場,http://119.39.128.18:88/hls/35/index.m3u8
 北京IPTV古裝劇場,http://119.39.128.18:88/hls/36/index.m3u8
 北京IPTV經典劇場,http://119.39.128.18:88/hls/37/index.m3u8
-BTV影視,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
-BTV影視,http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000
-BTV影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
+北京影視,http://live.cooltv.top/tv/btime.php?id=btvys
+北京影視,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
+北京影視,http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000
+北京影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
 央視戲曲,http://39.134.136.161:6610/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3$ITV
 央視戲曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
 央視戲曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
@@ -906,9 +910,10 @@ BTV影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
 戲曲精選,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
 戲曲精選,http://cfss.cc/ds/bst.php?id=Cf-49
 戲曲精選,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
-BTV文藝,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
-BTV文藝,http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
-BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
+北京文藝,http://live.cooltv.top/tv/btime.php?id=btvwy
+北京文藝,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
+北京文藝,http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
+北京文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 央視社會與法,http://39.134.136.161:6610/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3$ITV
 央視社會與法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
 央視社會與法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
@@ -1031,6 +1036,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 生活時尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 生活時尚,http://cfss.cc/ds/bst.php?id=Cf-59
 生活時尚,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+北京生活,http://live.cooltv.top/tv/btime.php?id=btvsh
 北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 健康養生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
 健康養生,http://cfss.cc/ds/bst.php?id=Cf-64
