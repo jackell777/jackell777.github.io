@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -213,6 +214,8 @@ ABC News US,http://50.7.238.98:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367
 BBC World News,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://50.7.238.98:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+Sky News,https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+歐洲新聞,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
@@ -1042,6 +1045,7 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 金色學堂,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 金色學堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 金色學堂,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+樂遊頻道,http://183.207.255.188/live/program/live/qjshd/1300000/mnf.m3u8
 樂遊頻道,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
 新視覺,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 新視覺,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -1065,7 +1069,6 @@ BTV文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
 星空衛視,http://113.117.74.8:808/hls/87/index.m3u8
 星空衛視,http://chuangye168.gnway.org:56994/g8dyou.php?id=xingkong_1500
 香港衛視文旅台,http://107.151.203.111:2209/135/hk.php?id=hk6
-鳳凰衛視,http://60.251.33.252:18581/.m3u8
 阿里郎頻道,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8?blog.ntnas.top
 CNC中文,http://39.135.138.60:18890/PLTV/88888888/224/3221225694/index.m3u8
 CNC中文,http://39.135.138.59:18890/PLTV/88888888/224/3221225694/index.m3u8
