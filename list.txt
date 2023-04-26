@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -675,7 +676,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公視,http://218.32.47.179:18505/.m3u8
-中天綜合台,http://220.134.196.147:9573/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
+中天綜合台,http://220.134.196.147:9574/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
 中天綜合台,http://23.237.10.66:16372
 中天綜合台,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天綜合台,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
@@ -818,7 +819,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 緯來育樂台,http://123.51.229.65:18541/.m3u8
 緯來育樂台,http://60.251.33.252:18541/.m3u8
 緯來育樂台,http://218.32.47.179:18562/.m3u8
-龍華戲劇,http://220.134.196.147:9575/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+龍華戲劇,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 龍華戲劇,http://www.336699.live:1935/blockfive/litv-longturn18.stream/playlist.m3u8
 龍華戲劇,http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
 龍華戲劇,http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
