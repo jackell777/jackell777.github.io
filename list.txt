@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -593,6 +594,7 @@ Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 
 💥綜合頻道,#genre#
+台視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/72/814/ch46.m3u8?token=
 台視,rtmp://9wv7.mine.nu/sat/tv071
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://60.251.33.252:18543/.m3u8
@@ -600,8 +602,8 @@ NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 台視,http://50.7.238.98:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://23.237.10.66:16344
 台視,rtmp://119.81.124.89/sat/tv071
+中視,http://220.134.196.147:9553/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
-中視,http://220.134.196.147:9573/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
 中視,rtmp://219.80.97.77/sat/tv091
 中視,rtmp://119.81.124.89/sat/tv091
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
@@ -615,6 +617,7 @@ NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 中視經典,http://50.7.238.98:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中視經典,http://50.7.238.98:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中視菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+華視,http://220.134.196.147:9575/http/61.221.81.94:8088/hls/72/814/ch48.m3u8?token=
 華視,http://218.32.47.179:18503/.m3u8
 華視,rtmp://9wv7.mine.nu/sat/tv111
 華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
@@ -634,6 +637,7 @@ NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+民視,http://220.134.196.147:9574/http/61.221.81.94:8088/hls/73/815/ch49.m3u8?token=
 民視,rtmp://9wv7.mine.nu/sat/tv051
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
@@ -663,8 +667,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視台灣台,http://50.7.238.98:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民視影劇台,http://www.336699.live:1935/blockfive/litv-ftv09.stream/playlist.m3u8
 民視旅遊台,http://www.336699.live:1935/blockfive/litv-ftv07.stream/playlist.m3u8
-公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-公視,http://220.134.196.147:9571/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
+公視,http://220.134.196.147:9573/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
@@ -724,6 +727,7 @@ TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=192
 TVBS,http://50.7.238.98:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS,http://50.7.238.98:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS,http://50.7.238.98:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS歡樂台,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/65/807/ch17.m3u8?token=
 TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
 TVBS歡樂台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
@@ -877,6 +881,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 衛視中文台,http://220.134.196.147:9550/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u
 衛視中文台,http://103.68.63.37:8278/weishichinese_twn/playlist.m3u8
 年代MUCH台,http://220.134.196.147:9547/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+年代MUCH台,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/72/814/ch45.m3u8?token=
 年代MUCH台,http://www.yshmzmc.top/gtjm.php?id=live2002
 年代MUCH台,http://218.32.47.179:18529/.m3u8
 年代MUCH台,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
@@ -1734,9 +1739,9 @@ ELEVEN SPORTS 2,http://220.134.196.147:9567/http/59.120.8.187:8078/hls/26/80/esp
 愛爾達體育3台,rtmp://9wv7.mine.nu/sat/md031
 愛爾達體育3台,rtmp://219.80.97.77/sat/md051
 愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-博斯運動一台,http://220.134.196.147:9561/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯運動一台,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動一台,rtmp://219.80.97.77/sat/md031
-博斯運動二台,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
+博斯運動二台,http://220.134.196.147:9573/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
 博斯運動二台,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯運動二台,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯運動二台,http://50.7.238.98:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
