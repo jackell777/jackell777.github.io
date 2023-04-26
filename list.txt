@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -126,6 +127,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡電視新聞台,https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
+寰宇台灣新聞,http://220.134.196.147:9564/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
 寰宇台灣新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 寰宇國際新聞,http://tvmvip110.club/live.php?id=hyxw
@@ -144,7 +146,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡商業台,http://220.134.196.147:9513/http/116.50.42.18:8088/hls/74/816/ch56.m3u8?token=
+非凡商業台,http://220.134.196.147:9564/http/116.50.42.18:8088/hls/74/816/ch56.m3u8?token=
 非凡商業台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/74/816/ch56.m3u8?token=
 非凡商業台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 全球財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
