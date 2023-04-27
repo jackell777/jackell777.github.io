@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -2018,6 +2019,7 @@ Discovery科學,http://50.7.238.98:8278/discoverysc_twn/playlist.m3u8?tid=mc6599
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+國家地理台灣頻道,http://61.221.81.93:8520/hls/65/807/ch843.m3u8
 國家地理台灣頻道,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 國家地理台灣頻道,http://www.yshmzmc.top/gtjm.php?id=live1003
 國家地理頻道,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
