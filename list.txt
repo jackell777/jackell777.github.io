@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -606,15 +607,14 @@ Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 
 💥綜合頻道,#genre#
-台視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/72/814/ch46.m3u8?token=
-台視,rtmp://9wv7.mine.nu/sat/tv071
+台視,http://220.134.196.147:9574/http/116.50.42.18:8088/hls/72/814/ch46.m3u8?token=
+台視,rtmp://219.80.97.77/sat/tv071
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://60.251.33.252:18543/.m3u8
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://50.7.238.98:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://23.237.10.66:16344
-台視,rtmp://119.81.124.89/sat/tv071
-中視,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
+中視,http://220.134.196.147:9575/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
 中視,http://220.134.196.147:9564/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中視,rtmp://219.80.97.77/sat/tv091
