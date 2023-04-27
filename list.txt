@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -89,6 +90,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 東森新聞,http://50.7.238.98:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森新聞,http://50.7.238.98:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+東森財經新聞,http://123.51.230.108:18515/.m3u8
 東森財經新聞,http://60.251.33.252:18515/.m3u8
 東森財經新聞,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森財經新聞,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
@@ -230,6 +232,7 @@ Sky News,https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
+NHK新聞,http://123.51.230.108:18525/.m3u8
 NHK新聞,http://211.23.114.106:8504/http/116.50.42.18:8081/hls/62/804/ch06.m3u8?token=
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
@@ -863,6 +866,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 東森綜合台,http://50.7.238.98:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森戲劇台,http://123.51.230.108:18538/.m3u8
 東森戲劇台,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇台,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 東森戲劇台,http://60.251.33.252:18538/.m3u8
@@ -1723,6 +1727,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 央視高爾夫網球,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
 央視風雲足球,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
 緯來體育台,http://60.251.33.252:18509/.m3u8
+緯來體育台,http://123.51.230.108:18509/.m3u8
 緯來體育台,http://211.23.114.106:8504/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育台,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育台,http://50.7.238.98:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
