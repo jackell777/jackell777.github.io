@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -856,7 +857,7 @@ TVBS Aisa,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 龍華日韓,http://59.125.122.90:18508/.m3u8
 龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-東森綜合台,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+東森綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森綜合台,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合台,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合台,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
