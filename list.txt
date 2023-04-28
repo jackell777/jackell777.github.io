@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -1458,7 +1459,7 @@ Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/c
 星光影院,http://183.207.255.188/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-AXN台灣,http://211.23.114.106:8501/http/116.50.42.18:8081/hls/71/813/ch43.m3u8?token=
+AXN台灣,http://220.134.196.147:9574/http/116.50.42.18:8081/hls/71/813/ch43.m3u8?token=
 AXN台灣,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN台灣,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 AXN台灣,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -1469,7 +1470,7 @@ AXN台灣,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extensi
 AXN台灣,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN台灣,http://218.32.47.179:18558/.m3u8
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-HBO,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+HBO,http://220.134.196.147:9575/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO,http://220.134.196.147:9557/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9557/index.m3u8
@@ -1509,7 +1510,7 @@ HBO溫馨家庭,http://50.7.238.98:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17
 HBO溫馨家庭,http://50.7.238.98:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO溫馨家庭,http://50.7.238.98:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-好萊塢電影,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/74/816/ch55.m3u8?token=
+好萊塢電影,http://220.134.196.147:9574/http/60.251.39.91:8081/hls/74/816/ch55.m3u8?token=
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
@@ -1519,7 +1520,7 @@ MCE 我的歐洲電影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/
 好萊塢電影,http://50.7.238.98:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 好萊塢電影,http://50.7.238.98:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影,http://50.7.238.98:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
-CINEMAX,http://211.23.114.106:8501/http/116.50.42.18:8081/hls/71/813/ch42.m3u8?token=
+CINEMAX,http://220.134.196.147:9575/http/116.50.42.18:8081/hls/71/813/ch42.m3u8?token=
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 CINEMAX,http://50.7.238.98:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
