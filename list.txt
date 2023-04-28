@@ -1374,7 +1374,7 @@ Star Movies Gold,http://www.yshmzmc.top/gtjm.php?id=live1032
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-龍華電影,http://211.23.114.106:8505/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8?token=
+龍華電影,http://220.134.196.147:9513/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://220.134.196.147:9558/index.m3u8
 龍華電影,http://220.134.196.147:9504/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影,http://218.32.47.179:18556/.m3u8
