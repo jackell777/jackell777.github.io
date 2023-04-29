@@ -1,3 +1,4 @@
+
 《寶島華人電視》免費，測試用!!,#genre#
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
@@ -80,7 +81,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 年代新聞,http://50.7.238.98:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新聞,http://50.7.238.98:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 年代新聞,http://50.7.238.98:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-中天新聞,http://123.51.230.124:8535/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
+中天新聞,http://123.51.230.124:8535/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 中天新聞,http://211.23.114.106:8505/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8?token=
 中天新聞,https://ytm2.yuanhsing.cf/ctitv.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -922,6 +923,7 @@ TLC旅遊生活頻道,http://211.23.114.106:8505/http/116.50.42.19:8081/hls/70/8
 TLC旅遊生活頻道,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC旅遊生活頻道,http://50.7.238.98:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC旅遊生活頻道,http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+JET綜合台,http://123.51.230.124:8571/http/60.251.39.91:8081/hls/74/816/ch54.m3u8
 JET綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
 JET綜合台,http://220.134.196.147:9575/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 Taiwan Plus,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
