@@ -1,3 +1,4 @@
+
 《寶島華人電視》免費，測試用!!,#genre#
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
@@ -143,6 +144,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 寰宇國際新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+非凡新聞,http://123.51.230.124:8536//http/116.50.42.18:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://220.134.196.147:9575/http/60.251.39.91:8081/hls/75/817/ch57.m3u8?token=
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
@@ -153,6 +155,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.238.98:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+非凡商業台,http://123.51.230.124:8561/http/116.50.42.18:8088/hls/74/816/ch56.m3u8
 非凡商業台,http://220.134.196.147:9574/http/60.251.39.91:8081/hls/74/816/ch56.m3u8?token=
 非凡商業台,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
 全球財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
