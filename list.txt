@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -613,7 +614,7 @@ NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 台視,http://50.7.238.98:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://23.237.10.66:16344
 中視,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
-中視,http://220.134.196.147:9575/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=
+中視,http://220.134.196.147:9575/http/116.50.42.18:8088/hls/72/814/ch47.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中視,rtmp://219.80.97.77/sat/tv091
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
