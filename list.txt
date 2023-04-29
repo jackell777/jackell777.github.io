@@ -1,5 +1,5 @@
-
 《寶島華人電視》,#genre#
+免費，測試用!!,
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
