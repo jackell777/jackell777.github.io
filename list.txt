@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -650,14 +651,21 @@ NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 華視,http://50.7.238.98:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 華視,http://50.7.238.98:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+萬秀豬王,http://you.cubs88.eu.org/youtube/ADDSmXoPDY8
+藍色水玲瓏,http://you.cubs88.eu.org/youtube/298QROP4xe0
 新玫瑰瞳鈴眼,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+新兵日記,http://you.cubs88.eu.org/youtube/bn7glmBPmIQ
+戲說台灣,http://you.cubs88.eu.org/youtube/0o2SRDVEsoE
 台灣靈異事件,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 台灣靈異事件,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+綜藝玩很大,http://you.cubs88.eu.org/youtube/PpCKwiVHCfY
+沒完沒了,http://you.cubs88.eu.org/youtube/07zCWQ5jCFs
+飢餓遊戲,http://you.cubs88.eu.org/youtube/3xe-R00ijC4
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+乘風破浪的姐姐,http://you.cubs88.eu.org/youtube/GJiqR79ZU6E
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 民視,http://220.134.196.147:9574/http/116.50.42.18:8088/hls/73/815/ch49.m3u8?token=
@@ -1131,6 +1139,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+華藏衛視,http://you.cubs88.eu.org/youtube/YzpByfRMKqM
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 正德電視台,http://220.134.196.147:9574/http/116.50.42.18:8081/hls/64/806/ch16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -1243,6 +1252,7 @@ momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 viva購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+台灣地震監視,http://you.cubs88.eu.org/youtube/Owke6Quk7T0
 
 🚀電影頻道,#genre#
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
@@ -1481,6 +1491,7 @@ CHC動作電影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 峨眉電影,http://182.136.139.230:4022/udp/239.93.0.252:5140
+YouTube電影,http://you.cubs88.eu.org/youtube/MgTZIgg-DlI
 精彩電影,http://182.136.139.230:4022/udp/239.93.42.47:5140
 華語電影,http://jiandjh.51vip.biz:35455/huya/11352880
 歐美電影,http://jiandjh.51vip.biz:35455/huya/21059581
@@ -1986,6 +1997,9 @@ Baby TV,http://218.32.47.179:18514/.m3u8
 寶寶動畫,http://cfss.cc/ds/bst.php?id=Cf-69
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
+我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
+進擊的巨人,https://www.youtube.com/watch?v=naT_bsmkJ8U
+鑽石王牌,https://www.youtube.com/watch?v=K0Uro9ZKFhk
 蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
 海賊王動畫,http://epg.112114.xyz/douyu/997925
