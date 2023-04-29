@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -932,6 +933,7 @@ TLC旅遊生活頻道,http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A590
 JET綜合台,http://123.51.230.124:8535/http/60.251.39.91:8081/hls/74/816/ch54.m3u8
 JET綜合台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/74/816/ch54.m3u8?token=
 JET綜合台,http://220.134.196.147:9575/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+Taiwan Plus,http://220.134.196.147:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 Taiwan Plus,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 Taiwan Plus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 國興衛視,http://220.134.196.147:9574/http/116.50.42.18:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
