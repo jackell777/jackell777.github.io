@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -1844,7 +1845,8 @@ Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc659
 國家地理野生頻道,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生頻道,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 國家地理野生頻道,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-動物星球頻道,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/70/812/ch37.m3u8?token=
+動物星球頻道,http://220.134.196.147:9574/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+動物星球頻道,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/70/812/ch37.m3u8?token=
 動物星球頻道,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 動物星球頻道,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 動物星球頻道,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
@@ -1853,7 +1855,8 @@ Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc659
 動物星球頻道,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 動物星球頻道,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-亞洲旅遊台,http://211.23.114.106:8504/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
+亞洲旅遊台,http://211.23.114.106:8505/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
+亞洲旅遊台,http://220.134.196.147:9575/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亞洲旅遊台,http://50.7.238.98:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
@@ -1861,9 +1864,10 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
-momo親子台,http://211.23.114.106:8504/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
+momo親子台,http://220.134.196.147:9574/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+momo親子台,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
 東森幼幼台,http://61.221.81.93:8525/hls/65/807/ch843.m3u8
-東森幼幼台,http://211.23.114.106:8504/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
+東森幼幼台,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
 東森幼幼台,http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼台,http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 東森幼幼台,http://50.7.238.98:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
@@ -1892,9 +1896,10 @@ CN卡通,http://50.7.238.98:8278/momo1_twn/playlist.m3u8?tid=md272f875bb69167873
 CN卡通,http://50.7.238.98:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-ANIMAX,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
-ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
-龍華卡通,http://211.23.114.106:8504/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+ANIMAX,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
+ANIMAX,http://220.134.196.147:9574/http/116.50.42.18:8088/hls/70/812/ch39.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龍華卡通,http://220.134.196.147:9575/http/116.50.42.18:8066/hls/210/10013/cstv13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龍華卡通,http://211.23.114.106:8505/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
