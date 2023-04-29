@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -1917,7 +1918,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimabi
 優漫卡通,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/ymkt.m3u8
 金鷹卡通,http://php.cubs88.eu.org/cqyx.php?id=jinyingSD
-Baby TV,http://211.23.114.106:8504/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
+Baby TV,http://211.23.114.106:8505/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
 Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
 Baby TV,http://50.7.238.98:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
