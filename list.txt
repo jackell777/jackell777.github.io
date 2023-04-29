@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -1128,7 +1129,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
-亞洲旅遊台,http://211.23.114.106:8504/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
+亞洲旅遊台,http://211.23.114.106:8505/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
@@ -1790,7 +1791,7 @@ BBC Earth,http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312
 BBC Lifestyle,http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 BBC Lifestyle,http://50.7.238.98:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 BBC Lifestyle,http://50.7.238.114:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-Discovery頻道,http://211.23.114.106:8504/http/116.50.42.18:8088/hls/71/813/ch44.m3u8?token=
+Discovery頻道,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/71/813/ch44.m3u8?token=
 Discovery頻道,http://198.16.100.90:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 Discovery頻道,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 Discovery頻道,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
@@ -1826,7 +1827,7 @@ Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MECE1
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 國家地理台灣頻道,http://61.221.81.93:8520/hls/65/807/ch843.m3u8
-國家地理台灣頻道,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
+國家地理台灣頻道,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 國家地理台灣頻道,http://www.yshmzmc.top/gtjm.php?id=live1003
 國家地理頻道,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理頻道,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
