@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -18,6 +19,7 @@
 中視新聞台,http://50.7.238.98:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+華視新聞資訊台,http://you.cubs88.eu.org/youtube/wM0g8EoUZ_E
 華視新聞資訊台,http://2023.stream-link.org/live/924948281
 華視新聞資訊台,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台,http://stream.dsichannel.com:80/hls/cts-news.m3u8
@@ -676,6 +678,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公視,http://218.32.47.179:18505/.m3u8
+公視台語台,http://you.cubs88.eu.org/youtube/6KlRR_DGhmI
 中天綜合台,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台,http://211.23.114.106:8505/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
 中天綜合台,http://23.237.10.66:16372
@@ -1910,6 +1913,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 嘉佳卡通,http://23.237.10.66:16662
 嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimabi
 優漫卡通,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/ymkt.m3u8
+金鷹卡通,http://php.cubs88.eu.org/cqyx.php?id=jinyingSD
 Baby TV,http://211.23.114.106:8504/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=
 Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
