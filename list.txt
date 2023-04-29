@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -1617,12 +1618,11 @@ ELEVEN SPORTS 2,http://211.23.114.106:8504/http/59.120.8.187:8078/hls/26/80/espo
 愛爾達體育2台,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 愛爾達體育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 愛爾達體育2台,rtmp://9wv7.mine.nu/sat/md041
-愛爾達體育3台,rtmp://9wv7.mine.nu/sat/md031
-愛爾達體育3台,rtmp://219.80.97.77/sat/md051
-愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-博斯運動一台,http://211.23.114.106:8504/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯運動一台,http://220.134.196.147:9574/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+博斯運動一台,http://211.23.114.106:8505/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 博斯運動一台,rtmp://219.80.97.77/sat/md031
-博斯運動二台,http://211.23.114.106:8504/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
+博斯運動二台,http://220.134.196.147:9575/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
+博斯運動二台,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
 博斯運動二台,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯運動二台,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯運動二台,http://50.7.238.98:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
