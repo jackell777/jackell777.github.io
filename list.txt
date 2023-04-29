@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -1725,14 +1726,7 @@ MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28518.ts
 MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28767.ts
 MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25471.ts
 MLB Network,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/35001.ts
-NBA,http://185.243.7.13:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=941562&extension=ts&play_token=1pLS8RVt8V
-NBA TV,http://tv.fullytv.com:8080/anacaraher/123456/3964
-NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/82527.ts
-NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28745.ts
-NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25198.ts
-NBA TV,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34728.ts
-NBA TV,http://kuchini.site:8080/mosesmn/4e40546ad6/15962
-NBA TV,http://iptvtree.net:8080/9ba1ba9e/9e6e25e5cc/15962
+NBA TV,http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62076
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
 NBA TV,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
 NBA TV,http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370
