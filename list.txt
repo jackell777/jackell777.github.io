@@ -1,3 +1,4 @@
+
 《寶島華人電視》免費，測試用!!,#genre#
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
@@ -240,17 +241,20 @@ ABC News US,http://50.7.238.98:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367
 BBC World News,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://50.7.238.98:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-CNBC,http://123.51.230.124:8550/http/116.50.42.18:8078/hls/24/80/cnbc90.m3u8
-歐洲新聞,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Sky News,https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
+Sky News,https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+歐洲新聞,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+歐洲新聞,https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 FRANCE 24,https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
-NHK新聞,http://123.51.230.124:8571/http/116.50.42.18:8081/hls/62/804/ch06.m3u8
 NHK新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+NHK新聞,http://123.51.230.124:8571/http/116.50.42.18:8081/hls/62/804/ch06.m3u8
 NHK新聞,http://123.51.230.108:18525/.m3u8
 NHK新聞,http://211.23.114.106:8504/http/116.50.42.18:8081/hls/62/804/ch06.m3u8?token=
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+DW德國之聲,http://185.236.229.31:9981/play/a068
 DW德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 DW德國之聲,https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
