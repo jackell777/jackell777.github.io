@@ -1,11 +1,10 @@
-《寶島華人電視》,#genre#
-免費，測試用!!,
+《寶島華人電視》免費，測試用!!,#genre#
 🌎新聞頻道,#genre#
-台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 台視新聞台,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 台視新聞台,http://50.7.238.98:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
