@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -40,8 +41,8 @@
 民視新聞台,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民視新聞台,http://50.7.238.98:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民視新聞台,http://50.7.238.98:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-TVBS新聞台,http://123.51.230.124:8536/http/116.50.42.18:8081/hls/75/817/ch59.m3u8
-TVBS新聞台,http://220.134.196.147:9575/http/116.50.42.18:8081/hls/75/817/ch59.m3u8?token=
+TVBS新聞台,http://220.134.196.147:8503/http/116.50.42.18:8081/hls/75/817/ch59.m3u8
+TVBS新聞台,http://123.51.230.124:8550/http/116.50.42.18:8081/hls/75/817/ch59.m3u8
 TVBS新聞台,http://211.23.114.106:8501/http/116.50.42.18:8081/hls/75/817/ch59.m3u8?token=
 TVBS新聞台,rtmp://219.80.97.77/sat/tv551
 TVBS新聞台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
