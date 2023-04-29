@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -139,13 +140,15 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 壹電視新聞,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞,http://www.yshmzmc.top/gtjm.php?id=live1242
 壹電視新聞,http://60.251.59.180:8501/.m3u8
+鏡電視新聞台,http://you.cubs88.eu.org/youtube/5n0y6b0Q25o
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡電視新聞台,https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-寰宇台灣新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇台灣新聞,http://220.134.196.147:8520/http/116.50.42.18:8088/hls/76/818/ch62.m3u8
 寰宇台灣新聞,http://61.221.81.93:8513/hls/65/807/ch843.m3u8
 寰宇台灣新聞,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
+寰宇國際新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇國際新聞,http://you.cubs88.eu.org/youtube/B7Zp3d6xXWw
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-寰宇國際新聞,http://220.134.196.147:8520/http/116.50.42.18:8088/hls/76/818/ch62.m3u8
 寰宇國際新聞,http://tvmvip110.club/live.php?id=hyxw
 寰宇國際新聞,https://git.io/JgkpO
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
@@ -253,6 +256,7 @@ NHK新聞,http://220.134.196.147:8507/http/116.50.42.18:8081/hls/62/804/ch06.m3u
 NHK新聞,http://123.51.230.124:8571/http/116.50.42.18:8081/hls/62/804/ch06.m3u8
 NHK新聞,http://123.51.230.108:18525/.m3u8
 NHK新聞,http://211.23.114.106:8504/http/116.50.42.18:8081/hls/62/804/ch06.m3u8?token=
+NHK World,http://you.cubs88.eu.org/youtube/f0lYkdA-Gtw
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 DW德國之聲,http://185.236.229.31:9981/play/a068
@@ -736,6 +740,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中天娛樂台,http://50.7.238.98:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天娛樂台,http://50.7.238.98:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娛樂台,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
+中天亞洲台,http://you.cubs88.eu.org/youtube/oPx1u9WQrWg
 中天亞洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 中天亞洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 中天亞洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
