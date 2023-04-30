@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -940,7 +941,7 @@ STAR World,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
 STAR World,http://211.23.114.106:8505/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
 STAR World,http://123.51.229.65:18504/.m3u8
 STAR World,http://60.251.33.252:18504/.m3u8
-TLC旅遊生活頻道,http://220.134.196.147:8538/http/116.50.42.18:8088/hls/70/812/ch38.m3u8
+TLC旅遊生活頻道,http://220.134.196.147:8505/http/116.50.42.18:8088/hls/70/812/ch38.m3u8
 TLC旅遊生活頻道,http://211.23.114.106:8505/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 TLC旅遊生活頻道,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC旅遊生活頻道,http://50.7.238.98:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
