@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1223,7 +1224,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 中華美食,http://39.134.136.161:6610/000000001000/1000000005000266015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=3$ITV
 陶瓷高清,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/taocihd/8000000/mnf.m3u8
 百變課堂,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
-金色學堂,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000
+金色學堂,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
 中國天氣,http://php.cubs88.eu.org/cqyx.php?id=tianqiSD
 中國天氣,http://39.134.136.161:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3$ITV
 中國天氣,http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3$ITV
