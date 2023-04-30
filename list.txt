@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -25,7 +26,7 @@
 華視新聞資訊台,http://2023.stream-link.org/live/215730961
 華視新聞資訊台,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 華視新聞資訊台,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch14.m3u8
-民視新聞台,http://220.134.196.147:8535/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
+民視新聞台,http://220.134.196.147:8510/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
 民視新聞台,http://123.51.230.108:18663/.m3u8
 民視新聞台,http://123.51.230.124:8571/http/116.50.42.18:8081/hls/73/815/ch51.m3u8
 民視新聞台,https://ytm2.yuanhsing.cf/FTVCP.m3u8
@@ -134,7 +135,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 央視中文國際,http://39.134.136.161:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3$ITV
 央視中文國際,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 央視中文國際,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
-壹電視新聞,http://220.134.196.147:8510/http/116.50.42.18:8088/hls/66/808/ch24.m3u8
+壹電視新聞,http://220.134.196.147:8501/http/116.50.42.18:8088/hls/66/808/ch24.m3u8
 壹電視新聞,http://123.51.230.124:8550/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞,http://www.yshmzmc.top/gtjm.php?id=live1242
