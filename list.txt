@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1403,8 +1404,11 @@ Star Movies Gold,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/62/804/ch
 湖南電影,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
 湖南電影,http://119.39.128.18:88/hls/30/index.m3u8
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+全球大片,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
+華語影院,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,http://cfss.cc/ds/bst.php?id=Cf-66
+星光影院,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://cfss.cc/ds/bst.php?id=Cf-70
 AXN台灣,http://220.134.196.147:8543/http/116.50.42.18:8081/hls/71/813/ch43.m3u8
 AXN台灣,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
