@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1811,11 +1812,7 @@ beIN Sports 7,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
 Sky Sports Cricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
 Sky Sports Cricket,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/37072
 Sky Sports F1,http://198.16.100.90:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
-ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25424.ts
-ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34954.ts
-ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28843.ts
-ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28836.ts
-ESPN,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28842.ts
+ESPN,http://143.244.60.97/ESPN/index.m3u8
 ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28838.ts
 ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25423.ts
 ESPN 2,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34953.ts
@@ -1836,6 +1833,7 @@ J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 MLB Network,http://ipch.xyz:2082/dsnrrcn/87djD6Sk7hWOy7d/28476
+NBA TV,http://143.244.60.97/NBATV/index.m3u8
 NBA TV,http://ipch.xyz:2082/dsnrrcn/87djD6Sk7hWOy7d/224033
 NBA TV,http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62076
 NBA TV,http://ipch.xyz:2082/dsnrrcn/87djD6Sk7hWOy7d/130957
