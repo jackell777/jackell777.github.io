@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1483,10 +1484,13 @@ Star Movies Gold,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/62/804/ch
 湖南電影,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
 湖南電影,http://119.39.128.18:88/hls/30/index.m3u8
 湖南電影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 全球大片,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 全球大片,http://cfss.cc/ds/bst.php?id=Cf-72
+華語影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 華語影院,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 華語影院,http://cfss.cc/ds/bst.php?id=Cf-66
+星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
 星光影院,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 星光影院,http://cfss.cc/ds/bst.php?id=Cf-70
 AXN台灣,http://220.134.196.147:8543/http/116.50.42.18:8081/hls/71/813/ch43.m3u8
@@ -1556,12 +1560,12 @@ CINEMAX,http://50.7.238.98:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX,http://218.32.47.179:18559/.m3u8
+央視電影,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 央視電影,http://cntv.sbs/live/?id=cctv6
 央視電影,http://php.cubs88.eu.org/cqyx.php?id=cctv6HD
 央視電影,http://39.134.136.161:6610/000000001000/6000000001000004574/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3$ITV
 央視電影,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
 央視電影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-央視電影,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
 央視電影,http://cfss.cc/ds/bst.php?id=Cf-7
 央視電影,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=
 央視電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
@@ -1721,6 +1725,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 ⚽體育頻道,#genre#
+央視體育,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 央視體育,http://cntv.sbs/live/?id=cctv5
 央視體育,http://php.cubs88.eu.org/cqyx.php?id=cctv5HD
 央視體育,http://39.134.136.161:6610/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3$ITV
@@ -1730,6 +1735,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 央視體育,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?ProgramID=&encrypt=
 央視體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?blog.ntnas.top
 央視體育,http://23.237.10.66:16007
+央視體育賽事,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 央視體育賽事,http://cntv.sbs/live/?id=cctv5p
 央視體育賽事,http://php.cubs88.eu.org/cqyx.php?id=cctv5SportHD
 央視體育賽事,http://39.134.136.161:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3$ITV
@@ -1738,6 +1744,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 央視體育賽事,http://cfss.cc/ds/bst.php?id=Cf-6
 央視體育賽事,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
 央視體育賽事,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+央視奧林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 央視奧林匹克,http://cntv.sbs/live/?id=cctv164k
 央視奧林匹克,http://php.cubs88.eu.org/cqyx.php?id=cctv16HD
 央視奧林匹克,http://39.134.136.161:6610/000000001000/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$ITV
@@ -1824,33 +1831,45 @@ ELEVEN SPORTS 2,http://211.23.114.106:8504/http/59.120.8.187:8078/hls/26/80/espo
 博斯魅力,http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 博斯魅力,http://50.7.238.98:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+新視覺,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+新視覺,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
+新視覺,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
 車迷頻道,http://php.cubs88.eu.org/cqyx.php?id=doxtv
 香港有線體育台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=14
+勁爆體育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 勁爆體育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 勁爆體育,http://39.134.136.138:6610/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+五星體育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星體育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星體育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星體育,http://cfss.cc/ds/bst.php?id=Cf-54
 五星體育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+超级體育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
 超级體育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 超级體育,http://cfss.cc/ds/bst.php?id=Cf-63
 北京體育,http://qnap.yjnhome.com:4000/udp/239.3.1.243:8000
 曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
 魅力足球,http://php.cubs88.eu.org/cqyx.php?id=mlzqHD
 魅力足球,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 魅力足球,http://cfss.cc/ds/bst.php?id=Cf-86
+足球高清,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+快樂垂釣,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
 快樂垂釣,http://php.cubs88.eu.org/cqyx.php?id=klcdHD
 快樂垂釣,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
 快樂垂釣,http://cfss.cc/ds/bst.php?id=Cf-47
 四海釣魚,http://php.cubs88.eu.org/cqyx.php?id=diaoyu
 天元圍棋,http://php.cubs88.eu.org/cqyx.php?id=weiqi
 先鋒乒羽,http://php.cubs88.eu.org/cqyx.php?id=xianfeng
+遊戲風雲,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
 遊戲風雲,http://58.34.204.67:9901/tsfile/live/1006_1.m3u8
 遊戲風雲,http://php.cubs88.eu.org/cqyx.php?id=yxfyHD
 遊戲風雲,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
 遊戲風雲,http://cfss.cc/ds/bst.php?id=Cf-61
+電競天堂,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
 電競天堂,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 電競天堂,http://cfss.cc/ds/bst.php?id=Cf-67
 Astro Supersport,http://198.16.100.90:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
@@ -1894,9 +1913,6 @@ ESPN 3,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28844.ts
 ESPN U,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/25417.ts
 ESPN U,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/34947.ts
 ESPN U,http://moontools.me:8080/live/Lupe001/yQxKLr3DAz4w/28835.ts
-智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-新視覺,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
-新視覺,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
@@ -1933,6 +1949,7 @@ WWE摔角,http://50.7.238.98:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032
 WWE摔角,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
 🗽人文幼兒,#genre#
+央視記錄,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,http://cntv.sbs/live/?id=cctv9
 央視記錄,http://php.cubs88.eu.org/cqyx.php?id=cctv9HD
 央視記錄,http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3$ITV
@@ -1940,6 +1957,7 @@ WWE摔角,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA923390329233903
 央視記錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 央視記錄,http://cfss.cc/ds/bst.php?id=Cf-10
 央視記錄,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=
+央視科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 央視科教,http://cntv.sbs/live/?id=cctv10
 央視科教,http://php.cubs88.eu.org/cqyx.php?id=cctv10HD
 央視科教,http://39.134.136.161:6610/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3$ITV
@@ -1957,17 +1975,22 @@ WWE摔角,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA923390329233903
 求索科學,http://39.134.136.161:6610/000000001000/2000000004000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=3$ITV
 求索動物,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 求索動物,http://39.134.136.161:6610/000000001000/2000000004000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3$ITV
+金鷹紀實,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 金鷹紀實,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 金鷹紀實,http://cfss.cc/ds/bst.php?id=Cf-48
+上海紀實,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 上海紀實,http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
 上海紀實,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 上海紀實,http://cfss.cc/ds/bst.php?id=Cf-52
 北京紀實,http://php.cubs88.eu.org/cqyx.php?id=bjayjsSD
 北京紀實,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
+全紀實,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
 全紀實,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 全紀實,http://cfss.cc/ds/bst.php?id=Cf-58
+紀實科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
 紀實科教,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 紀實科教,http://cfss.cc/ds/bst.php?id=Cf-78
+看天下精選,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
 看天下精選,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 看天下精選,http://cfss.cc/ds/bst.php?id=Cf-88
 BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
@@ -2065,6 +2088,7 @@ astro小太陽,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B70403
 astro小太陽,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 astro小太陽,http://50.7.238.98:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 astro小太陽,http://50.7.238.98:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+央視少兒,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 央視少兒,http://cntv.sbs/live/?id=cctv14
 央視少兒,http://php.cubs88.eu.org/cqyx.php?id=cctvseHD
 央視少兒,http://39.134.136.161:6610/000000001000/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3$ITV
@@ -2094,17 +2118,21 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天卡通,http://50.7.238.98:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+青春動漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
 青春動漫,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 青春動漫,http://cfss.cc/ds/bst.php?id=Cf-68
+動漫秀場,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
 動漫秀場,http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
 動漫秀場,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
 動漫秀場,http://php.cubs88.eu.org/cqyx.php?id=dmxcHD
 動漫秀場,http://cfss.cc/ds/bst.php?id=Cf-84
+哈哈炫動,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
 哈哈炫動,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
 哈哈炫動,http://cfss.cc/ds/bst.php?id=Cf-81
 北京IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 北京IPTV淘Baby,http://www.dyc.com.cn:8002/rtp/239.3.1.238:8001
 北京IPTV淘Baby,http://222.129.37.206:8888/rtp/239.3.1.238:8001
+卡酷少兒,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 卡酷少兒,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 卡酷少兒,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
 卡酷少兒,http://cfss.cc/ds/bst.php?id=Cf-77
@@ -2121,6 +2149,7 @@ Baby TV,http://50.7.238.98:8278/babytv_twn/playlist.m3u8?tid=MB3B782765017827650
 Baby TV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 Baby TV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
 Baby TV,http://218.32.47.179:18514/.m3u8
+寶寶動畫,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 寶寶動畫,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 寶寶動畫,http://cfss.cc/ds/bst.php?id=Cf-69
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
