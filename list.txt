@@ -1,4 +1,6 @@
+
 🌎新聞頻道,#genre#
+HISTORY,http://185.243.7.13:80/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941661
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
