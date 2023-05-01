@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -995,6 +996,7 @@ EYETV旅遊,http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF50666
 EYETV旅遊,http://50.7.238.98:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 EYETV旅遊,http://50.7.238.98:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+央視音樂,http://cntv.sbs/live/?id=cctv15
 央視音樂,http://php.cubs88.eu.org/cqyx.php?id=cctv15HD
 央視音樂,http://39.134.136.161:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3$ITV
 央視音樂,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
@@ -1025,12 +1027,14 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 八度空間,http://50.7.238.98:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 八度空間,http://23.237.10.66:16406
 央視電視指南,http://111.20.40.166/PLTV/88888893/224/3221226987/index.m3u8
+央視綜合,http://cntv.sbs/live/?id=cctv1
 央視綜合,http://php.cubs88.eu.org/cqyx.php?id=cctv1HD
 央視綜合,http://39.134.136.161:6610/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3$ITV
 央視綜合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 央視綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 央視綜合,http://cfss.cc/ds/bst.php?id=Cf-1
 央視綜合,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
+央視綜藝,http://cntv.sbs/live/?id=cctv3
 央視綜藝,http://php.cubs88.eu.org/cqyx.php?id=cctv3HD
 央視綜藝,http://39.134.136.161:6610/000000001000/1000000001000013682/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3$ITV
 央視綜藝,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
@@ -1050,6 +1054,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 北京IPTV萌寵TV,http://www.dyc.com.cn:8002/rtp/239.3.1.102:8001
 北京IPTV萌寵TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
 北京IPTV萌寵TV,http://222.128.98.255:4000/rtp/239.3.1.102:8001
+央視軍事國防,http://cntv.sbs/live/?id=cctv7
 央視軍事國防,http://php.cubs88.eu.org/cqyx.php?id=cctv7HD
 央視軍事國防,http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3$ITV
 央視軍事國防,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
@@ -1059,12 +1064,14 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 央視兵器科技,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
 央視兵器科技,http://php.cubs88.eu.org/cqyx.php?id=bqkjHD
 央視兵器科技,http://111.20.40.166/PLTV/88888893/224/3221226975/index.m3u8
+央視農業農村,http://cntv.sbs/live/?id=cctv17
 央視農業農村,http://php.cubs88.eu.org/cqyx.php?id=cctv17HD
 央視農業農村,http://39.134.136.161:6610/000000001000/1000000006000268004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3$ITV
 央視農業農村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 央視農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 央視農業農村,http://cfss.cc/ds/bst.php?id=Cf-18
 央視農業農村,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?ProgramID=&encrypt=
+央視電視劇,http://cntv.sbs/live/?id=cctv8
 央視電視劇,http://php.cubs88.eu.org/cqyx.php?id=cctv8HD
 央視電視劇,http://39.134.136.161:6610/000000001000/6000000001000001070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3$ITV
 央視電視劇,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
@@ -1106,6 +1113,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 北京影視,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
 北京影視,http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000
 北京影視,http://222.128.98.255:4000/rtp/239.3.1.158:8000
+央視戲曲,http://cntv.sbs/live/?id=cctv11
 央視戲曲,http://php.cubs88.eu.org/cqyx.php?id=cctv11HD
 央視戲曲,http://39.134.136.161:6610/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3$ITV
 央視戲曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
@@ -1118,6 +1126,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 北京文藝,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
 北京文藝,http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
 北京文藝,http://222.128.98.255:4000/rtp/239.3.1.242:8000
+央視社會與法,http://cntv.sbs/live/?id=cctv12
 央視社會與法,http://php.cubs88.eu.org/cqyx.php?id=cctv12HD
 央視社會與法,http://39.134.136.161:6610/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3$ITV
 央視社會與法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
@@ -1515,6 +1524,7 @@ CINEMAX,http://50.7.238.98:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 CINEMAX,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 CINEMAX,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659.m3u8
 CINEMAX,http://218.32.47.179:18559/.m3u8
+央視電影,http://cntv.sbs/live/?id=cctv6
 央視電影,http://php.cubs88.eu.org/cqyx.php?id=cctv6HD
 央視電影,http://39.134.136.161:6610/000000001000/6000000001000004574/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3$ITV
 央視電影,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
@@ -1679,6 +1689,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 ⚽體育頻道,#genre#
+央視體育,http://cntv.sbs/live/?id=cctv5
 央視體育,http://php.cubs88.eu.org/cqyx.php?id=cctv5HD
 央視體育,http://39.134.136.161:6610/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3$ITV
 央視體育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
@@ -1687,6 +1698,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 央視體育,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?ProgramID=&encrypt=
 央視體育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?blog.ntnas.top
 央視體育,http://23.237.10.66:16007
+央視體育賽事,http://cntv.sbs/live/?id=cctv5p
 央視體育賽事,http://php.cubs88.eu.org/cqyx.php?id=cctv5SportHD
 央視體育賽事,http://39.134.136.161:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3$ITV
 央視體育賽事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
@@ -1694,6 +1706,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc0179
 央視體育賽事,http://cfss.cc/ds/bst.php?id=Cf-6
 央視體育賽事,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
 央視體育賽事,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+央視奧林匹克,http://cntv.sbs/live/?id=cctv164k
 央視奧林匹克,http://php.cubs88.eu.org/cqyx.php?id=cctv16HD
 央視奧林匹克,http://39.134.136.161:6610/000000001000/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$ITV
 央視奧林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
@@ -1888,12 +1901,14 @@ WWE摔角,http://50.7.238.98:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032
 WWE摔角,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
 🗽人文幼兒,#genre#
+央視記錄,http://cntv.sbs/live/?id=cctv9
 央視記錄,http://php.cubs88.eu.org/cqyx.php?id=cctv9HD
 央視記錄,http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3$ITV
 央視記錄,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 央視記錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 央視記錄,http://cfss.cc/ds/bst.php?id=Cf-10
 央視記錄,http://39.136.173.106/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=
+央視科教,http://cntv.sbs/live/?id=cctv10
 央視科教,http://php.cubs88.eu.org/cqyx.php?id=cctv10HD
 央視科教,http://39.134.136.161:6610/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3$ITV
 央視科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
@@ -2018,6 +2033,7 @@ astro小太陽,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B70403
 astro小太陽,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 astro小太陽,http://50.7.238.98:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 astro小太陽,http://50.7.238.98:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+央視少兒,http://cntv.sbs/live/?id=cctv14
 央視少兒,http://php.cubs88.eu.org/cqyx.php?id=cctvseHD
 央視少兒,http://39.134.136.161:6610/000000001000/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3$ITV
 央視少兒,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
