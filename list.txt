@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -191,12 +192,14 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 北京財經,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
 北京財經,http://router.tonyliangli.cn:4022/udp/239.3.1.116:8000
 北京財經,http://222.128.98.255:4000/rtp/239.3.1.116:8000
-香港開電視資訊台,https://cdn.hklive.tv/xxxx/78/index.m3u8
 香港開電視資訊台,http://2022.stream-link.org/live/1288486992
+香港開電視資訊台,https://cdn.hklive.tv/xxxx/78/index.m3u8
+香港無線新聞台,http://2022.stream-link.org/live/1511624341
 香港無線新聞台,http://php.cubs88.eu.org/TVB.php?id=0&hq
 香港無線新聞台,https://tvp22.sky4k.top/index1.php
-香港無線新聞台,http://2022.stream-link.org/live/1511624341
 香港無線新聞台,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+香港無線財經體育資訊台,http://120.84.96.87:808/hls/86/index.m3u8
+香港無線財經體育資訊台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 香港無線財經體育資訊台,http://php.cubs88.eu.org/TVB.php?id=2&hq
 香港無線財經體育資訊台,https://tvp22.sky4k.top/index2.php
 香港有線新聞台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -210,7 +213,6 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 香港有線財經資訊,https://api.leonardpark.dev/live/icable/108
 香港有線財經資訊,http://2022.stream-link.org/live/470396193
 香港有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
-香港now新聞台,https://cdn.hklive.tv/xxxx/332/index.m3u8
 鳳凰資訊台,http://218.32.47.179:8576/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
