@@ -161,7 +161,7 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 寰宇國際新聞,https://git.io/JgkpO
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-非凡新聞,http://220.134.196.147:8506/http/116.50.42.18:8088/hls/75/817/ch57.m3u8
+非凡新聞,http://220.134.196.147:8539/http/116.50.42.18:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://123.51.230.124:8536//http/116.50.42.18:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
