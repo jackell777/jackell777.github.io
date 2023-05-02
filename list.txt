@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -149,11 +150,11 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 鏡電視新聞台,http://you.cubs88.eu.org/youtube/5n0y6b0Q25o
 鏡電視新聞台,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡電視新聞台,https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-寰宇台灣新聞,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch21.m3u8
+寰宇台灣新聞,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch27.m3u8
 寰宇台灣新聞,http://220.134.196.147:8520/http/116.50.42.18:8088/hls/76/818/ch62.m3u8
 寰宇台灣新聞,http://61.221.81.93:8513/hls/65/807/ch843.m3u8
 寰宇台灣新聞,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/76/818/ch62.m3u8?token=
-寰宇國際新聞,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch27.m3u8
+寰宇國際新聞,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch21.m3u8
 寰宇國際新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇國際新聞,http://you.cubs88.eu.org/youtube/B7Zp3d6xXWw
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
