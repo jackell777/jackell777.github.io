@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -67,8 +68,8 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 三立LIVE,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立LIVE,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch18.m3u8
 三立LIVE,http://you.cubs88.eu.org/youtube/ovmifyxFOho
-年代新聞,http://220.134.196.147:8501/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 年代新聞,http://61.221.81.93:8532/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
+年代新聞,http://220.134.196.147:8532/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 年代新聞,http://123.51.230.124:8536/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/67/809/ch27.m3u8?token=
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
