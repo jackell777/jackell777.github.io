@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -279,6 +280,7 @@ DW德國之聲,https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
 國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台,http://61.58.60.230:9319/live/124.m3u8
+台灣地震監視,http://you.cubs88.eu.org/youtube/Owke6Quk7T0
 
 💥綜合頻道,#genre#
 台視,http://220.134.196.147:8511/http/116.50.42.18:8088/hls/72/814/ch46.m3u8
@@ -318,10 +320,8 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 新玫瑰瞳鈴眼,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 新兵日記,http://you.cubs88.eu.org/youtube/bn7glmBPmIQ
-戲說台灣,http://you.cubs88.eu.org/youtube/0o2SRDVEsoE
-台灣靈異事件,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-台灣靈異事件,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-綜藝玩很大,http://you.cubs88.eu.org/youtube/PpCKwiVHCfY
+包青天,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+包青天,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 沒完沒了,http://you.cubs88.eu.org/youtube/07zCWQ5jCFs
 飢餓遊戲,http://you.cubs88.eu.org/youtube/3xe-R00ijC4
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
@@ -992,7 +992,6 @@ momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 viva購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-台灣地震監視,http://you.cubs88.eu.org/youtube/Owke6Quk7T0
 
 🚀電影頻道,#genre#
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
