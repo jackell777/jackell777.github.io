@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -875,9 +876,9 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 香港佛陀,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-人間衛視,http://220.134.196.147:8506/http/116.50.42.18:8088/hls/69/811/ch36.m3u8
 人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 人間衛視,http://211.23.114.106:8504/http/116.50.42.18:8088/hls/69/811/ch36.m3u8?token=
+人間衛視,http://220.134.196.147:8506/http/116.50.42.18:8088/hls/69/811/ch36.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://60.251.33.252:18561/.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
