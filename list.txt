@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -227,14 +228,14 @@ TVBS財經,http://2023.stream-link.org/live/1767909787
 香港有線財經資訊,https://api.leonardpark.dev/live/icable/108
 香港有線財經資訊,http://2022.stream-link.org/live/470396193
 香港有線財經資訊,http://livetv.dnsfor.me:80/channel.6.m3u8
-鳳凰資訊台,http://218.32.47.179:8576/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+鳳凰資訊台,http://you.cubs88.eu.org/youtube/dmDg7NfUoSw
 鳳凰資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊台,http://tvmvip110.club/fengh.php?id=1
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 鳳凰資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+鳳凰中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 鳳凰中文台,http://218.32.47.179:8577/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 鳳凰中文台,http://2022.stream-link.org/live/58079722
-鳳凰中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 鳳凰中文台,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 鳳凰中文台,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 鳳凰中文台,http://50.7.238.98:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
