@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -260,6 +261,7 @@ BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E941178
 BBC World News,http://50.7.238.98:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 Sky News,https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 Sky News,https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+歐洲新聞,http://you.cubs88.eu.org/youtube/pykpO5kQJ98
 歐洲新聞,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 歐洲新聞,https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
@@ -1009,6 +1011,8 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 知否知否應是綠肥紅瘦,http://you.cubs88.eu.org/youtube/iZxJDOqg_E0
 公主小妹,http://you.cubs88.eu.org/youtube/lz7WqYKTpo4
 以家人之名,http://you.cubs88.eu.org/youtube/0dchv4MPOWA
+沉睡花園,http://you.cubs88.eu.org/youtube/OGhK-uOmYPU
+蜀山戰紀之劍俠傳奇,http://you.cubs88.eu.org/youtube/RppmIUPdXz4
 
 🚀電影頻道,#genre#
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
@@ -1391,6 +1395,7 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 緯來體育台,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育台,http://50.7.238.98:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育台,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+Kozoom撞球頻道,http://you.cubs88.eu.org/youtube/CmhjLcmxk2k
 ELEVEN SPORTS 1,http://220.134.196.147:8503/http/116.50.42.18:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 1,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
