@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1703,6 +1704,7 @@ Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc659
 亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 momo親子台,http://220.134.196.147:8517/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
 momo親子台,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=
+momo這一家,http://you.cubs88.eu.org/youtube/sP_1EGhQz8g
 東森幼幼台,http://220.134.196.147:8525/http/116.50.42.18:8088/hls/63/805/ch09.m3u8
 東森幼幼台,http://61.221.81.93:8525/hls/65/807/ch843.m3u8
 東森幼幼台,http://211.23.114.106:8505/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=
