@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1012,6 +1013,20 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 以家人之名,http://you.cubs88.eu.org/youtube/0dchv4MPOWA
 沉睡花園,http://you.cubs88.eu.org/youtube/OGhK-uOmYPU
 蜀山戰紀之劍俠傳奇,http://you.cubs88.eu.org/youtube/RppmIUPdXz4
+鬥魚電視劇01,http://epg.112114.xyz/douyu/2838296
+鬥魚電視劇02,http://epg.112114.xyz/douyu/431460
+鬥魚電視劇03,http://epg.112114.xyz/douyu/7517784
+鬥魚電視劇04,http://epg.112114.xyz/douyu/7489563
+鬥魚電視劇05,http://epg.112114.xyz/douyu/6566658
+鬥魚電視劇06,http://epg.112114.xyz/douyu/431460
+鬥魚電視劇07,http://epg.112114.xyz/douyu/8600645
+鬥魚電視劇08,http://epg.112114.xyz/douyu/7575350
+鬥魚電視劇09,http://epg.112114.xyz/douyu/7644931
+鬥魚電視劇10,http://epg.112114.xyz/douyu/9650860
+鬥魚電視劇11,http://epg.112114.xyz/douyu/9435180
+鬥魚電視劇12,http://epg.112114.xyz/douyu/3756989
+鬥魚電視劇13,http://epg.112114.xyz/douyu/6706214
+鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 🚀電影頻道,#genre#
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
@@ -1334,21 +1349,6 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 鬥魚電影44,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 鬥魚電影45,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 鬥魚電影46,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7_2000.flv?wsAuth=04a634b362e78e56af2bddde662c48c2&token=cpn-androidmpro-0-3637726-a97a3241d761383449992d5fe9f8adeb51c664499750bb31&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
-
-鬥魚電視劇01,http://epg.112114.xyz/douyu/2838296
-鬥魚電視劇02,http://epg.112114.xyz/douyu/431460
-鬥魚電視劇03,http://epg.112114.xyz/douyu/7517784
-鬥魚電視劇04,http://epg.112114.xyz/douyu/7489563
-鬥魚電視劇05,http://epg.112114.xyz/douyu/6566658
-鬥魚電視劇06,http://epg.112114.xyz/douyu/431460
-鬥魚電視劇07,http://epg.112114.xyz/douyu/8600645
-鬥魚電視劇08,http://epg.112114.xyz/douyu/7575350
-鬥魚電視劇09,http://epg.112114.xyz/douyu/7644931
-鬥魚電視劇10,http://epg.112114.xyz/douyu/9650860
-鬥魚電視劇11,http://epg.112114.xyz/douyu/9435180
-鬥魚電視劇12,http://epg.112114.xyz/douyu/3756989
-鬥魚電視劇13,http://epg.112114.xyz/douyu/6706214
-鬥魚電視劇14,http://epg.112114.xyz/douyu/6478650
 
 ⚽體育頻道,#genre#
 央視體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
