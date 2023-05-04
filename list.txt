@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -315,16 +316,12 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 華視,http://50.7.238.98:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 萬秀豬王,http://you.cubs88.eu.org/youtube/ADDSmXoPDY8
-藍色水玲瓏,http://you.cubs88.eu.org/youtube/298QROP4xe0
-新玫瑰瞳鈴眼,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
-新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-新兵日記,http://you.cubs88.eu.org/youtube/bn7glmBPmIQ
-包青天,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-包青天,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 沒完沒了,http://you.cubs88.eu.org/youtube/07zCWQ5jCFs
 飢餓遊戲,http://you.cubs88.eu.org/youtube/3xe-R00ijC4
+綜藝大集合,http://you.cubs88.eu.org/youtube/-umMre7uZ90
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+天才衝衝衝,http://you.cubs88.eu.org/youtube/KgMhHfMG0p8
 東森懷舊綜藝,http://you.cubs88.eu.org/youtube/cX59LXU3rUU
 歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 乘風破浪的姐姐,http://you.cubs88.eu.org/youtube/GJiqR79ZU6E
@@ -817,7 +814,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8?blog.ntnas.top
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-台灣人文台,https://epg.pw/stream/0d8359e4d5fc9bfd9758f30ddc843513cf675459c7d3c7243445e5c46eff4e42.ctv
+中部人文台,https://epg.pw/stream/0d8359e4d5fc9bfd9758f30ddc843513cf675459c7d3c7243445e5c46eff4e42.ctv
 第一名電視台,http://you.cubs88.eu.org/youtube/KLIVRxVzBO4
 桐瑛虎尾電視台,http://you.cubs88.eu.org/youtube/xzGhI0K8edM
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
@@ -996,6 +993,23 @@ momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 viva購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+
+💟追劇頻道,#genre#
+藍色水玲瓏,http://you.cubs88.eu.org/youtube/298QROP4xe0
+新玫瑰瞳鈴眼,http://you.cubs88.eu.org/youtube/1kzVPwTeKds
+新兵日記,http://you.cubs88.eu.org/youtube/bn7glmBPmIQ
+包青天,http://you.cubs88.eu.org/youtube/1kipRhTZIO8
+琅琊榜,http://you.cubs88.eu.org/youtube/_MOhQbKegXs
+犀利人妻,http://you.cubs88.eu.org/youtube/HRwAMooYM3w
+長歌行,http://you.cubs88.eu.org/youtube/I7yYOp7Tqdw
+風中奇緣,http://you.cubs88.eu.org/youtube/6st08Em5RbM
+將軍在上,http://you.cubs88.eu.org/youtube/iOxw4bgNxa4
+馭鮫記,http://you.cubs88.eu.org/youtube/yh3ZLBl7kt0
+我的寶貝四千金,http://you.cubs88.eu.org/youtube/HbT8JZ3-Vzg
+我和我們在一起,http://you.cubs88.eu.org/youtube/8v-FAXUqHVw
+知否知否應是綠肥紅瘦,http://you.cubs88.eu.org/youtube/iZxJDOqg_E0
+公主小妹,http://you.cubs88.eu.org/youtube/lz7WqYKTpo4
+以家人之名,http://you.cubs88.eu.org/youtube/0dchv4MPOWA
 
 🚀電影頻道,#genre#
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
@@ -1656,6 +1670,7 @@ Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc659
 國家地理頻道,http://50.7.238.98:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理頻道,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 國家地理頻道,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+國家地理野生頻道,http://you.cubs88.eu.org/youtube/6zGV59Ldp3s
 國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
