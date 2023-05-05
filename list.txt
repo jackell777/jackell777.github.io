@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1798,9 +1799,11 @@ Baby TV,http://218.32.47.179:18514/.m3u8
 寶寶動畫,http://cfss.cc/ds/bst.php?id=Cf-69
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
-進擊的巨人,https://www.youtube.com/watch?v=naT_bsmkJ8U
-鑽石王牌,https://www.youtube.com/watch?v=K0Uro9ZKFhk
+我們這一家,http://you.cubs88.eu.org/youtube/UK81GCw1KE8
+進擊的巨人,http://you.cubs88.eu.org/youtube/naT_bsmkJ8U
+鑽石王牌,http://you.cubs88.eu.org/youtube/K0Uro9ZKFhk
+東京復仇者,http://you.cubs88.eu.org/youtube/lSA_K7ltTm4
+中華一番,http://you.cubs88.eu.org/youtube/2FJcu6qsM2k
 蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
 海賊王動畫,http://epg.112114.xyz/douyu/997925
