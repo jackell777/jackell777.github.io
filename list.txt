@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -862,6 +863,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 華藏衛視,http://you.cubs88.eu.org/youtube/YzpByfRMKqM
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+正德電視台,http://you.cubs88.eu.org/youtube/CHDb5D0DCkw
 正德電視台,http://220.134.196.147:8505/http/116.50.42.18:8081/hls/64/806/ch16.m3u8
 正德電視台,http://211.23.114.106:8505/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -1012,6 +1014,7 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 以家人之名,http://you.cubs88.eu.org/youtube/0dchv4MPOWA
 沉睡花園,http://you.cubs88.eu.org/youtube/OGhK-uOmYPU
 蜀山戰紀之劍俠傳奇,http://you.cubs88.eu.org/youtube/RppmIUPdXz4
+光芒,http://you.cubs88.eu.org/youtube/Ul9z5eUphFY
 鬥魚電視劇01,http://epg.112114.xyz/douyu/2838296
 鬥魚電視劇02,http://epg.112114.xyz/douyu/431460
 鬥魚電視劇03,http://epg.112114.xyz/douyu/7517784
