@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -284,6 +285,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台,http://61.58.60.230:9319/live/124.m3u8
 台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
+原民台,https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273
 
 💥綜合頻道,#genre#
 台視,http://220.134.196.147:8511/http/116.50.42.18:8088/hls/72/814/ch46.m3u8
