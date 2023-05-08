@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -679,6 +680,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 八度空間,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 八度空間,http://50.7.238.98:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 八度空間,http://23.237.10.66:16406
+央視電視指南,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 央視電視指南,http://111.20.40.166/PLTV/88888893/224/3221226987/index.m3u8
 央視綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 央視綜合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
