@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -18,7 +19,7 @@
 中視新聞台,http://50.7.238.98:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中視新聞台,http://50.7.238.98:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-華視新聞資訊台,http://you.cubs88.eu.org/youtube/wM0g8EoUZ_E
+華視新聞資訊台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞資訊台,http://2023.stream-link.org/live/924948281
 華視新聞資訊台,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞資訊台,http://stream.dsichannel.com:80/hls/cts-news.m3u8
@@ -260,7 +261,7 @@ BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E941178
 BBC World News,http://50.7.238.98:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 Sky News,https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 Sky News,https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
-歐洲新聞,http://you.cubs88.eu.org/youtube/pykpO5kQJ98
+歐洲新聞,https://www.youtube.com/watch?v=pykpO5kQJ98
 歐洲新聞,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 歐洲新聞,https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
@@ -271,7 +272,7 @@ NHK新聞,http://220.134.196.147:8507/http/116.50.42.18:8081/hls/62/804/ch06.m3u
 NHK新聞,http://123.51.230.124:8571/http/116.50.42.18:8081/hls/62/804/ch06.m3u8
 NHK新聞,http://123.51.230.108:18525/.m3u8
 NHK新聞,http://211.23.114.106:8504/http/116.50.42.18:8081/hls/62/804/ch06.m3u8?token=
-NHK World,http://you.cubs88.eu.org/youtube/f0lYkdA-Gtw
+NHK World,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 DW德國之聲,http://185.236.229.31:9981/play/a068
@@ -280,7 +281,7 @@ DW德國之聲,https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
 國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台,http://61.58.60.230:9319/live/124.m3u8
-台灣地震監視,http://you.cubs88.eu.org/youtube/Owke6Quk7T0
+台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
 
 💥綜合頻道,#genre#
 台視,http://220.134.196.147:8511/http/116.50.42.18:8088/hls/72/814/ch46.m3u8
@@ -315,17 +316,20 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 華視,http://50.7.238.98:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 華視,http://50.7.238.98:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-萬秀豬王,http://you.cubs88.eu.org/youtube/ADDSmXoPDY8
-沒完沒了,http://you.cubs88.eu.org/youtube/07zCWQ5jCFs
-飢餓遊戲,http://you.cubs88.eu.org/youtube/3xe-R00ijC4
-綜藝大集合,http://you.cubs88.eu.org/youtube/-umMre7uZ90
+萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
+沒完沒了,https://www.youtube.com/watch?v=07zCWQ5jCFs
+飢餓遊戲,https://www.youtube.com/watch?v=3xe-R00ijC4
+綜藝大集合,https://www.youtube.com/watch?v=-umMre7uZ90
+天才衝衝衝,https://www.youtube.com/watch?v=KgMhHfMG0p8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-天才衝衝衝,http://you.cubs88.eu.org/youtube/KgMhHfMG0p8
-東森懷舊綜藝,http://you.cubs88.eu.org/youtube/cX59LXU3rUU
+東森懷舊綜藝,https://www.youtube.com/watch?v=cX59LXU3rUU
+歡喜玉玲瓏,https://www.youtube.com/watch?v=r_wsMgFLKys
 歡喜玉玲瓏,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-乘風破浪的姐姐,http://you.cubs88.eu.org/youtube/GJiqR79ZU6E
+乘風破浪的姐姐,https://www.youtube.com/watch?v=GJiqR79ZU6E
+MIT台灣誌,https://www.youtube.com/watch?v=EioaxQiKvyE
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+大陸尋奇,https://www.youtube.com/watch?v=pLxy7SRblyw
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 民視,http://220.134.196.147:8514/http/116.50.42.18:8088/hls/73/815/ch49.m3u8
 民視,rtmp://219.80.97.77/sat/tv051
@@ -358,6 +362,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 民視綜藝台,https://epg.pw/stream/1cd35232eeb45b4031d39ae017db2929de078b936098d2703efc5d0a13bc31e8.ctv
 民視影劇台,https://epg.pw/stream/8580855d028770bfbe226bca3c6a45049700c0b7aad95ba9de485f84ad3d37ef.ctv
 民視旅遊台,https://epg.pw/stream/abe3fa97fc05b0d302d7e8e61997c19d68deb2c35d8b1c5f1868a7de68c138e5.ctv
+公視,https://www.youtube.com/watch?v=4Uc00FPs27M
 公視,http://220.134.196.147:8506/http/116.50.42.18:8088/hls/73/815/ch50.m3u8
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
@@ -366,7 +371,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公視,http://50.7.238.98:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公視,http://218.32.47.179:18505/.m3u8
-公視台語台,http://you.cubs88.eu.org/youtube/6KlRR_DGhmI
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 中天綜合台,http://220.134.196.147:8536/http/116.50.42.18:8081/hls/67/809/ch25.m3u8
 中天綜合台,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天綜合台,http://211.23.114.106:8505/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=
@@ -815,8 +820,8 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 中部人文台,https://epg.pw/stream/0d8359e4d5fc9bfd9758f30ddc843513cf675459c7d3c7243445e5c46eff4e42.ctv
-第一名電視台,http://you.cubs88.eu.org/youtube/KLIVRxVzBO4
-桐瑛虎尾電視台,http://you.cubs88.eu.org/youtube/xzGhI0K8edM
+第一名電視台,https://www.youtube.com/watch?v=KLIVRxVzBO4
+桐瑛虎尾電視台,https://www.youtube.com/watch?v=xzGhI0K8edM
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -859,10 +864,10 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-華藏衛視,http://you.cubs88.eu.org/youtube/YzpByfRMKqM
+華藏衛視,https://www.youtube.com/watch?v=YzpByfRMKqM
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-正德電視台,http://you.cubs88.eu.org/youtube/CHDb5D0DCkw
+正德電視台,https://www.youtube.com/watch?v=CHDb5D0DCkw
 正德電視台,http://220.134.196.147:8505/http/116.50.42.18:8081/hls/64/806/ch16.m3u8
 正德電視台,http://211.23.114.106:8505/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -996,24 +1001,24 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 
 💟追劇頻道,#genre#
-藍色水玲瓏,http://you.cubs88.eu.org/youtube/298QROP4xe0
-新玫瑰瞳鈴眼,http://you.cubs88.eu.org/youtube/1kzVPwTeKds
-新兵日記,http://you.cubs88.eu.org/youtube/bn7glmBPmIQ
-包青天,http://you.cubs88.eu.org/youtube/1kipRhTZIO8
-琅琊榜,http://you.cubs88.eu.org/youtube/_MOhQbKegXs
-犀利人妻,http://you.cubs88.eu.org/youtube/HRwAMooYM3w
-長歌行,http://you.cubs88.eu.org/youtube/I7yYOp7Tqdw
-風中奇緣,http://you.cubs88.eu.org/youtube/6st08Em5RbM
-將軍在上,http://you.cubs88.eu.org/youtube/iOxw4bgNxa4
-馭鮫記,http://you.cubs88.eu.org/youtube/yh3ZLBl7kt0
-我的寶貝四千金,http://you.cubs88.eu.org/youtube/HbT8JZ3-Vzg
-我和我們在一起,http://you.cubs88.eu.org/youtube/8v-FAXUqHVw
-知否知否應是綠肥紅瘦,http://you.cubs88.eu.org/youtube/iZxJDOqg_E0
-公主小妹,http://you.cubs88.eu.org/youtube/lz7WqYKTpo4
-以家人之名,http://you.cubs88.eu.org/youtube/0dchv4MPOWA
-沉睡花園,http://you.cubs88.eu.org/youtube/OGhK-uOmYPU
-蜀山戰紀之劍俠傳奇,http://you.cubs88.eu.org/youtube/RppmIUPdXz4
-光芒,http://you.cubs88.eu.org/youtube/Ul9z5eUphFY
+藍色水玲瓏,https://www.youtube.com/watch?v=298QROP4xe0
+新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=1kzVPwTeKds
+新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
+包青天,https://www.youtube.com/watch?v=1kipRhTZIO8
+琅琊榜,https://www.youtube.com/watch?v=_MOhQbKegXs
+犀利人妻,https://www.youtube.com/watch?v=HRwAMooYM3w
+長歌行,https://www.youtube.com/watch?v=I7yYOp7Tqdw
+風中奇緣,https://www.youtube.com/watch?v=6st08Em5RbM
+將軍在上,https://www.youtube.com/watch?v=iOxw4bgNxa4
+馭鮫記,https://www.youtube.com/watch?v=yh3ZLBl7kt0
+我的寶貝四千金,https://www.youtube.com/watch?v=HbT8JZ3-Vzg
+我和我們在一起,https://www.youtube.com/watch?v=8v-FAXUqHVw
+知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=iZxJDOqg_E0
+公主小妹,https://www.youtube.com/watch?v=lz7WqYKTpo4
+以家人之名,https://www.youtube.com/watch?v=0dchv4MPOWA
+沉睡花園,https://www.youtube.com/watch?v=OGhK-uOmYPU
+蜀山戰紀之劍俠傳奇,https://www.youtube.com/watch?v=RppmIUPdXz4
+光芒,https://www.youtube.com/watch?v=Ul9z5eUphFY
 鬥魚電視劇01,http://epg.112114.xyz/douyu/2838296
 鬥魚電視劇02,http://epg.112114.xyz/douyu/431460
 鬥魚電視劇03,http://epg.112114.xyz/douyu/7517784
@@ -1413,7 +1418,7 @@ CHC高清電影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 緯來體育台,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育台,http://50.7.238.98:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育台,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-Kozoom撞球頻道,http://you.cubs88.eu.org/youtube/CmhjLcmxk2k
+Kozoom撞球頻道,https://www.youtube.com/watch?v=CmhjLcmxk2k
 ELEVEN SPORTS 1,http://220.134.196.147:8503/http/116.50.42.18:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 1,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
@@ -1694,7 +1699,7 @@ Discovery科學,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc659
 國家地理頻道,http://50.7.238.98:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理頻道,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 國家地理頻道,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-國家地理野生頻道(英語),http://you.cubs88.eu.org/youtube/6zGV59Ldp3s
+國家地理野生頻道(英語),https://www.youtube.com/watch?v=6zGV59Ldp3s
 國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
@@ -1806,11 +1811,11 @@ Baby TV,http://218.32.47.179:18514/.m3u8
 寶寶動畫,http://cfss.cc/ds/bst.php?id=Cf-69
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 迪士尼動畫,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-我們這一家,http://you.cubs88.eu.org/youtube/UK81GCw1KE8
-進擊的巨人,http://you.cubs88.eu.org/youtube/naT_bsmkJ8U
-鑽石王牌,http://you.cubs88.eu.org/youtube/K0Uro9ZKFhk
-東京復仇者,http://you.cubs88.eu.org/youtube/lSA_K7ltTm4
-中華一番,http://you.cubs88.eu.org/youtube/2FJcu6qsM2k
+我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
+進擊的巨人,https://www.youtube.com/watch?v=naT_bsmkJ8U
+鑽石王牌,https://www.youtube.com/watch?v=K0Uro9ZKFhk
+東京復仇者,https://www.youtube.com/watch?v=lSA_K7ltTm4
+中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 蠟筆小新劇場版,http://zzy789.xyz/bili.php?id=22693306
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
 海賊王動畫,http://epg.112114.xyz/douyu/997925
