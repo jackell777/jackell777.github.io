@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1011,6 +1012,8 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=1kzVPwTeKds
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 台灣靈異事件,https://www.youtube.com/watch?v=B29Lwi_W5ec
+流浪地球2(4K),https://www.youtube.com/watch?v=7_0nceLqFeY
+八卦陰陽師,https://www.youtube.com/watch?v=SP6-PRWKvyE
 桃花小妹,https://www.youtube.com/watch?v=D9NBJl2MQ80
 流星蝴蝶劍,https://www.youtube.com/watch?v=-uxtW9VB4cA
 琅琊榜,https://www.youtube.com/watch?v=_MOhQbKegXs
@@ -1052,8 +1055,6 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 鬥魚電視劇22,http://epg.112114.xyz/douyu/7459925
 
 🚀電影頻道,#genre#
-流浪地球2(4K),https://www.youtube.com/watch?v=7_0nceLqFeY
-八卦陰陽師,https://www.youtube.com/watch?v=SP6-PRWKvyE
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
