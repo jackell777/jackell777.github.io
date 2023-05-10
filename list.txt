@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -322,7 +323,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 掌聲響起,https://www.youtube.com/watch?v=EVATvtQHjyg
 沒完沒了,https://www.youtube.com/watch?v=07zCWQ5jCFs
 飢餓遊戲,https://www.youtube.com/watch?v=3xe-R00ijC4
-綜藝大集合,https://www.youtube.com/watch?v=-umMre7uZ90
+我愛冰冰Show,https://www.youtube.com/watch?v=RsiJlzZPxjQ
 天才衝衝衝,https://www.youtube.com/watch?v=KgMhHfMG0p8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
