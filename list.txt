@@ -1,3 +1,4 @@
+
 🌎新聞頻道,#genre#
 台視新聞台,https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1580,6 +1581,7 @@ J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 MLB Network,http://trx.p13.one:80/Dino05trdsz/AHDZnwUEfr/1803507
 MLB Network,http://ipch.xyz:2082/dsnrrcn/87djD6Sk7hWOy7d/28476
+百視NBA,https://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1683853409-b1ae7bbb00a445d6918ce403f9fee68f-0-3ca5f02c96d74c1c6a97e85983aa82e3
 NBA TV,http://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1683478805-d168a0d78d6d45da8bc2f09e38db41f3-0-cd32c675c6cce6a6a4cb1072bfd616c0
 NBA TV,http://143.244.60.97/NBATV/index.m3u8
 NBA TV,http://ipch.xyz:2082/dsnrrcn/87djD6Sk7hWOy7d/224033
